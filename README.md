@@ -1,29 +1,17 @@
-# Portland City Council Meeting Monitor
-
-Automated pipeline that watches Portland City Council YouTube broadcasts, transcribes them with speaker identification, and produces structured summaries flagged for topics relevant to real estate development, climate policy, and economic development.
-
-## How It Works
-
-1. **GitHub Actions** checks the [eGov PDX YouTube channel](https://youtube.com/@egovpdx8714) every Wednesday and Thursday evening for new council meeting recordings
-2. **yt-dlp** downloads the audio
-3. **AssemblyAI** transcribes with speaker diarization and auto-chaptering
-4. **Claude** produces a structured summary with topic flags and relevance scoring
-5. **Google Drive** receives the finished summary as a Markdown file
-
-## Summary Structure
-
-Each summary includes:
-- Executive summary of the meeting
-- Key votes and official actions
-- Topic flags (housing, SDCs, climate, zoning, etc.) with timestamps
-- Public testimony highlights
-- Upcoming items and deadlines
-- Oakleaf Relevance Score (1–5)
-
-## Manual Trigger
-
-To process a specific video, go to **Actions → Council Meeting Monitor → Run workflow** and paste the YouTube URL.
-
-## Costs
-
-~$0.50–1.50 per meeting (AssemblyAI free tier + Claude API usage).
+Portland City Council Meeting Monitor
+Automated pipeline that transcribes Portland City Council meetings with speaker identification and produces structured summaries flagged for real estate, climate, and economic development topics.
+Architecture
+Your Windows PC (scheduled task)         GitHub Actions (triggered automatically)
+────────────────────────────────         ──────────────────────────────────────
+1. Check for new meetings (YT API)
+2. Download audio (yt-dlp)
+3. Transcribe (AssemblyAI)
+4. Send transcript ─────────────────────> 5. Summarize (Claude)
+                                          6. Upload to Google Drive
+Editing Topics & Summary Format
+To change which topics are flagged: Edit config.json in this repo.
+To refine the summary structure: Edit prompt_template.md in this repo. This is the exact prompt sent to Claude — adjust sections, add instructions, change emphasis.
+Fallback
+Trigger the Action manually with a YouTube URL to use YouTube auto-captions (less accurate, no speaker labels).
+Costs
+~$0.50–1.50 per meeting (AssemblyAI free tier + Claude API).
