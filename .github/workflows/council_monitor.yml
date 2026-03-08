@@ -50,8 +50,9 @@ jobs:
 
       - name: Set up YouTube cookies
         run: |
-          echo "${{ secrets.YOUTUBE_COOKIES }}" > cookies.txt
-        shell: bash
+          echo "$YOUTUBE_COOKIES_B64" | base64 -d > cookies.txt
+        env:
+          YOUTUBE_COOKIES_B64: ${{ secrets.YOUTUBE_COOKIES_B64 }}
 
       - name: Run pipeline
         env:
