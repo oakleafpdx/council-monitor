@@ -1,14 +1,10 @@
 name: Council Meeting Monitor
 
 on:
-  # Run automatically every Wednesday and Thursday evening (Pacific Time)
-  # Council meets Wed 9:30am PT; recordings usually post same day or next day
-  # Cron is in UTC: 4am UTC Thursday = 8pm PT Wednesday, 4am UTC Friday = 8pm PT Thursday
   schedule:
-    - cron: '0 4 * * 4'   # Thursday 4am UTC = Wednesday 8pm PT
-    - cron: '0 4 * * 5'   # Friday 4am UTC = Thursday 8pm PT
+    - cron: '0 4 * * 4'
+    - cron: '0 4 * * 5'
 
-  # Allow manual trigger from GitHub UI
   workflow_dispatch:
     inputs:
       video_url:
@@ -40,7 +36,6 @@ jobs:
           pip install -r requirements.txt
 
       - name: Restore processed videos ledger
-        # Persist the ledger between runs using a branch-based cache
         uses: actions/cache@v4
         with:
           path: processed_videos.json
@@ -51,6 +46,9 @@ jobs:
       - name: Set up YouTube cookies
         run: |
           echo "$YOUTUBE_COOKIES_B64" | base64 -d > cookies.txt
+          echo "Cookie file size: $(wc -c < cookies.txt) bytes"
+          echo "Cookie file lines: $(wc -l < cookies.txt) lines"
+          head -3 cookies.txt
         env:
           YOUTUBE_COOKIES_B64: ${{ secrets.YOUTUBE_COOKIES_B64 }}
 
@@ -72,7 +70,6 @@ jobs:
           fi
 
       - name: Save processed videos ledger
-        # Upload the ledger as an artifact so it persists
         if: always()
         uses: actions/upload-artifact@v4
         with:
