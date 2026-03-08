@@ -1,0 +1,13 @@
+# Local environment
+.env
+__pycache__/
+*.pyc
+
+# Local outputs (these live in Google Drive, not the repo)
+transcripts/
+summaries/
+
+# Google credentials (never commit these)
+credentials.json
+token.json
+*.json.bak
