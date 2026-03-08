@@ -48,6 +48,11 @@ jobs:
           restore-keys: |
             processed-videos-
 
+      - name: Set up YouTube cookies
+        run: |
+          echo "${{ secrets.YOUTUBE_COOKIES }}" > cookies.txt
+        shell: bash
+
       - name: Run pipeline
         env:
           ASSEMBLYAI_API_KEY: ${{ secrets.ASSEMBLYAI_API_KEY }}
@@ -55,6 +60,7 @@ jobs:
           GOOGLE_DRIVE_FOLDER_ID: ${{ secrets.GOOGLE_DRIVE_FOLDER_ID }}
           GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
           YOUTUBE_CHANNEL_ID: UCcPIUh7CWwtBXisMPHWG65g
+          YOUTUBE_COOKIES_PATH: cookies.txt
         run: |
           if [ -n "${{ github.event.inputs.video_url }}" ]; then
             echo "Processing specific video: ${{ github.event.inputs.video_url }}"
