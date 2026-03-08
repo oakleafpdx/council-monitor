@@ -1,21 +1,20 @@
 name: Council Meeting Monitor
 
 on:
-  schedule:
-    - cron: '0 4 * * 4'
-    - cron: '0 4 * * 5'
+  repository_dispatch:
+    types: [transcript-ready]
 
   workflow_dispatch:
     inputs:
       video_url:
-        description: 'YouTube video URL to process (leave blank to check for new videos)'
+        description: 'YouTube video URL (uses captions — for full accuracy, use local script instead)'
         required: false
         type: string
 
 jobs:
-  process-meeting:
+  summarize:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
@@ -26,14 +25,8 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
-
       - name: Install Python dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Restore processed videos ledger
         uses: actions/cache@v4
@@ -43,30 +36,24 @@ jobs:
           restore-keys: |
             processed-videos-
 
-      - name: Set up YouTube cookies
-        run: |
-          echo "$YOUTUBE_COOKIES_B64" | base64 -d > cookies.txt
-          echo "Cookie file size: $(wc -c < cookies.txt) bytes"
-          echo "Cookie file lines: $(wc -l < cookies.txt) lines"
-          head -3 cookies.txt
+      - name: Run summarization
         env:
-          YOUTUBE_COOKIES_B64: ${{ secrets.YOUTUBE_COOKIES_B64 }}
-
-      - name: Run pipeline
-        env:
-          ASSEMBLYAI_API_KEY: ${{ secrets.ASSEMBLYAI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           GOOGLE_DRIVE_FOLDER_ID: ${{ secrets.GOOGLE_DRIVE_FOLDER_ID }}
           GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
-          YOUTUBE_CHANNEL_ID: UCcPIUh7CWwtBXisMPHWG65g
-          YOUTUBE_COOKIES_PATH: cookies.txt
+          EVENT_TYPE: ${{ github.event.action }}
+          TRANSCRIPT_PAYLOAD: ${{ toJson(github.event.client_payload) }}
+          VIDEO_URL: ${{ github.event.inputs.video_url }}
         run: |
-          if [ -n "${{ github.event.inputs.video_url }}" ]; then
-            echo "Processing specific video: ${{ github.event.inputs.video_url }}"
-            python council_meeting_pipeline.py --url "${{ github.event.inputs.video_url }}"
+          if [ "$EVENT_TYPE" = "transcript-ready" ]; then
+            echo "Processing transcript from local script..."
+            python council_meeting_pipeline.py --from-dispatch
+          elif [ -n "$VIDEO_URL" ]; then
+            echo "Processing video with YouTube captions: $VIDEO_URL"
+            python council_meeting_pipeline.py --url "$VIDEO_URL"
           else
-            echo "Checking for new videos..."
-            python council_meeting_pipeline.py --check-new
+            echo "No input provided."
           fi
 
       - name: Save processed videos ledger
