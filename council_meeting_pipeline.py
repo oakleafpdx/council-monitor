@@ -48,6 +48,16 @@ WATCH_TOPICS = [
 CLAUDE_MODEL = "claude-sonnet-4-20250514"
 MAX_TRANSCRIPT_CHARS = 120_000
 
+# Path to YouTube cookies file (set via env var for GitHub Actions)
+COOKIES_PATH = os.environ.get("YOUTUBE_COOKIES_PATH", "")
+
+
+def _cookies_args() -> list[str]:
+    """Return yt-dlp cookies arguments if a cookies file is available."""
+    if COOKIES_PATH and Path(COOKIES_PATH).exists():
+        return ["--cookies", COOKIES_PATH]
+    return []
+
 
 # ---------------------------------------------------------------------------
 # Step 1: YouTube Video Discovery & Audio Download
@@ -57,6 +67,7 @@ def fetch_latest_videos(channel_id: str, max_results: int = 5) -> list[dict]:
     """Use yt-dlp to list recent videos from a channel."""
     cmd = [
         "yt-dlp",
+        *_cookies_args(),
         "--flat-playlist",
         "--playlist-end", str(max_results),
         "--print", "%(id)s|||%(title)s|||%(upload_date)s",
@@ -86,6 +97,7 @@ def download_audio(youtube_url: str, output_dir: str) -> str:
     output_template = os.path.join(output_dir, "%(id)s.%(ext)s")
     cmd = [
         "yt-dlp",
+        *_cookies_args(),
         "-x",
         "--audio-format", "mp3",
         "--audio-quality", "3",
@@ -107,6 +119,7 @@ def get_video_metadata(youtube_url: str) -> dict:
     """Fetch video title and upload date via yt-dlp."""
     cmd = [
         "yt-dlp",
+        *_cookies_args(),
         "--print", "%(title)s|||%(upload_date)s|||%(duration)s|||%(id)s",
         "--no-download",
         youtube_url,
