@@ -198,6 +198,7 @@ def upload_to_drive(service, filename: str, content: str, folder_id: str) -> str
         body={"name": filename, "parents": [folder_id]},
         media_body=media,
         fields="id, webViewLink",
+        supportsAllDrives=True,
     ).execute()
 
     print(f"[INFO] Uploaded to Google Drive: {file.get('webViewLink')}")
