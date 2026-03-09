@@ -286,7 +286,9 @@ def save_and_upload(full_summary: str, video_id: str, date_str: str, metadata: d
             if service:
                 drive_link = upload_to_drive(service, summary_filename, full_summary, drive_folder_id)
         except Exception as e:
+            import traceback
             print(f"[WARN] Drive upload failed: {e}")
+            traceback.print_exc()
 
     mark_processed(video_id, {"title": metadata["title"], "drive_link": drive_link})
     return drive_link
