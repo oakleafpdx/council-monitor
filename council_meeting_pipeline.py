@@ -194,15 +194,28 @@ def upload_to_drive(service, filename: str, content: str, folder_id: str) -> str
     from googleapiclient.http import MediaInMemoryUpload
 
     media = MediaInMemoryUpload(content.encode("utf-8"), mimetype="text/markdown", resumable=True)
-    file = service.files().create(
-        body={"name": filename, "parents": [folder_id]},
-        media_body=media,
-        fields="id, webViewLink",
-        supportsAllDrives=True,
-    ).execute()
-
-    print(f"[INFO] Uploaded to Google Drive: {file.get('webViewLink')}")
-    return file.get("webViewLink", "")
+    
+    # Try creating without a parent folder first (in service account's own Drive)
+    try:
+        file = service.files().create(
+            body={"name": filename},
+            media_body=media,
+            fields="id, webViewLink",
+        ).execute()
+        file_id = file.get("id")
+        print(f"[INFO] Created file: {file_id}")
+        
+        # Share with you
+        service.permissions().create(
+            fileId=file_id,
+            body={"type": "user", "role": "writer", "emailAddress": "robert@oakleaf.dev"},
+        ).execute()
+        
+        print(f"[INFO] Uploaded to Google Drive: {file.get('webViewLink')}")
+        return file.get("webViewLink", "")
+    except Exception as e:
+        print(f"[DEBUG] Upload error details: {e}")
+        raise
 
 
 # ---------------------------------------------------------------------------
