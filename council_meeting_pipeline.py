@@ -277,12 +277,11 @@ def save_and_upload(full_summary: str, video_id: str, date_str: str, metadata: d
     with open(summary_path, "w") as f:
         f.write(full_summary)
     print(f"  Summary saved: {summary_path}")
-
     drive_link = ""
     drive_folder_id = os.environ.get("GOOGLE_DRIVE_FOLDER_ID")
     if drive_folder_id:
         try:
-           print(f"[DEBUG] Building Drive service...")
+            print(f"[DEBUG] Building Drive service...")
             service = get_drive_service()
             print(f"[DEBUG] Service built: {service is not None}")
             if service:
@@ -292,7 +291,6 @@ def save_and_upload(full_summary: str, video_id: str, date_str: str, metadata: d
             import traceback
             print(f"[WARN] Drive upload failed: {e}")
             traceback.print_exc()
-
     mark_processed(video_id, {"title": metadata["title"], "drive_link": drive_link})
     return drive_link
 
