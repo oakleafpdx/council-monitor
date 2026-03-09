@@ -195,26 +195,16 @@ def upload_to_drive(service, filename: str, content: str, folder_id: str) -> str
 
     print(f"[DEBUG] Uploading to folder_id: '{folder_id}'")
     media = MediaInMemoryUpload(content.encode("utf-8"), mimetype="text/markdown", resumable=True)
-    
-    try:
-        file = service.files().create(
-            body={"name": filename},
-            media_body=media,
-            fields="id, webViewLink",
-        ).execute()
-        file_id = file.get("id")
-        print(f"[INFO] Created file: {file_id}")
-        
-        service.permissions().create(
-            fileId=file_id,
-            body={"type": "user", "role": "writer", "emailAddress": "robert@oakleaf.dev"},
-        ).execute()
-        
-        print(f"[INFO] Uploaded to Google Drive: {file.get('webViewLink')}")
-        return file.get("webViewLink", "")
-    except Exception as e:
-        print(f"[DEBUG] Full error: {type(e).__name__}: {e}")
-        raise
+
+    file = service.files().create(
+        body={"name": filename, "parents": [folder_id]},
+        media_body=media,
+        fields="id, webViewLink",
+        supportsAllDrives=True,
+    ).execute()
+
+    print(f"[INFO] Uploaded to Google Drive: {file.get('webViewLink')}")
+    return file.get("webViewLink", "")
 
 
 # ---------------------------------------------------------------------------
