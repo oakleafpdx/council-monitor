@@ -282,8 +282,11 @@ def save_and_upload(full_summary: str, video_id: str, date_str: str, metadata: d
     drive_folder_id = os.environ.get("GOOGLE_DRIVE_FOLDER_ID")
     if drive_folder_id:
         try:
+           print(f"[DEBUG] Building Drive service...")
             service = get_drive_service()
+            print(f"[DEBUG] Service built: {service is not None}")
             if service:
+                print(f"[DEBUG] Folder ID: '{drive_folder_id}'")
                 drive_link = upload_to_drive(service, summary_filename, full_summary, drive_folder_id)
         except Exception as e:
             import traceback
