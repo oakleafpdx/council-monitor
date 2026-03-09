@@ -33,7 +33,7 @@
       "end": 847080
     },
     {
-      "summary": "On the revenue side, we're tracking about $3.5 million below the December forecast for the current year, primarily driven by lower ULF revenues. We'll be updating the March forecast in a few weeks, and that will set the baseline for the mayor's proposed closed.",
+      "summary": "Ruth Levine: On the revenue side, we're tracking about $3.5 million below the December forecast for the current year, primarily driven by lower ULF revenues. We'll be updating the March forecast in a few weeks, and that will set the baseline for the mayor's proposed closed.",
       "headline": "Ruth Levine: We're tracking about $3.5 million below December forecast",
       "gist": "General Fund Budget Update",
       "start": 849960,
@@ -42,7 +42,7 @@
     {
       "summary": "Councilor Green: How much exactly is compensation set aside contributing to this projected deficit? Jonas: In terms of what we need to distribute now in the spring, do we have a number for that?",
       "headline": "Councilor Green: How much compensation set aside contributes to projected deficit",
-      "gist": "Councilor Green on Compensation Set Aside and the Budget",
+      "gist": "Council Question: Compensation Set Aside Contributing to the General Fund",
       "start": 1257060,
       "end": 1492650
     },
@@ -54,16 +54,16 @@
       "end": 1727230
     },
     {
-      "summary": "$2.2 million reflects aggregate total among all council offices, excluding council operations. Defer to your direction about how to direct underspending dollars. Third item is one we talked about in the fall. Citywide obligation reserve Reserve Fund. This might be a good natural pause 'cause that's a lot to digest.",
+      "summary": "$2.2 million reflects aggregate total among all council offices, excluding council operations. Defer to your direction about how to direct underspending dollars. Third item is one we talked about in the fall. Citywide obligation reserve Reserve Fund has a portion in there.",
       "headline": "There have been suggestions to return surplus Housing Investment Fund dollars to general fund",
       "gist": "General Fund Balance Option 1",
       "start": 1727230,
       "end": 1975170
     },
     {
-      "summary": "$3.39 million in underspending. Biggest buckets are $500,000 roughly for graffiti reduction. Who holds the POIC contract that we're talking about? It's now under Ceasefire. Any other questions, colleagues?",
-      "headline": "Anthony Anthony: I have 3 questions regarding underspending in public safety",
-      "gist": "Portland Budget Office: $3.39 Million in underspending",
+      "summary": "$500,000 roughly for graffiti reduction. $334,000 of possible savings there. Video production services connected to PSEP that could be paused. $1.8 million in underspending. Any other questions, colleagues?",
+      "headline": "Anthony: I would love more information about targeted bureau reductions",
+      "gist": "Portland Budget Office: $2.8 in underspending,",
       "start": 1975170,
       "end": 2223530
     },
@@ -75,16 +75,16 @@
       "end": 2459010
     },
     {
-      "summary": "Councilor Kunal: I have at least 6 hours of requested items for the first Committee of the Whole meeting. Councilor Murillo: I appreciate all the folks running meetings and trying to schedule things. So I think we can pause there and turn it over for questions.",
-      "headline": "Councilor Connell: I have at least 6 hours of requested items",
+      "summary": "Councilor Kunal: For transparency, I have at least 6 hours of requested items for the first Committee of the Whole meeting. Councilor Murillo: I appreciate all the folks running meetings and trying to schedule things. So I think we can pause there and turn it over for questions.",
+      "headline": "Councilor Canales says he has at least 6 hours of requested items",
       "gist": "Committee of the Whole Meeting Calendar",
       "start": 2459010,
       "end": 2548890
     },
     {
-      "summary": "A proposal to use police asset forfeiture funds to cover $1.4 million of event overtime. The funds can't be used to supplant existing budget. So it has to be more opportunistic opportunistic when it's the asset forfeiture dollars.",
+      "summary": "A proposal to use police asset forfeiture funds to cover $1.4 million of event overtime. The funds can't be used to supplant existing budget. It has to be more opportunistic opportunistic when it's asset forfeiture dollars.",
       "headline": "There's a proposal to use police asset forfeiture funds to cover event overtime",
-      "gist": "PBB to Use Police Asset forfeiture Funds to Cover Overtime",
+      "gist": "PBB proposes to use police asset forfeiture funds to cover overtime",
       "start": 2548890,
       "end": 2830630
     },
@@ -103,29 +103,43 @@
       "end": 3044970
     },
     {
-      "summary": "Council President: I'm concerned that what we're doing by not looking at program changes is creating an even more difficult situation for ourselves next fiscal year. The implementation of those kinds of reductions is much more challenging it in a late-stage fiscal year, he says. Councilor: Help me understand how compensation set aside is being used here.",
+      "summary": "Councilor: I'm concerned that what we're doing is creating an even more difficult situation for ourselves next fiscal year. The implementation of those kinds of reductions is much more challenging it in a late-stage fiscal year, he says. Councilor: Help me understand how compensation set aside is being used here.",
       "headline": "Council President: I'm concerned that not looking at program changes is counterproductive",
       "gist": "Council President Questions Compensation Set-Aside",
       "start": 3044970,
-      "end": 3450300
+      "end": 3432430
     },
     {
-      "summary": "Councilor Green: Are those reductions to areas that were previously approved in the fall too as encumbrance carryovers? Council President Connell: What I would ask for before we're asked to take a vote on this ordinance is a spreadsheet that shows the current state of play of those EMS contracts.",
-      "headline": "Councilor Tao asks about 2 million EMS reductions that could be implemented",
-      "gist": "Councilor Green on EMS Elimination",
-      "start": 3450300,
+      "summary": "Councilor Connell: Service areas identified roughly 2 million EMS reductions that could be implemented. Are those reductions to areas previously approved in the fall too as encumbrance carryovers? Councilor Green asks for a spreadsheet that shows the current state of play of those EMS contracts.",
+      "headline": "Service areas identified roughly 2 million EMS reductions that could be implemented",
+      "gist": "SpringTAL Ordinance",
+      "start": 3432430,
       "end": 3679730
     },
     {
-      "summary": "Public safety overspending is comparable to previous years, but not apples to apples. Any amount carried over in a prior year needs to appear as funded in the adopted. This is why I've been asking the administrator for the big contracts going forward.",
-      "headline": "Public safety overspending is comparable to previous years, but not apples to apples",
+      "summary": "Public safety overspending is comparable to what we've seen for previous years, but not apples to apples. We're essentially taking back any amount that would have been carried over in a prior year. Not necessarily that overtime is actually reduced.",
+      "headline": "Public safety overspending is not as big as previous years, Nathan says",
       "gist": "Public Safety Overspending",
       "start": 3679730,
+      "end": 3960810
+    },
+    {
+      "summary": "Councilor Pirtle-Ginnings agrees with Councilor Green that budgets should not be based on carryover assumptions. Some of the encumbrance carryovers serve a similar purpose to programmatic carryovers. Councilors Green and Murillo were right about the problem we're facing.",
+      "headline": "Councilor Green says budgets should not be based on carryover assumptions",
+      "gist": "Council Member Green on Carryover Absurdity",
+      "start": 3960810,
+      "end": 4068780
+    },
+    {
+      "summary": "I wanted to understand, does that presume that we are filling the vacant positions we have? It's not exclusively personnel. If council approved a budget for particular roles in council operations, we should be assuming that those are going to be filled.",
+      "headline": "Council member asks question about council ops underspending",
+      "gist": "Council Operations Underfunding",
+      "start": 4068780,
       "end": 4216820
     },
     {
-      "summary": "Councilor: Can you tell us more about the Harbor Reserve Fund? City anticipates some type of obligation related to harbor cleanup activities. Effectively draining this would require the future year replenishment. Councilor: There will need to be conversations about how much of that is actually real.",
-      "headline": "Councilor: Can you tell us more about the Harbor Reserve Fund",
+      "summary": "Councilor: Can you tell us more about the Harbor Reserve Fund? City anticipates some type of obligation related to harbor cleanup activities. draining this would require the future year replenishment. Councilor: There will need to be conversations about how much of that is actually real.",
+      "headline": "Councilor, can you tell us more about the Harbor Reserve Fund",
       "gist": " Harbor Reserve Fund Explained",
       "start": 4216820,
       "end": 4586110
@@ -166,7 +180,7 @@
       "end": 4967300
     },
     {
-      "summary": "Councilor Connell: Is that OEO the place to do it if we want to be very explicit about what it is we're going to adopt in the '26-'27? Councilor Green: It's probably more prudent to allow those funds to fall to balance rather than deappropriating them in the current fiscal year.",
+      "summary": "Councilor Connell: Is that OEO the place to do it if we want to be very explicit about what it is we're going to adopt in the '26-'27? Councilor Green: At some point you gotta rip the Band-Aid off. Bottom line, I'm messaging now, colleagues, that's the direction I'd like to go.",
       "headline": "Councilor Green: I'm cautioning against carrying over as a practice",
       "gist": "Carbon Budget Carryover",
       "start": 4967300,
@@ -180,31 +194,31 @@
       "end": 5572800
     },
     {
-      "summary": "I suddenly have a lot of concerns about our bond rating. Do you have any concerns about it at this point with these numbers? We'll have an updated revenue forecast in a few weeks before you vote on this. We're putting some of the latter at risk.",
-      "headline": "Jon Jonas: I always have concern about our bond rating",
-      "gist": "Sen. Jonas on Concerns About the Budget",
+      "summary": "I suddenly have a lot of concerns about our bond rating. Do you have any concerns about it at this point with these numbers? We'll have an updated revenue forecast in a few weeks before you vote on this. And yeah, not expecting huge movement from there.",
+      "headline": "Councilor Ryan: I have concerns about our bond rating with these numbers",
+      "gist": "Do You Have Any Concern About Our Bond Rating?",
       "start": 5572800,
-      "end": 5778470
+      "end": 5779070
     },
     {
       "summary": "Council President: How do we fill the remaining 6.6? Documents. And then the third question I have is just around that timing. Is that something, a date we should be targeting, or are we moving to that first council date?",
-      "headline": "Council President Ryan asks three questions regarding technical adjustment ordinance",
+      "headline": "Council President: I think we're mostly there on the technical adjustment ordinance",
       "gist": "Third Question on the Technical Adjustment Ordinance",
-      "start": 5778470,
+      "start": 5779070,
       "end": 5876400
     },
     {
-      "summary": "Councilor Green: I do not support your suggested cuts, specifically for the council. Council President Smith: You just need to do a constraint across the board. Could you go back and just do a 1% constraint or a 0.05% constraint and see what that looks like?",
+      "summary": "Councilor Green: I do not support your suggested cuts, specifically for the council. Councilor Smith: You just need to do a constraint across the board. Council President: Could you go back and just do a 1% constraint or a 0.05% constraint and see what that looks like.",
       "headline": "Councilor Green: I do not support your suggested cuts for council",
-      "gist": "Council Discusses the Mayor's Budget",
+      "gist": "City Council Discusses the Mayor's Budget",
       "start": 5876400,
-      "end": 6138510
+      "end": 6164750
     },
     {
-      "summary": "Council President: I am prepared to need to support everything on your first slide. Councillor Pirtle-Ginni: I'm not prepared to support a loan from our funds for the\u2014 out of the CORF. Councilor Kunal: I would be interested in seeing if there are things that the mayor will be cutting next year anyway.",
-      "headline": "Council President asks colleagues if they would tolerate considering a $2.2 million cut",
-      "gist": "Councillor Pirtle-Ginni on the $",
-      "start": 6138510,
+      "summary": "Councilor Pirtle-Ginni: I am not prepared to support a loan from our funds for the\u2014 out of the CORF. Councilor Kunal: I would be interested in seeing if there are things that the mayor will be cutting next year anyway that we could cut now. Would folks rather we barrel through and maybe end early?",
+      "headline": "Council President: I am prepared to support everything on your first slide",
+      "gist": "Councillor Dunphy on the Loan From the CORF",
+      "start": 6164830,
       "end": 6503750
     },
     {
