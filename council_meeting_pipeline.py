@@ -185,7 +185,7 @@ def get_drive_service():
 
     sa_info = json.loads(sa_json)
     credentials = service_account.Credentials.from_service_account_info(
-        sa_info, scopes=["https://www.googleapis.com/auth/drive.file"]
+        sa_info, scopes=["https://www.googleapis.com/auth/drive"]
     )
     return build("drive", "v3", credentials=credentials)
 
