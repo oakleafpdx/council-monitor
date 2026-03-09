@@ -280,7 +280,7 @@ def save_and_upload(full_summary: str, video_id: str, date_str: str, metadata: d
 
 
 # ---------------------------------------------------------------------------
-# Process from dispatch (AssemblyAI transcript from local machine)
+# Process from dispatch (AssemblyAI transcript committed to repo)
 # ---------------------------------------------------------------------------
 
 def process_from_dispatch():
@@ -294,31 +294,54 @@ def process_from_dispatch():
         print("[ERROR] No video_id in dispatch payload.")
         sys.exit(1)
 
-    transcript = payload.get("transcript", "")
-    if not transcript:
-        print("[ERROR] No transcript in dispatch payload.")
+    # Read transcript and metadata from repo files (committed by local script)
+    transcript_path = payload.get("transcript_path", f"transcripts/{video_id}/transcript.txt")
+    metadata_path = payload.get("metadata_path", f"transcripts/{video_id}/metadata.json")
+
+    repo_root = SCRIPT_DIR
+    transcript_file = repo_root / transcript_path
+    metadata_file = repo_root / metadata_path
+
+    if not transcript_file.exists():
+        print(f"[ERROR] Transcript file not found: {transcript_file}")
+        print("  Make sure the local script committed it to the repo.")
         sys.exit(1)
+
+    with open(transcript_file, encoding="utf-8") as f:
+        transcript = f.read()
+
+    if not transcript:
+        print("[ERROR] Transcript file is empty.")
+        sys.exit(1)
+
+    # Load metadata from committed file, with fallbacks to dispatch payload
+    if metadata_file.exists():
+        with open(metadata_file, encoding="utf-8") as f:
+            meta_from_file = json.load(f)
+    else:
+        print(f"[WARN] Metadata file not found: {metadata_file}, using dispatch payload.")
+        meta_from_file = {}
 
     metadata = {
         "id": video_id,
-        "title": payload.get("title", "Unknown"),
-        "upload_date": payload.get("upload_date", "Unknown"),
-        "duration": payload.get("duration", 0),
+        "title": meta_from_file.get("title", payload.get("title", "Unknown")),
+        "upload_date": meta_from_file.get("upload_date", payload.get("upload_date", "Unknown")),
+        "duration": meta_from_file.get("duration", payload.get("duration", 0)),
     }
 
-    # Parse chapters
+    # Parse chapters from metadata file
     chapters_text = ""
-    try:
-        chapters = json.loads(payload.get("chapters", "[]"))
-        if chapters:
-            ch_lines = [f"  [{format_timestamp(ch.get('start', 0))}] {ch.get('headline', '')}: {ch.get('summary', '')}" for ch in chapters]
-            chapters_text = "\n".join(ch_lines)
-    except json.JSONDecodeError:
-        pass
+    chapters = meta_from_file.get("chapters", [])
+    if chapters:
+        ch_lines = [
+            f"  [{format_timestamp(ch.get('start', 0))}] {ch.get('headline', '')}: {ch.get('summary', '')}"
+            for ch in chapters
+        ]
+        chapters_text = "\n".join(ch_lines)
 
-    assemblyai_summary = payload.get("assemblyai_summary", "")
+    assemblyai_summary = meta_from_file.get("assemblyai_summary", "")
 
-    print(f"\n=== Processing transcript from local script ===")
+    print(f"\n=== Processing transcript from repo ===")
     print(f"  Video: {metadata['title']}")
     print(f"  Date:  {metadata['upload_date']}")
     print(f"  Transcript: {len(transcript)} chars")
