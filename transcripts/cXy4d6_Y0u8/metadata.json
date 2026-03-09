@@ -76,7 +76,7 @@
     },
     {
       "summary": "Councilor Kunal: For transparency, I have at least 6 hours of requested items for the first Committee of the Whole meeting. Councilor Murillo: I appreciate all the folks running meetings and trying to schedule things. So I think we can pause there and turn it over for questions.",
-      "headline": "Councilor Connell: I have at least 6 hours of requested items",
+      "headline": "Councilor Canales says he has at least 6 hours of requested items",
       "gist": "Committee of the Whole Ordinance",
       "start": 2458810,
       "end": 2548890
@@ -104,8 +104,8 @@
     },
     {
       "summary": "Council President: I'm concerned that what we're doing is creating an even more difficult situation for ourselves next fiscal year. The implementation of those kinds of reductions is much more challenging in a late-stage fiscal year, he says. Councilor: Help me understand how compensation set aside is being used here.",
-      "headline": "Councilor Green: I'm concerned that not looking at program changes is counterproductive",
-      "gist": "Council President: Concerns about compensation set aside",
+      "headline": "Council President: I'm concerned that not looking at program changes is counterproductive",
+      "gist": "Council President Questions Compensation Set-Aside",
       "start": 3044970,
       "end": 3450300
     },
@@ -117,17 +117,10 @@
       "end": 3679730
     },
     {
-      "summary": "Public safety overspending is comparable to what we've seen for previous years, but not apples to apples. We're essentially taking back any amount that would have been carried over in a prior year. Not necessarily that overtime is actually reduced.",
-      "headline": "Public safety overspending is not as big as previous years, Nathan says",
+      "summary": "Public safety overspending is comparable to previous years, but not apples to apples. Any amount carried over in a prior year needs to appear as funded in the adopted. This is why I've been asking the administrator for the big contracts going forward.",
+      "headline": "Public safety overspending is comparable to previous years, but not apples to apples",
       "gist": "Public Safety Overspending",
       "start": 3679730,
-      "end": 3960810
-    },
-    {
-      "summary": "Councilor Pirtle-Ginnings agrees with Councilor Green that budgets should not be based on carryover assumptions. Some of the encumbrance carryovers serve a similar purpose to programmatic carryovers. Councilors Green and Murillo were right about the problem we're facing.",
-      "headline": "Councilor Green says budgets should not be based on carryover assumptions",
-      "gist": "Council Member Green on Carryover Absurdity",
-      "start": 3960810,
       "end": 4068780
     },
     {
@@ -139,16 +132,16 @@
     },
     {
       "summary": "Councilor: Can you tell us more about the Harbor Reserve Fund? City anticipates some type of obligation related to harbor cleanup activities. draining this would require the future year replenishment. Councilor: There are some lines on here that are by design backloaded.",
-      "headline": "Councilor: Can you tell us more about the Harbor Reserve Fund",
-      "gist": "Harbor Reserve Fund",
+      "headline": "Councilor, can you tell us more about the Harbor Reserve Fund",
+      "gist": " Harbor Reserve Fund Discussion",
       "start": 4216820,
-      "end": 4581550
+      "end": 4586110
     },
     {
-      "summary": "Short-term rental 0 to 60 pot referred to for this $4 million. Does that mean that theoretically we could take $11 million and put it into the general fund? I want to make sure that there aren't pieces of that that might have some firmer expectations around it.",
-      "headline": "Councilor Novick says he was surprised to see short-term rental pot",
-      "gist": "Short-term Rentals: Should We Put $4 Million in",
-      "start": 4581550,
+      "summary": "This morning I thought that when the pot of housing money that was easier to shift to the general fund was the quote short-term rental 2%, $8.6 million. I'm pretty sure it's the 0 to 60 subfund. I want to make sure that there aren't pieces of that that might have some firmer expectations around it.",
+      "headline": "Councilor Novick: I was surprised to see short-term rental pot",
+      "gist": "Short-term rental 0 to 60 subfund referred to",
+      "start": 4586110,
       "end": 4675560
     },
     {
@@ -166,7 +159,7 @@
       "end": 4804720
     },
     {
-      "summary": "Councilor Kunal: When you are talking about the other contracts, which contracts are you talking about? Councilor Murillo: There's contracts we have for people who think for us. That kind of contracting I think is, is worth looking at.",
+      "summary": "Councilor Kunal asks, which contracts are you talking about? I think I'm going to hold off on naming specific ones until the list comes out. There's contracts we have for people who think for us. That kind of contracting I think is, is worth looking at.",
       "headline": "Councilor Kunal says there are some contracts worth looking at",
       "gist": "Other Contracts on the City Budget",
       "start": 4804720,
@@ -187,9 +180,9 @@
       "end": 5297190
     },
     {
-      "summary": "Councilor Kernor: The projected savings associated with that had not fully manifested. He says the only function that's really been effectively fully implemented is communications. Kernor says there may be something to learn in terms of being more granular instead of a blunt instrument.",
-      "headline": "Council President Kern says projected savings associated with the 10% reduction have not manifested",
-      "gist": "1.2 Overspend",
+      "summary": "Councilor Ryan Kernell: The projected savings associated with that had not fully manifested. He says the only function that's really been effectively fully implemented is communications. Councilor Kernell says if Council voted to do it, we should have seen it.",
+      "headline": "Ryan Kern: The projected savings associated with that had not fully manifested",
+      "gist": "House Budget Committee: 1.2 Overspend",
       "start": 5297190,
       "end": 5572800
     },
@@ -208,17 +201,17 @@
       "end": 5876400
     },
     {
-      "summary": "Councilor Smith: I do not support your suggested cuts. Councilor Green: You just need to do a constraint across the board. Council President: Could you go back and just do a 1% constraint or a 0.05% constraint.",
-      "headline": "Councilor Smith: I do not support your suggested cuts for council",
-      "gist": "Council President: Additional Items to Consider on the Mayor's Budget",
+      "summary": "Councilor Green: I do not support your suggested cuts, specifically for the council. Council President Smith: You just need to do a constraint across the board. Could you go back and just do a 1% constraint or a 0.05% constraint and see what that looks like?",
+      "headline": "Councilor Green: I do not support your suggested cuts for council",
+      "gist": "Council Discusses the Mayor's Budget",
       "start": 5876400,
-      "end": 6296290
+      "end": 6138510
     },
     {
-      "summary": "Thank you. I am prepared to support what's on the first slide. I would like to see to see for the remaining unspent money what a constraint across the board would look like. Still pretty interested in looking at the targeted bureau reductions beyond beyond what's in this particular list.",
-      "headline": "Councilor Dunphy: I'm prepared to support what's on slide",
-      "gist": "Councillor Pirtle-Ginni on the Budget",
-      "start": 6296850,
+      "summary": "Council President: I am prepared to need to support everything on your first slide. I am not prepared to support a loan from our funds for the\u2014 out of the CORF, given what I see as our fiscal realities for the next few years. Would folks rather we barrel through and maybe end early?",
+      "headline": "Council President asks colleagues if they would tolerate considering a $2.2 million cut",
+      "gist": "Councillor Pirtle-Ginni on the $",
+      "start": 6138510,
       "end": 6503750
     },
     {
