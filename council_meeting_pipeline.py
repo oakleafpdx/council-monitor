@@ -304,7 +304,11 @@ def save_and_upload(full_summary: str, video_id: str, date_str: str, metadata: d
     """Save locally and upload to Google Drive."""
     summary_dir = Path("summaries")
     summary_dir.mkdir(exist_ok=True)
-    summary_filename = f"{date_str}_{video_id}_summary.md"
+
+    # Build filename from date + video title, sanitized for filesystem
+    title = metadata.get("title", video_id)
+    safe_title = re.sub(r'[<>:"/\\|?*]', '', title).strip()
+    summary_filename = f"{date_str}_{safe_title}_summary.md"
     summary_path = summary_dir / summary_filename
     with open(summary_path, "w") as f:
         f.write(full_summary)
