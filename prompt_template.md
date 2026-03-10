@@ -7,7 +7,7 @@ MEETING INFORMATION:
 
 {assemblyai_section}
 {chapters_section}
-
+{feedback_section}
 FULL TRANSCRIPT (with speaker labels where available):
 {transcript}
 
