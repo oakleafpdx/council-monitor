@@ -40,6 +40,48 @@ def load_prompt_template() -> str:
         return f.read()
 
 
+def load_feedback_as_prompt() -> str:
+    """Load feedback.json and format it as prompt instructions."""
+    feedback_path = SCRIPT_DIR / "feedback.json"
+    if not feedback_path.exists():
+        return ""
+
+    with open(feedback_path) as f:
+        fb = json.load(f)
+
+    sections = []
+
+    names = fb.get("name_corrections", {})
+    if names:
+        lines = [f"  - Use \"{correct}\" not \"{wrong}\"" for wrong, correct in names.items()]
+        sections.append("NAME CORRECTIONS (always apply these):\n" + "\n".join(lines))
+
+    fmt = fb.get("formatting_preferences", [])
+    if fmt:
+        lines = [f"  - {p}" for p in fmt]
+        sections.append("FORMATTING PREFERENCES:\n" + "\n".join(lines))
+
+    emphasis = fb.get("topic_emphasis", [])
+    if emphasis:
+        lines = [f"  - {t}" for t in emphasis]
+        sections.append("TOPICS TO EMPHASIZE (provide extra detail on these):\n" + "\n".join(lines))
+
+    deemphasis = fb.get("topic_deemphasis", [])
+    if deemphasis:
+        lines = [f"  - {t}" for t in deemphasis]
+        sections.append("TOPICS TO DE-EMPHASIZE (mention briefly or skip):\n" + "\n".join(lines))
+
+    instructions = fb.get("standing_instructions", [])
+    if instructions:
+        lines = [f"  - {i}" for i in instructions]
+        sections.append("STANDING INSTRUCTIONS:\n" + "\n".join(lines))
+
+    if not sections:
+        return ""
+
+    return "ANALYST PREFERENCES AND CORRECTIONS:\n" + "\n\n".join(sections) + "\n"
+
+
 # ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
@@ -142,12 +184,15 @@ def build_prompt(
     if chapters_text:
         chapters_section = f"AUTO-GENERATED CHAPTERS:\n{chapters_text}\n"
 
+    feedback_section = load_feedback_as_prompt()
+
     return template.format(
         title=video_metadata.get("title", "Portland City Council Meeting"),
         upload_date=video_metadata.get("upload_date", "Unknown"),
         duration_min=video_metadata.get("duration", 0) // 60,
         assemblyai_section=assemblyai_section,
         chapters_section=chapters_section,
+        feedback_section=feedback_section,
         transcript=transcript_text[:MAX_TRANSCRIPT_CHARS],
         topics_list=topics_list,
     )
@@ -185,7 +230,7 @@ def get_drive_service():
 
     sa_info = json.loads(sa_json)
     credentials = service_account.Credentials.from_service_account_info(
-        sa_info, scopes=["https://www.googleapis.com/auth/drive"]
+        sa_info, scopes=["https://www.googleapis.com/auth/drive.file"]
     )
     return build("drive", "v3", credentials=credentials)
 
@@ -193,14 +238,11 @@ def get_drive_service():
 def upload_to_drive(service, filename: str, content: str, folder_id: str) -> str:
     from googleapiclient.http import MediaInMemoryUpload
 
-    print(f"[DEBUG] Uploading to folder_id: '{folder_id}'")
     media = MediaInMemoryUpload(content.encode("utf-8"), mimetype="text/markdown", resumable=True)
-
     file = service.files().create(
         body={"name": filename, "parents": [folder_id]},
         media_body=media,
         fields="id, webViewLink",
-        supportsAllDrives=True,
     ).execute()
 
     print(f"[INFO] Uploaded to Google Drive: {file.get('webViewLink')}")
@@ -267,20 +309,17 @@ def save_and_upload(full_summary: str, video_id: str, date_str: str, metadata: d
     with open(summary_path, "w") as f:
         f.write(full_summary)
     print(f"  Summary saved: {summary_path}")
+
     drive_link = ""
     drive_folder_id = os.environ.get("GOOGLE_DRIVE_FOLDER_ID")
     if drive_folder_id:
         try:
-            print(f"[DEBUG] Building Drive service...")
             service = get_drive_service()
-            print(f"[DEBUG] Service built: {service is not None}")
             if service:
-                print(f"[DEBUG] Folder ID: '{drive_folder_id}'")
                 drive_link = upload_to_drive(service, summary_filename, full_summary, drive_folder_id)
         except Exception as e:
-            import traceback
             print(f"[WARN] Drive upload failed: {e}")
-            traceback.print_exc()
+
     mark_processed(video_id, {"title": metadata["title"], "drive_link": drive_link})
     return drive_link
 
