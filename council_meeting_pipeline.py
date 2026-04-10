@@ -24,6 +24,7 @@ from pathlib import Path
 CLAUDE_MODEL = "claude-sonnet-4-20250514"
 MAX_TRANSCRIPT_CHARS = 120_000
 SCRIPT_DIR = Path(__file__).parent
+LEDGER_PATH = SCRIPT_DIR / "processed_videos.json"
  
  
 # ---------------------------------------------------------------------------
