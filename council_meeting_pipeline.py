@@ -114,8 +114,8 @@ def format_timestamp(ms: int) -> str:
 # Git helpers (commit summaries back to repo)
 # ---------------------------------------------------------------------------
  
-def commit_summary_to_repo(summary_path: Path, metadata: dict):
-    """Commit the summary markdown file back to the repo so it persists."""
+def commit_summary_to_repo(file_paths: list[Path], metadata: dict):
+    """Commit summary files (docx + markdown) back to the repo so they persist."""
     try:
         # Configure git identity for the Actions bot
         subprocess.run(
@@ -127,11 +127,12 @@ def commit_summary_to_repo(summary_path: Path, metadata: dict):
             check=True, capture_output=True,
         )
  
-        # Stage the summary file
-        subprocess.run(
-            ["git", "add", str(summary_path)],
-            check=True, capture_output=True,
-        )
+        # Stage all summary files
+        for fp in file_paths:
+            subprocess.run(
+                ["git", "add", str(fp)],
+                check=True, capture_output=True,
+            )
  
         # Also stage the updated ledger if it exists
         ledger = Path("processed_videos.json")
@@ -160,7 +161,8 @@ def commit_summary_to_repo(summary_path: Path, metadata: dict):
             ["git", "push"],
             check=True, capture_output=True,
         )
-        print(f"[INFO] Summary committed to repo: {summary_path}")
+        for fp in file_paths:
+            print(f"[INFO] Committed to repo: {fp}")
     except subprocess.CalledProcessError as e:
         stderr = e.stderr.decode() if e.stderr else ""
         print(f"[WARN] Failed to commit summary to repo: {stderr}")
@@ -328,17 +330,17 @@ def mark_processed(video_id: str, metadata: dict):
  
  
 # ---------------------------------------------------------------------------
-
+ 
 # ---------------------------------------------------------------------------
 # DOCX Rendering — Oakleaf branded
 # ---------------------------------------------------------------------------
-
+ 
 OL_GREEN_HEX = "185430"
 OL_GREEN_LIGHT_HEX = "397D52"
 OL_GRAY_TEXT_HEX = "404040"
 OL_GRAY_LIGHT_HEX = "F2F2F2"
-
-
+ 
+ 
 def _parse_summary_sections(summary_text: str) -> list[dict]:
     """
     Split Claude's summary into named sections.
@@ -352,7 +354,7 @@ def _parse_summary_sections(summary_text: str) -> list[dict]:
     ]
     sections = []
     remaining = summary_text.strip()
-
+ 
     for i, marker in enumerate(section_markers):
         pattern = re.compile(
             r"(?:^|\n)\s*(?:\d+\.\s*)?" + re.escape(marker) + r"\s*\n",
@@ -378,13 +380,13 @@ def _parse_summary_sections(summary_text: str) -> list[dict]:
         body = remaining[m.end() : next_start].strip()
         sections.append({"heading": marker, "body": body})
         remaining = remaining[next_start:]
-
+ 
     if remaining.strip() and sections:
         sections[-1]["body"] += "\n" + remaining.strip()
-
+ 
     return sections
-
-
+ 
+ 
 def render_docx(doc: dict) -> bytes:
     """
     Render the summary dict as a branded Oakleaf .docx file.
@@ -394,9 +396,9 @@ def render_docx(doc: dict) -> bytes:
     from docx.shared import Inches, Pt, RGBColor, Emu
     from docx.enum.text import WD_ALIGN_PARAGRAPH
     from docx.oxml.ns import qn
-
+ 
     document = DocxDocument()
-
+ 
     # -- Page setup --
     section = document.sections[0]
     section.page_width = Inches(8.5)
@@ -405,10 +407,10 @@ def render_docx(doc: dict) -> bytes:
     section.bottom_margin = Inches(0.75)
     section.left_margin = Inches(0.75)
     section.right_margin = Inches(0.75)
-
+ 
     green = RGBColor(0x18, 0x54, 0x30)
     gray_text = RGBColor(0x40, 0x40, 0x40)
-
+ 
     # -- Header --
     header = section.header
     header.is_linked_to_previous = False
@@ -422,7 +424,7 @@ def render_docx(doc: dict) -> bytes:
     title_run = hp.add_run(doc["title"])
     title_run.font.size = Pt(9)
     title_run.font.color.rgb = gray_text
-
+ 
     # -- Footer --
     footer = section.footer
     footer.is_linked_to_previous = False
@@ -431,12 +433,12 @@ def render_docx(doc: dict) -> bytes:
     fr = fp.add_run("Portland City Council Monitor  |  oakleaf.dev  |  Confidential — Internal Use Only")
     fr.font.size = Pt(7)
     fr.font.color.rgb = gray_text
-
+ 
     # -- Title --
     title_para = document.add_heading(doc["title"], level=1)
     for run in title_para.runs:
         run.font.color.rgb = green
-
+ 
     # -- Meta table --
     meta_rows = [
         ("Date", doc["upload_date"]),
@@ -462,12 +464,12 @@ def render_docx(doc: dict) -> bytes:
             for run in paragraph.runs:
                 run.font.size = Pt(9)
                 run.font.color.rgb = gray_text
-
+ 
     document.add_paragraph()  # spacer
-
+ 
     # -- Body sections --
     sections = _parse_summary_sections(doc["summary"])
-
+ 
     if not sections:
         for para in doc["summary"].split("\n\n"):
             para = para.strip()
@@ -480,7 +482,7 @@ def render_docx(doc: dict) -> bytes:
                 h = document.add_heading(section["heading"], level=2)
                 for run in h.runs:
                     run.font.color.rgb = green
-
+ 
             for line in section["body"].split("\n"):
                 line = line.strip()
                 if not line:
@@ -496,12 +498,12 @@ def render_docx(doc: dict) -> bytes:
                 else:
                     p = document.add_paragraph()
                     _add_formatted_text(p, line, gray_text)
-
+ 
     buf = io.BytesIO()
     document.save(buf)
     return buf.getvalue()
-
-
+ 
+ 
 def _add_formatted_text(paragraph, text: str, default_color):
     """Add text to a paragraph, converting **bold** markers to actual bold runs."""
     from docx.shared import Pt
@@ -516,8 +518,8 @@ def _add_formatted_text(paragraph, text: str, default_color):
             run = paragraph.add_run(part)
             run.font.size = Pt(10)
             run.font.color.rgb = default_color
-
-
+ 
+ 
 def build_markdown_backup(doc: dict) -> str:
     """Plain markdown version saved to repo as a readable backup."""
     return (
@@ -531,8 +533,8 @@ def build_markdown_backup(doc: dict) -> str:
         f"---\n\n"
         f"{doc['summary']}\n"
     )
-
-
+ 
+ 
 # Build summary document
 # ---------------------------------------------------------------------------
  
@@ -576,7 +578,7 @@ def save_and_upload(doc: dict, video_id: str, date_str: str, metadata: dict) -> 
     md_path = summary_dir / f"{base_name}.md"
     with open(md_path, "w", encoding="utf-8") as f:
         f.write(md_content)
-    commit_summary_to_repo(md_path, metadata)
+    commit_summary_to_repo([docx_path, md_path], metadata)
  
     # --- Upload DOCX to Google Drive ---
     drive_link = ""
@@ -714,3 +716,4 @@ def main():
  
 if __name__ == "__main__":
     main()
+ 
