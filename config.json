@@ -1,0 +1,23 @@
+{
+  "watch_topics": [
+    "Economic Development",
+    "Real Estate & Housing",
+    "Climate & Sustainability Policy",
+    "Land Use & Zoning",
+    "System Development Charges (SDCs) & Permitting Fees",
+    "Infrastructure & Transportation",
+    "Homelessness & Shelter Policy",
+    "City Budget & Finance",
+    "Public Safety"
+  ],
+
+  "council_video_keywords": [
+    "council",
+    "meeting",
+    "session",
+    "committee",
+    "hearing"
+  ],
+
+  "channel_id": "UCcPIUh7CWwtBXisMPHWG65g"
+}

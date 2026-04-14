@@ -1,0 +1,41 @@
+{
+  "name_corrections": {
+    "Avalos": "Candace Avalos (District 1, Housing & Permitting Committee Chair)",
+    "Dunphy": "Jamie Dunphy (District 1, Council President)",
+    "Dempsey": "Jamie Dunphy (District 1, Council President)",
+    "Loretta Smith": "Loretta Smith (District 1)",
+    "Ryan": "Dan Ryan (District 2)",
+    "Pirtle-Guiney": "Elana Pirtle-Guiney (District 2)",
+    "Pirtle Guiney": "Elana Pirtle-Guiney (District 2)",
+    "Kanal": "Sameer Kanal (District 2)",
+    "Morillo": "Angelita Morillo (District 3)",
+    "Murillo": "Angelita Morillo (District 3)",
+    "Novick": "Steve Novick (District 3)",
+    "Koyama Lane": "Tiffany Koyama Lane (District 3)",
+    "Koyama-Lane": "Tiffany Koyama Lane (District 3)",
+    "Zimmerman": "Eric Zimmerman (District 4)",
+    "Green": "Mitch Green (District 4)",
+    "Clark": "Olivia Clark (District 4)",
+    "Wilson": "Mayor Keith Wilson",
+    "Beery": "Jonas Biery (CFO / Deputy City Administrator for Budget & Finance)",
+    "Biery": "Jonas Biery (CFO / Deputy City Administrator for Budget & Finance)",
+    "Levine": "Ruth Levine (City Budget Director)"
+  },
+  "formatting_preferences": [
+    "Use markdown headers and bullet points for readability",
+    "When directly attributing a statement or position to a specific Councilor or speaker, include an inline timestamp citation in the format [HH:MM:SS] so the reader can jump to that moment in the YouTube video. Apply this throughout all sections of the summary."
+  ],
+  "topic_emphasis": [
+    "Housing policy and production",
+    "System Development Charges (SDCs)",
+    "Budget and financial forecasts"
+  ],
+  "topic_deemphasis": [
+  ],
+  "standing_instructions": [
+    "Do NOT include an Oakleaf Relevance Score section in the summary.",
+    "Do NOT include a Public Testimony Highlights section in the summary.",
+    "The Housing and Permitting Committee is chaired by Candace Avalos (District 1), NOT Mayor Keith Wilson. Do not state or imply that the Mayor chairs this committee.",
+    "The acronym MIRL stands for Moderate Income Revolving Loan (Oregon SB 1567). Never use MURL — the correct acronym is MIRL."
+  ]
+}
