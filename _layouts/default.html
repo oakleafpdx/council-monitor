@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <style>
+    :root {
+      --oak-green: #2D5016;
+      --oak-green-light: #3A6B1E;
+      --oak-gold: #C6963C;
+      --oak-cream: #FAF8F5;
+      --oak-text: #1a1a1a;
+      --oak-text-secondary: #555;
+      --oak-border: #e0dcd6;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      color: var(--oak-text);
+      background: var(--oak-cream);
+      line-height: 1.7;
+    }
+    header {
+      background: var(--oak-green);
+      color: white;
+      padding: 2rem 1.5rem;
+      border-bottom: 4px solid var(--oak-gold);
+    }
+    header .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    header h1 {
+      font-size: 1.6rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+    header p {
+      font-size: 0.95rem;
+      opacity: 0.85;
+      margin-top: 0.4rem;
+      font-style: italic;
+    }
+    header .brand {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--oak-gold);
+      margin-bottom: 0.5rem;
+    }
+    main {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+    }
+    .content {
+      font-size: 1.05rem;
+    }
+    .content h1 { font-size: 1.5rem; margin: 2rem 0 1rem; color: var(--oak-green); }
+    .content h2 { font-size: 1.25rem; margin: 1.8rem 0 0.8rem; color: var(--oak-green); }
+    .content h3 { font-size: 1.1rem; margin: 1.5rem 0 0.6rem; }
+    .content p { margin-bottom: 1rem; }
+    .content ul, .content ol { margin: 0.5rem 0 1rem 1.5rem; }
+    .content li { margin-bottom: 0.4rem; }
+    .content strong { color: var(--oak-green-light); }
+    .content hr { border: none; border-top: 1px solid var(--oak-border); margin: 2rem 0; }
+    .content a { color: var(--oak-green); }
+    footer {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+      border-top: 1px solid var(--oak-border);
+      font-size: 0.85rem;
+      color: var(--oak-text-secondary);
+    }
+    footer a { color: var(--oak-green); }
+    .back-link {
+      display: inline-block;
+      margin-bottom: 1.5rem;
+      font-size: 0.9rem;
+      color: var(--oak-green);
+      text-decoration: none;
+    }
+    .back-link:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="brand">Oakleaf reDevelopment</div>
+      <h1>{{ page.title | default: site.title }}</h1>
+      <p>{{ site.description }}</p>
+    </div>
+  </header>
+  <main>
+    <div class="content">
+      {{ content }}
+    </div>
+  </main>
+  <footer>
+    <p>Produced by <a href="https://oakleaf.dev">Oakleaf reDevelopment</a> &middot; Automated transcription &amp; AI summarization &middot; <a href="https://github.com/oakleafpdx/council-monitor">Source on GitHub</a></p>
+  </footer>
+</body>
+</html>
