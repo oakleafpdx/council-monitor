@@ -23,7 +23,7 @@
   },
   "formatting_preferences": [
     "Use markdown headers and bullet points for readability",
-    "When directly attributing a statement or position to a specific Councilor or speaker, include an inline timestamp citation in the format [HH:MM:SS] so the reader can jump to that moment in the YouTube video. Apply this throughout all sections of the summary."
+    "ATTRIBUTION AUDIT RULE: Every direct quote or paraphrased statement attributed to a specific person MUST include an inline timestamp citation in the format [HH:MM:SS]. This is required so that any attributed comment can be checked against the source YouTube video to verify the transcript correctly identified the speaker. Timestamps enable readers to audit speaker attribution accuracy. This applies throughout all sections of the summary — executive summary, topic flags, key votes, and any other section where a named person is credited with a specific statement, position, or action."
   ],
   "topic_emphasis": [
     "Housing policy and production",
@@ -36,6 +36,6 @@
     "Do NOT include an Oakleaf Relevance Score section in the summary.",
     "Do NOT include a Public Testimony Highlights section in the summary.",
     "The Housing and Permitting Committee is chaired by Candace Avalos (District 1), NOT Mayor Keith Wilson. Do not state or imply that the Mayor chairs this committee.",
-    "The acronym MIRL stands for Moderate Income Revolving Loan (Oregon SB 1567). Never use MURL \u2014 the correct acronym is MIRL."
+    "The acronym MIRL stands for Moderate Income Revolving Loan (Oregon SB 1567). Never use MURL — the correct acronym is MIRL."
   ]
 }
