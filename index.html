@@ -1,0 +1,65 @@
+---
+layout: default
+title: Portland City Council Monitor
+---
+
+<p style="margin-bottom: 2rem; font-size: 1.05rem;">AI-generated summaries of Portland City Council meetings, organized by date. Each summary covers key votes, housing and land use policy, budget decisions, and economic development — produced automatically from full meeting transcripts.</p>
+
+<div id="summaries-list">
+  <p style="color: var(--oak-text-secondary); font-style: italic;">Loading summaries...</p>
+</div>
+
+<script>
+  async function loadSummaries() {
+    const container = document.getElementById('summaries-list');
+    try {
+      const response = await fetch('https://api.github.com/repos/oakleafpdx/council-monitor/contents/summaries');
+      if (!response.ok) throw new Error('Failed to load');
+      const files = await response.json();
+
+      const mdFiles = files
+        .filter(f => f.name.endsWith('_summary.md'))
+        .sort((a, b) => b.name.localeCompare(a.name));
+
+      if (mdFiles.length === 0) {
+        container.innerHTML = '<p>No summaries available yet.</p>';
+        return;
+      }
+
+      let html = '';
+      let currentMonth = '';
+
+      mdFiles.forEach(file => {
+        const dateMatch = file.name.match(/^(\d{4})-(\d{2})-(\d{2})_(.+)_summary\.md$/);
+        if (!dateMatch) return;
+
+        const [, year, month, day, rawTitle] = dateMatch;
+        const monthKey = `${year}-${month}`;
+        const date = new Date(year, parseInt(month) - 1, parseInt(day));
+        const dateStr = date.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+        const title = rawTitle
+          .replace(/_/g, ' ')
+          .replace(/\s+\d{6}$/, '')
+          .replace(/\s+/, ' ');
+
+        if (monthKey !== currentMonth) {
+          const monthLabel = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long' });
+          html += `<h2 style="margin: 2rem 0 0.8rem; font-size: 1.15rem; color: var(--oak-green); border-bottom: 1px solid var(--oak-border); padding-bottom: 0.4rem;">${monthLabel}</h2>`;
+          currentMonth = monthKey;
+        }
+
+        const ghUrl = `https://github.com/oakleafpdx/council-monitor/blob/main/summaries/${encodeURIComponent(file.name)}`;
+
+        html += `<div style="margin-bottom: 1.2rem; padding-left: 0.5rem;">`;
+        html += `<a href="${ghUrl}" style="color: var(--oak-green); font-size: 1.05rem; text-decoration: none; font-weight: 600;">${title}</a>`;
+        html += `<div style="font-size: 0.88rem; color: var(--oak-text-secondary); margin-top: 0.15rem;">${dateStr}</div>`;
+        html += `</div>`;
+      });
+
+      container.innerHTML = html;
+    } catch (err) {
+      container.innerHTML = '<p>Unable to load summaries. <a href="https://github.com/oakleafpdx/council-monitor/tree/main/summaries">View on GitHub</a></p>';
+    }
+  }
+  loadSummaries();
+</script>
