@@ -4,10 +4,10 @@ url: https://oakleafpdx.github.io
 baseurl: /council-monitor
 
 # Build settings
-theme: minima
+theme: null
 markdown: kramdown
 
-# Include summaries folder in site build
+# Include summaries folder
 include:
   - summaries
 
@@ -29,16 +29,5 @@ exclude:
   - run_background.bat
   - run_visible.bat
   - .gitignore
-
-# Collections — treat summaries as a collection
-collections:
-  summaries:
-    output: true
-    permalink: /summaries/:name/
-
-defaults:
-  - scope:
-      path: "summaries"
-      type: "summaries"
-    values:
-      layout: "summary"
+  - README.md
+  - "*.docx"
