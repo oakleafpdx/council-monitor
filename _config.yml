@@ -1,0 +1,44 @@
+title: Portland City Council Monitor
+description: Automated meeting summaries from Portland City Council sessions — covering housing, land use, budget, and economic development.
+url: https://oakleafpdx.github.io
+baseurl: /council-monitor
+
+# Build settings
+theme: minima
+markdown: kramdown
+
+# Include summaries folder in site build
+include:
+  - summaries
+
+# Exclude non-site files
+exclude:
+  - data/
+  - transcripts/
+  - "*.py"
+  - "*.bat"
+  - requirements.txt
+  - env.example
+  - config.json
+  - feedback.json
+  - processed_videos.json
+  - prompt_template.md
+  - "prompt_template old.md"
+  - local_transcribe.py
+  - council_meeting_pipeline.py
+  - run_background.bat
+  - run_visible.bat
+  - .gitignore
+
+# Collections — treat summaries as a collection
+collections:
+  summaries:
+    output: true
+    permalink: /summaries/:name/
+
+defaults:
+  - scope:
+      path: "summaries"
+      type: "summaries"
+    values:
+      layout: "summary"
