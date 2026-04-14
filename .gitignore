@@ -1,3 +1,8 @@
+# Audio files (too large for GitHub)
 data/audio/
-.env
 
+# Raw AssemblyAI JSON responses (4-11MB each, keep locally only)
+*_raw.json
+
+# Environment variables (API keys)
+.env
