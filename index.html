@@ -39,8 +39,9 @@ title: Portland City Council Monitor
         const dateStr = date.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
         const title = rawTitle
           .replace(/_/g, ' ')
-          .replace(/\s+\d{6}$/, '')
-          .replace(/\s+/, ' ');
+          .replace(/\s+\d{4,6}$/, '')
+          .replace(/\s{2,}/g, ' ')
+          .trim();
 
         if (monthKey !== currentMonth) {
           const monthLabel = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long' });
