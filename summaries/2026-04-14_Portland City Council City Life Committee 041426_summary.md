@@ -1,5 +1,5 @@
 # Portland City Council Meeting Summary
-**Date:** 2026-03-23
+**Date:** 2026-04-14
 **Title:** Portland City Council City Life Committee 04/14/26
 **Duration:** 184 minutes
 **Source:** https://www.youtube.com/watch?v=2Av2VnjN3K0
@@ -9,7 +9,7 @@
 ---
 
 # City Life Committee Meeting Summary
-**Date:** March 23, 2026  
+**Date:** April 14, 2026  
 **Meeting:** Portland City Council City Life Committee 04/14/26  
 **Duration:** 184 minutes  
 **Committee Chair:** Candace Avalos (District 1, Housing & Permitting Committee Chair)  
