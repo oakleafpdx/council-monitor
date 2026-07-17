@@ -1,0 +1,1005 @@
+COUNCIL MEETING TRANSCRIPT
+============================================================
+
+
+FULL TRANSCRIPT
+============================================================
+
+[00:08:37] Speaker A:
+  Oh, Sameer, it's like coming from outer space. Hi, Councilor Kanal. Thank you for the honor of having a moment to do a little important preamble today. I think some of you now know that someone is leaving City Hall after over 2 decades of service, and that person has been my chief of staff since the beginning of 2025. Actually, we started in that in December. And so I have the privilege of reading the mayor's proclamation about this important moment in time. So first of all, Kezia, thank you for coming to the meeting today. Now you know why I was insistent that you had to be here at 2:00.
+
+[00:09:20] Speaker B:
+  Oh, it's a surprise?
+
+[00:09:21] Speaker A:
+  Yeah, it's a surprise. And so here it is. Whereas Kezia Wan, Wanner has devoted more than two decades— two decades— to the City of Portland, serving with exceptional leadership, integrity, and unwavering dedication across numerous bureaus, including the Portland Bureau of Transportation, the City Budget Office, Portland Police Bureau, Portland Fire and Rescue, and the City Council Office of of Councilor Dan Ryan. Whereas, during her tenure in the city budget office, she strengthened the city's budgeting practices through her skilled financial analysis and practical resource management. Whereas, in the Portland Police Bureau, she efficiently oversaw core budget and procurement functions and supported key administrative and operational needs with clarity And professionalism. Sorry, I had to smile at Clarity. She's so good at clarity. Whereas, within the budget, the Portland Bureau of Transportation, Kezia served as the Parking Enforcement Division Manager, providing steady leadership and operational oversight that improved division performance and supported bureau-wide priorities. Whereas, as Deputy Director of Portland Fire and Rescue, she delivered impactful executive leadership, guiding administrative services, logistics, personnel, communications, technology, data analytics, and major strategic initiatives for Oregon's largest fire agency. Whereas, across every role, Kezia led with grace, humility, and a deep commitment to serving Portland. Wherever her expertise and steady leadership were needed. Whereas her insight, collaboration, and genuine care for the city and its employees made her an invaluable asset whose presence will be deeply missed by the City of Portland. Now, therefore, the City of Roses does hereby proclaim July 15th, 2026, to be Kessia Warner Day, in Portland, and we encourage all residents to observe this very special day. Let's hear it for Kezia!
+
+[00:11:54] Speaker C:
+  Thank you so much.
+
+[00:11:58] Speaker A:
+  Would you like to say a couple things and introduce your special guest?
+
+[00:12:02] Speaker C:
+  Oh, sure. This is a surprise for sure. Thank you so much, Kezia Warner, Chief of Staff, Councilor Dan Ryan, as you know, and I have my family and friends here in the audience. I'm so surprised and touched by this. Had no idea. But everything that you say, I did things, I did things for the city, I did things for the people of Portland. I loved every minute of it. I believe in service to the city, and it's been a great honor to be able to serve in those roles and to serve alongside all of you. So thank you for this recognition. There's so many good, hardworking employees that are out in the city buildings right now that are doing the work every day, and I was one of them, and I was proud to be one of them. So with this, I say farewell and not goodbye. You know where to find me if you would like to continue the relationship. But thank you for your service too. So thank you.
+
+[00:13:13] Speaker A:
+  And thank you, family, for coordinating that surprise.
+
+[00:13:24] Speaker D:
+  Yeah.
+
+[00:13:25] Speaker A:
+  I was worried she's going to see your text messages, Chris. Yeah. Hey, Chair, it's all yours.
+
+[00:13:31] Speaker E:
+  Thank you so much, Councilor Ryan, and I'll just join in by saying I have appreciated having the opportunity to work with Kezia in your office, in our district office for the last year and a half, and you'll be missed. And with that, I will officially gavel this meeting to order. I don't know if one of my vice chairs would like to actually hit the gavel. It's 2:08 PM. On July 15th, 2026. And with that, Rebecca, if you could please call the roll. Here.
+
+[00:14:03] Speaker B:
+  Here.
+
+[00:14:06] Speaker F:
+  Here.
+
+[00:14:10] Speaker G:
+  Here.
+
+[00:14:11] Speaker F:
+  Here.
+
+[00:14:11] Speaker B:
+  Here.
+
+[00:14:12] Speaker H:
+  Here.
+
+[00:14:12] Speaker F:
+  Zimmerman. Avalos.
+
+[00:14:14] Speaker I:
+  Present virtually.
+
+[00:14:16] Speaker F:
+  Dunphy.
+
+[00:14:17] Speaker J:
+  Here.
+
+[00:14:18] Speaker F:
+  Smith?
+
+[00:14:19] Speaker I:
+  Here.
+
+[00:14:19] Speaker F:
+  Pirtle-Guiney? Ryan?
+
+[00:14:24] Speaker A:
+  Here.
+
+[00:14:25] Speaker F:
+  Kanal?
+
+[00:14:27] Speaker K:
+  Here.
+
+[00:14:28] Speaker E:
+  Thank you. And Christopher, if you could please read the statement of conduct.
+
+[00:14:32] Speaker L:
+  Welcome to the meeting of the Finance and Governance Committee of the Whole. To testify before this committee in person or virtually, you must sign up in advance in the committee agenda at www.portland.gov/council/agenda/committee-whole. Or by calling 311. Information on engaging with the committee can be found at this link. Registration for virtual testimony closes 1 hour prior to the meeting. In-person testifiers must sign up before the agenda item is heard. If public testimony will be taken on an item, individuals may testify for 3 minutes unless the chair states otherwise. Your microphone will be muted when your time is over. The chair preserves order. Disruptive conduct such as shouting, refusing to conclude your testimony when your time is up, or interrupting others' testimony or committee deliberations will not be allowed. If you cause a disruption, a warning will be given. Further disruption will result in ejection from the meeting. Anyone who fails to leave once ejected is subject to arrest for trespass. Additionally, the committee may take a short recess and reconvene virtually. Your testimony should address the matter being considered. When testifying, state your name for the record. If you're a lobbyist, identify the organization you represent. Virtual testifiers should unmute themselves when the clerk calls your name.
+
+[00:15:30] Speaker M:
+  Thank you.
+
+[00:15:31] Speaker E:
+  Thank you, Christopher. Colleagues, today we have 5 items on our agenda, 2 of which will be read together. We have our committee chair updates as per usual. We have a proposed appointment of voting members to the Portland Utility Board. Items 3 and 4 will be read together. They are a discussion on Home Forward and public input on Home Forward. I will note that this is based off of a discussion that has occurred in part already at the Housing and Permitting Committee, and we'll hear from Chair Avalos to help frame the content there, but also that this was originally filed alongside proposed appointments to the Home Forward Board of Directors, which were then— I'm not sure if they were not filed formally or withdrawn by the administration. We've decided to keep that conversation. We'll talk more about that as we're going. And then with time that may be remaining, we'll go into discussion of the follow-up of the fiscal year '25-'26 budget note, 11, on transparency and information access framework. I guess I'll Ask if Rebecca, if you can please call the first item.
+
+[00:16:38] Speaker F:
+  Item 1, committee chair updates, document number 2026-237.
+
+[00:16:43] Speaker E:
+  Thank you, colleagues. This is a relatively short committee update on my end, although we will be hearing from Councilor Avalos as part of the recurring and rotating committee updates. Just for transparency, last week there was going to be a committee meeting scheduled. It was scheduled Thursday morning, July 9th. We had anticipated and seen notices of absence, and so the meeting was canceled because we did not believe we would have enough people here to have a meeting. Coming up, we've got next week Prosper Portland Board of Directors, Vision Zero updates, and a proposed transfer of the franchise agreement currently given to Zenith to I Squared. On July 30th, there may be a little bit of adjustments to these next two 2, but MOTUH is coming to the Committee of the Whole on July 30th and August 6th in anticipation of a full council consideration in early August, culminating in a scheduled vote on, I believe, August 12th. Yeah, 12th. After that, we do take— we have one meeting August 13th where we'll be clearing a lot of other items, as you can see there, to take 2 weeks off and then pick back up. The only other thing I wanted to mention is that the full CEI Hub conversation which is a lot broader than the Zenith conversation, is coming in mid to late September, and that the fall technical adjustment ordinances schedule, we've now gotten a tentative schedule for October 15th. Item 2, you can see all the other items that have been potentially proposed for the Committee of the Whole. I just wanted to get to mentioning, just acknowledging in Part 3, the existing workgroups. There's nothing actionable on that yet. There will be some work, you probably will hear some more about those next week. And finally, the committee update to the Committee of the Whole from the other 4 committees of this week is Chair Avalos of Housing and Permitting. So with that, I'm going to first ask if there are any questions on my part, and then I'll pass it over to Councilor Avalos. Seeing none, Chair Avalos, take it away.
+
+[00:19:08] Speaker F:
+  Okay.
+
+[00:19:09] Speaker H:
+  One second.
+
+[00:19:10] Speaker I:
+  Thank you, Chair. All right. So let's talk about the Housing and Permitting Committee. So as many of you know, the Housing and Homelessness Committee transitioned into Housing and Permitting. So while the committee scope has expanded and our committee membership has changed, changed, our focus remains the same on helping Portland build more housing, improving our permitting system, strengthening accountability, and ensuring our policies reflect the needs of our community. As it relates to community engagement, throughout our work, we've made public engagement a priority. So at every meeting, we've reserved time for public testimony, giving Portlanders an opportunity to bring forward concerns, share ideas, and help shape our discussions. We've also created dedicated opportunities for community voices including a renters feedback forum that we're going to be hosting in the fall where tenants can share their experiences and recommendations directly with the committee. And actually, we had a renters feedback forum and we're going to do more of those in the fall. So we did one in committee, we'll do more in community in the coming months. For homelessness and shelter services, so the committee has spent significant time examining both long-term policy and immediate operational issues related to homelessness. We received regular updates from the Homelessness Response System Steering and Oversight Committee, reviewed new research on the 2025 Point-in-Time Count, and discussed the Mayor's proposed budget and its impacts on homeless services and shelter operations. We also held a public discussion last week with Portland Solutions and Urban Alchemy focused on shelter oversight, complaint processes, contract accountability, and how shelter guests can safely report concerns. On housing production and affordability, the committee continued advancing several major housing policy initiatives. So we worked on the Unified Housing Strategy and the Social Housing Study, two efforts that will help shape Portland's long-term housing strategy. We've received the 10-year update on the North-Northeast Neighborhood Housing Strategy and Preference Policy, highlighting ongoing investments in homeownership, housing preservation, and home repair programs that support Black households displaced from North and Northeast Portland. The committee also discussed proposed state legislation related to inclusionary zoning and its potential impacts on housing production in Portland. We explored the growing use of algorithmic devices in rental housing and their role in price fixing. In addition, we convened nonprofit affordable housing providers and property managers to better understand the financial pressures that they're facing in maintaining affordable housing, retaining resident services staff, and supporting tenants with increasingly complex needs. We also approved Portland's participation in the state's Moderate Income Revolving Loan Program, allowing the city to leverage additional state financing for moderate-income housing developments. All right, on permitting and development, improving Portland's permitting system has remained a major focus of the committee. We consider the Affordable Housing Opportunity Zones project, or AHOP, to help advance affordable housing development across the the transfer of city-owned property to Habitat for Humanity for the True North affordable housing project, supporting the development of additional affordable homeownership opportunities. The committee also advanced a supplemental budget for unspent Portland Housing Bureau funds, which ultimately informed amendments adopted through the spring technical adjustment ordinance. The committee— and also led to the Keep Portland House ordinance, which we passed. The committee passed updates to the inclusionary housing plan. To the temporary SDC exemption program and the amendments to affordable housing SDC exemption program, some of which we're going to continue to hear in council. The committee also advanced RECAP 11, the Code Alignment Project 1, and the second phase of the Code Alignment Project, or CAP 2. Together, these initiatives reduce unnecessary barriers, improve coordination across bureaus, modernize city code, and make it easier to deliver housing and other community-serving projects. We also considered updates to Portland's building codes to maintain alignment with state code and appointed members to several advisory bodies including the Building Code Board of Appeals, the Development Review Advisory Committee, the Home Forward Board of Commissioners, and the River Community Advisory Committee. Looking ahead, the committee will continue building on this work over the coming months. Next week, we're going to be hosting Metro Council President Gonzales for a discussion on regional strategies to address housing and homelessness. Later this year, we'll begin work on climate and health standards, a policy focused on reducing emissions from Portland's largest buildings while supporting healthier, more efficient buildings. Last night we had our first workshop with me and it was great. We had about 40 people there and it was an opportunity for folks to actually help develop the policy so expect that to be coming in early September. I am very proud of the breadth of the work that this committee has taken over the past several months and whether we're listening to community members or improving accountability, expanding housing opportunities or modernizing our permitting system, our goal remains the same. Which is helping Portland become a city where it's easier to build housing, easier to navigate local regulations, and easier for people to find and keep a place to call home. That is what's going on in H&P.
+
+[00:24:09] Speaker K:
+  Thank you.
+
+[00:24:09] Speaker E:
+  Thank you so much, Chair Avalos. Any questions for Chair Avalos before we wrap up the Chair's Update?
+
+[00:24:19] Speaker I:
+  All right.
+
+[00:24:20] Speaker E:
+  Seeing none, that concludes the Chair's Update, and we'll move into agenda item 2, Rebecca, could you please call the next agenda item?
+
+[00:24:27] Speaker F:
+  Item 2, appoint voting members to the Portland Utility Board, document number 2026-238.
+
+[00:24:34] Speaker E:
+  Thank you so much. As our presenters are coming up, I believe we'll have over the course of this, in addition to our 3 appointees, we'll have AMI Archer Masters, the PUG analyst, as well as Kyle Chipman and Lorraine Wilson, who are the co-chairs of the Portland Utility Board. And I am not sure who's starting, so I'll pass it over to you. Thank you so much.
+
+[00:24:56] Speaker N:
+  Just make sure that the slides are pulling up, and it looks like they are. My name is AMI Archer-Masters. I'm the analyst with the City Budget Office that provides support to the Portland Utility Board, or as you'll commonly hear us refer to it as the PUB. What we plan to cover today very briefly— is a short overview of the Portland Utility Board and their purpose, a little bit about the recruitment process, and most importantly, introduce you to the appointees that we have here today. I'll be available for questions, but I will pass it to the co-chairs to cover the first two items.
+
+[00:25:38] Speaker G:
+  Beautiful. Thanks so much, AMI. Greetings, a pleasure. My name is Kyle Chipman. I've been serving on the Portland Utility Board since July 2024, serving as co-chair over the past year, and I'm filling out my final year on my initial term as co-chair this coming year. It's a pleasure to address Council today to present the 3 candidates we have for you, and more in a heartfelt way, alongside Amy Archer-Masters, John Lynn, our other staff representative, and my co-chair, Lorraine Wilson. Lovely.
+
+[00:26:04] Speaker I:
+  All right.
+
+[00:26:05] Speaker G:
+  First up, I'm actually going to read verbatim. This is the historical reference of why our board was formed. The PUB was formed in 2015 in response to legal challenges and public ratepayer concerns. Subsequently defined with extensive public process plus recommendations from a blue ribbon commission. PUB's purpose is to ensure accountability and transparency of ratepayer funds and provide oversight of the public utilities. So that's like super clean language. And the reason I wanted to start with that is it underpins all of our decisions, our consensus, and our driving agenda moving forward. Functionally, what that means is that we are a collection of impassioned volunteers spread across the city who are here to provide independent oversight of the Portland Water Bureau and the Bureau of Environmental Services as it pertains to water, sewer, stormwater, and natural resources delivery. We also serve in an ongoing capacity as the Budget Advisory Committee for the bureaus. We also are pulled into special projects. We have 2 of our board members serving on the Project Delivery Advisory Team for Bull Run, technical folks who are not only helping to provide and pull that project to successful completion, but also relaying updates to the public. Additionally, we have 1 representative per month joining the monthly Administrative Review Committee. Which is where our community members can appeal their water and sewer bills. Yes, we meet twice a month, first Tuesday of every month, third Thursday, hour and a half per meeting, about 2 hours read ahead, a little more for certain folks. And the reason I want to share that, just like last time, is to say it's wide open to the public. We love it when the community shows up. There is public comment at the start of every meeting, and as representatives, as members of the community, we want to hear everyone's concerns and just work together to deliver clean drinking water for all. That is our mission. The second bubbled point you see with all those bullets, I'm not going to read it out, but it provides a wonderful entry point to define and share that we are in the midst of crafting not only our annual report for 25-26, but our work plan for 26-27. And we're really, really excited and hopeful to schedule and coordinate with your staff a working session with council. Committee of the Whole is great. Public Works Committee also super cool. And I think the point of excitement for me personally is that in the June 25th, the annual budget process discussion that happened last month, there were some really great points raised by council members and there's a lot of natural crossover on how we as a board can really align and collaborate with the bureaus to help to deliver to these needs. Some specific ones, Council President Dunphy, budget mapping. We are super pumped on how to integrate GIS, to explore and reflect deferred maintenance in the asset backlog. Council Member Elana Pirtle-Guiney, KPIs is a natural fit for the bureaus and how to actually leverage the website to deliver not only Bull Run updates, but just all these wonderful metrics. And then Council Member Avalos, the really exciting one is not viewing cuts through the prism of money saved, but people managing programs to deliver service to community members. That's a critical point of how to connect people, program, and service to our community. When it comes to full-time employees. So that's just a couple of points that jumped out. We want to hit it the next year. We'd love to work with you to make that happen. Wonderful. The last point I do want to raise— oh, one more on that last slide, sorry. The PUB core value, it's that commitment to clean water as a right that really does underpin all of our decisions as a board. The specific point as well is that every person requires clean and affordable drinking water and sanitation for healthy communities and healthy watersheds. And it's our balance and our responsibility for regulation, infrastructure, and staffing with environmental, community, and ratepayer impacts. So that's the mission and nature of our board. Now the fun part, and this is actually, I love this next slide. All those smiling faces, these are all the Portlanders, the wonderful Portlanders that comprise our Portland Utility Board. This is actually from last November. It was a site visit we made alongside Director Ting Lu to the plant in Northeast with Bureau of Environmental Services. And as a quick aside, it's always so rewarding to visit in person to appreciate the technical people that make this happen. Beyond just numbers on a screen, it's so many committed team members working in collaboration. So of those folks, we have 10 community members who are full-time volunteers and 1 labor representative who actually is a designated employee in the utility bureaus who is a perpetual bargaining unit. This unit, this position has remained vacant while I was recruited by the utilities over the past year, but we have a great candidate today for confirmation in front of council. They are staggered 3-year terms with a maximum of 2 full terms per board member. It's also comprised of 3 total non-voting ex officio members, 1 labor, 2 non-represented, all utility employees, and those are appointed annually by the mayor. All of these, we also have a little bit of give just in case people have extenuating circumstances or life situations that crop up. But today is the confirmation of our 3 candidates. This next one is also to provide a cross-section and a representation of the skills pursuant by each of our board members. And every time we go through a selection cycle, we have a ton of candidates come through. We're also very thoughtful and deliberate about gaps or chasms of expertise within our board so that we're trying to infill and create a cross-section of experience while also those— I mean, straight up, I have deficiencies. I had very little experience when it came to filtration or water treatment before I came on. I was heavily invested interested in project and program management and kind of organizational management. But that's the wonderful thing is that each of us comes, and you can read through this list, each of us comes with this specific point of entry, point of orientation, point of expertise. And it's not just us working in concert, but also receiving information as a layperson to then communicate to the public ideally. So with that, I turn over to Lorraine to key up our candidates for today. Thank you.
+
+[00:32:01] Speaker B:
+  Thank you, Kyle. Loren Wilson, voting member, Public Utility Board. A little bit about myself: I was re-elected— or reappointed, that's the term— last year, so you all would have heard a lot about me then. I've been a pub member since 2022, and I want to take this opportunity to briefly recognize and appreciate the board members ending Service on PAB because, as we can't emphasize enough, we are a volunteer board. A voting member, Julie Ducroix, completed her second and final term last month, bringing valuable legislative and environmental nonprofit sector expertise to PAB's project and discussion over 5.5 years. Ex officio member Joanne Johnson, a former colleague of mine when I worked at the City of Portland in a former life, The accessibility analyst on water equity policy team contributed her deep knowledge and commitment to community engagement, government systems, and advancing equity for the past 3 years. We learned just last week that voting member Brooke Bernahue's recent job transition would require that he step down for his role on POP next month. Brooke is a water resource engineer that moved from Austin to Portland in 2024 and joined PUB last year. With a research and civil engineering background, he brought a depth of knowledge and experience in water efficiency, reuse, and long-term resilience. Brooke quickly engaged in the Filtration Project Delivery Advisory Team, or PDAT, as we like to use a lot of acronyms here at the city. To help lead PUB's engagement in the oversight of this major capital project. Though sad to lose him, we're really sad because Brooke was a champion. We were lucky to work with him this past year and are glad he will continue to contribute his time and energy towards a sustainable water future here locally in Portland. We appreciate the time and dedication these members and others have contributed to the city and POPS work. So we're going to share a little bit of our recruitment process. I think this was revised a few years ago, AMI, where we came up with this new process, and it seems to be working really well. Each year the POP forms a recruitment subcommittee including current board members such as myself and city staff, this year to fill just one community community voting member vacancy. It ended up being two with the unexpected, um, with Brooks stepping down while the unions identified their appointee for the labor vacancy. A key goal in our recruitment remains to diversify and balance the skills, experience, interests, and perspectives of the PAB to ensure rich conversations that help inform our feedback to leadership. Equity remains a particular area of focus and emphasis for the board's work and in our recruitment, including outreach, interviews, and considerations. The POP held an open application process in March with outreach through notice, social media, and personal contacts of board members and staff, resulting in 18 applicants. POG staff facilitated group interviews, which allowed the recruitment committee to evaluate candidates in a format similar to regular POG meeting. So it wasn't a question and answer interview, it was a forum where they spoke among themselves, and that was very interesting. You learn a lot when people are engaging with other interviewees, where board members considered an issue, share ideas, and engagement dynamically in conversation. We were very impressed with all 13 candidates interviewed and ultimately recommended the appointees before you today. We also identified strong alternatives, one of which we are already bringing forward today. And others that we would bring forward before you later if another vacancy arises before the next full recruitment. The appointment recommendation, along with the recommended appointee identified by the unions, were approved by the PAB in a public meeting in June. Particularly with the governance structure changes, we understand understand there is interest in ensuring adequate representation from all districts in Portland. The chart on the right shows current distribution of PAB members. All districts are represented, though some more heavily represented than others. The chart on the left documents the distribution of applicants by district, with District 2 providing the most applications. One recommended appointee for the committee vacancy resides in District 1. The other resides in District 4 but works in District 2 and citywide. Portland City Code focuses on skills, experience, and perspectives identified to serve the board well, ranging from technical knowledge of utilities and conservation to more generalized area of financial analysis, group process, and communications. As we discussed, there's a wide range of expertise on PAB, but we also are very conscious of making sure all perspectives are considered, whether present or not. Although district distribution is not part of code, the board will continue to identify potential district gaps and target outreach for volunteers in coordination with relevant council and partners. What we bring initially before you today are the two recommended appointees bringing experience and perspective to complement the existing board members. If approved, as it will As it has been amended by Council Clerk today, we also bring one additional appointee for the unplanned vacancy that emerged last week. This candidate was the first alternate selected by the recruitment committee and was supported by the full board. You will see from the materials and discussion that all three recommended appointees have a depth breadth of technical knowledge and expertise, awareness of issues facing utilities, thoughtfulness about equity, and commitment to engaging in challenging discussions regarding utility needs, priorities, and trade-offs. The brief highlight on these two slides on the appointees provides some basic information, but it is much more interesting to hear directly from the appointees. Let me introduce Al Haig, Joe Robinson, and Rose Pouton, and she'll be joining us virtually by recording because she has a conflict because of the short notice of our meeting. Thank you. Thanks.
+
+[00:40:01] Speaker H:
+  Good afternoon, Council. My name is Al Haig. I live in the Hazelwood neighborhood. That's District 1. I've been working at the City of Gresham as a civil engineer for coming on 7 years now. My free time is spent with local conservation groups like Nature Conservancy and Bird Alliance of Oregon, community building organizations like my local tool library in East Portland. And, you know, 350 PDX, which is a kind of a climate justice organization. I'm excited to join— mostly with my 3-year-old baby, too. But I'm excited to join the PUB as the community member volunteer to provide oversight and focus on transparency, affordability, and climate resilience efforts, and to solicit input, keep my ear to the ground, listen to Portland community members at large, and amplify their priorities and their concerns. So yeah, I'm happy to answer any questions you may have. Otherwise, just thank you for the consideration.
+
+[00:40:58] Speaker B:
+  Thank you very much.
+
+[00:40:59] Speaker A:
+  Yeah, thanks so much.
+
+[00:40:59] Speaker C:
+  Thanks, Mayor Keith Wilson.
+
+[00:40:59] Speaker D:
+  And then we'll go back around.
+
+[00:41:01] Speaker M:
+  Hi, my name is Joe Robinson. I'm the District 4 resident and a planner coordinator in BES Operations and Maintenance. So I work primarily in District 2 at the Columbia Boulevard Wastewater Treatment Plant, but my scope control goes all across around 100 pump stations and the plant in Lake Oswego as well. I've had the pleasure of being a CPBW represented member for about the last year. Beyond my life as a Portland resident and a daily user of our utility services, I'm well integrated within BES professionally and local water groups as a volunteer. These include the Columbia Slough Wastewater— or sorry, Columbia Slough Watershed Council and Water for People, both volunteer organizations. You may have seen me dressed up as Seymour the Salmon at one of those. I'm engaged through scholarships volunteerism, and speaking assignments in multiple water industry groups, giving me access to world-leading insights for municipal utilities. Following best practices for generating community buy-in, ensuring social equity in public utility decision-making, and developing sustainable climate resiliency plans in line with the circular water economy model, I'm eager to include thousands of labor-represented Portlanders as members of an engaged public. I'm excited to continue to develop positive relationships with the Portland Utility Board, with Bureau and Service Area leadership, and to advocate on behalf of my neighbors, my peers, and my represented colleagues. Thank you for your consideration, and any questions, feel free to ask.
+
+[00:42:35] Speaker N:
+  And if you'll give me just a moment, I will share a short video from Rose Poden, who was unable to join us today, but did record a greeting.
+
+[00:42:51] Speaker G:
+  Hi everyone.
+
+[00:43:06] Speaker K:
+  My name is Candace Avalos. I am the water justice associate at Verde, a Portland-based nonprofit. Portland-based nonprofit focused on building environmental wealth through social enterprise, advocacy, and organizing. I also lead the Oregon Water Futures Collaborative's annual Water Justice Leadership Institute, which is in its 4th year. This is a virtual multilingual collaborative space for all Oregonians who are interested in learning about water, water justice, and mobilizing around critical environmental issues relating to water. Prior to my role at Verde, I worked for many years as a licensed nurse in Oregon, so I approached a lot of these water issues with a healthcare lens. I also hold a master's in conflict and dispute resolution specializing in environmental conflicts involving water from the University of Oregon, and I am also I am also a PhD student right now at Oregon State University studying water sciences. I apologize for not being there at the meeting. I am at work right now, so I appreciate you all and thank you all for your flexibility in allowing me to introduce myself through video. I look forward to joining the next meeting, and I wish you all a have a wonderful day. Thank you.
+
+[00:44:31] Speaker B:
+  Hi, everyone.
+
+[00:44:35] Speaker N:
+  Sorry about that. So the recommendation before you—
+
+[00:44:42] Speaker C:
+  pull the slides back up.
+
+[00:44:58] Speaker N:
+  Is to confirm the appointments of Al Haag and Joe Robinson, and if amended, as we hope, also Rose Poden to the Portland Utility Board. These impressive appointees will join the members continuing service along with the 3 ex officio members identified by bureau leadership and in the process of being appointed by the mayor. As you've seen, we have We have some amazing volunteers stepping in where others have set high standards. We share deep appreciation for all past and future PUD members for their willingness to serve. Thank you, Chair Connell, Council, for your consideration today. We're all available for any questions.
+
+[00:45:34] Speaker E:
+  Thank you very much, AMI. Thank you, co-chairs. Thank you to our prospective appointees as well. Before we get into Council discussion, I wanted to ask Rebecca, is there any Registered people for testimony?
+
+[00:45:53] Speaker F:
+  No one has signed up. Okay.
+
+[00:45:56] Speaker E:
+  Well, in that case, we'll open it up for technical questions to staff, to the appointees, to proposed amendments as well, and to discussion. And I believe Councilor Clark was first, followed by Novick.
+
+[00:46:12] Speaker G:
+  Thank you, Mr.
+
+[00:46:13] Speaker N:
+  Chair.
+
+[00:46:14] Speaker D:
+  Thank you so much for your service. And your willingness to serve the new folks. I really appreciate it. As the chair of the Public Works Committee, I'm really, really interested in what you have to say and just appreciate your service. And I think Lorraine Wilson really outlined what happened with the vacancy. I won't repeat all of that. So, Mr. Chairman, I would like to move Amendment 1, which everybody should have had. And that would add Rose as a third appointee to the PUB.
+
+[00:46:48] Speaker O:
+  Second.
+
+[00:46:48] Speaker D:
+  Thank you. Clearly, this was because of a resignation. We're really sorry to see him go. Thank you for those comments. I just also want to add that I don't think that Rose mentioned this, but she participated in the same open recruitment and the review process that all the other candidates and was recommended by the PUB Recruitment Subcommittee and supported by the full board for this appointment. Just wanted to clarify that. So then this amendment would change the item from 2 appointments to 3 appointments, with Rose filling the vacancy created by the resignation of Brooke Birhanu. So I would respectfully ask for your support for that amendment.
+
+[00:47:29] Speaker E:
+  Thank you, Councilor Clark. I think that was Councilor Green who seconded that motion. Great. We'll move into discussion of the amendment. So I have on the main list, we have stack, we have Novick, then Dunphy, then— sorry, Novick, Green, Elana Pirtle-Guiney, then Dunphy. So I'll just ask you if you are interested in speaking to the amendment as we go. Councilor Novick, are you interested in speaking to the amendment?
+
+[00:47:59] Speaker J:
+  Good amendment, should pass.
+
+[00:48:01] Speaker E:
+  Thank you. Councilor Green.
+
+[00:48:08] Speaker O:
+  I don't have— I'm not speaking to the amendment. My hand is in the queue for the broader. I'll just withdraw my hand for now. Let me take a vote.
+
+[00:48:16] Speaker I:
+  Great.
+
+[00:48:18] Speaker E:
+  Are there any other discussion on the amendment? Seeing none, Rebecca, will you please call the roll?
+
+[00:48:29] Speaker F:
+  Calling the roll on the amendment. Moved by Councilor Clark, seconded by Councilor Green. Elana Pirtle-Guiney.
+
+[00:48:43] Speaker B:
+  I'm sorry, I—
+
+[00:48:45] Speaker F:
+  Ryan.
+
+[00:48:48] Speaker C:
+  Aren't I—
+
+[00:48:49] Speaker G:
+  I'm sorry, I was unprepared.
+
+[00:48:50] Speaker I:
+  I thought we were starting with District 3 now.
+
+[00:48:55] Speaker F:
+  Oh, pardon me, I'm sorry, my tracker, my tracker is not updated. Sorry about that, folks.
+
+[00:49:01] Speaker D:
+  Um, thanks, Rebecca.
+
+[00:49:02] Speaker B:
+  I was like, was that my name?
+
+[00:49:04] Speaker F:
+  No, that was, that was our fault.
+
+[00:49:05] Speaker K:
+  Apologies.
+
+[00:49:05] Speaker F:
+  Um, if it if it's okay with Council, I'll proceed with this before we reorder for next time. Thank you, Ryan. Oh, sorry, Councilor Ryan, that would put you next for this vote only.
+
+[00:49:18] Speaker A:
+  I'll go with the flow, but actually, your order's a little off, you know that, right?
+
+[00:49:23] Speaker K:
+  Yeah.
+
+[00:49:24] Speaker A:
+  Okay, anyway, aye.
+
+[00:49:27] Speaker F:
+  Tiffany Koyama Lane, aye. Angelita Morillo, aye. Steve Novick, aye. Olive Clark.
+
+[00:49:35] Speaker C:
+  Aye.
+
+[00:49:36] Speaker F:
+  Green.
+
+[00:49:37] Speaker D:
+  Aye.
+
+[00:49:38] Speaker F:
+  Zimmerman.
+
+[00:49:39] Speaker B:
+  Aye.
+
+[00:49:39] Speaker F:
+  Avalos.
+
+[00:49:41] Speaker I:
+  Aye.
+
+[00:49:43] Speaker F:
+  Dunphy.
+
+[00:49:43] Speaker I:
+  Aye.
+
+[00:49:44] Speaker F:
+  Smith. Absent. And Sameer Kanal.
+
+[00:49:54] Speaker I:
+  Aye.
+
+[00:49:54] Speaker F:
+  And the motion is approved with 11 ayes, 1 absent. To amend the report.
+
+[00:50:01] Speaker E:
+  Thank you, Rebecca. Thanks, everyone. We'll continue on with discussion of the underlying, starting with Councilor Novick, followed by Councilor Green.
+
+[00:50:12] Speaker J:
+  Thank you, Mr. Chairman. I just wanted to say I'm incredibly impressed with the qualifications of the nominees and the process that you followed to get them here. And I also have 2 extraneous comments to make. One is to Al. As you probably know, your name fills those of us of the Cold War era with nostalgia because although you spell the name differently, Al Haig was a general and a major figure in several Cold War Republican administrations. And, Kyla, I just wanted to supplement your account of the formation of the pub by saying my recollection is that Bob Jenks of the Citizens Utility Board came to see me and Nick Fish because he knew me and because Nick was the water and sewer commissioner and said, don't you think that particularly in light of all these lawsuits you guys are drawing, you should have a public Portland Utility Board? And they could— I look at each other and said, sounds good to us.
+
+[00:51:03] Speaker G:
+  That's a much more colorful account. Thank you.
+
+[00:51:07] Speaker E:
+  Thank you, Councilor Novick. We'll go to Councilor Green, followed by Elana Pirtle-Guiney.
+
+[00:51:12] Speaker O:
+  Thank you so much. Again, I echo everything Councilor Novick said about the process and the qualifications. I'm very impressed by your backgrounds, but also your interest. Your willingness to serve and step up. I do have basically one big question, and I would invite both of the present appointees or nominees to answer it, and however you think is best given your own experience and your own kind of, you know, approach to this. But broadly speaking, how would you respond to a public that is worried about affordability and rate pressure on the one hand, but we know that we need to invest in infrastructure on the other. That's a tension, right? And it's not an irreconcilable tension, but I think from what I've read from either of your backgrounds, you probably have some smart things to say on that. And there's probably some— there's some labor issues involved, there's some environmental stewardship issues involved. And so I ask this question because it's going to be important important for this board, I think, to grapple with that because City Council is going to grapple with that. A number of us have advocated for overhauling our approach to setting rates in the City of Portland to be a more robust and a more sort of thoroughgoing process that might consider rate design questions more broadly than we do it currently. And so I'll start with you, Al, and I wonder if you have a response to that, or can give me some kind of indications on how you might show up for that kind of a question in the future. Thanks.
+
+[00:52:52] Speaker H:
+  Gosh, yeah, it's a huge question. I think having the public be aware of how the rates are set, right, the structure of it, just being super transparent and presenting it in a clear fashion, kind of like meeting people where they can understand it, you know, so they can participate more in the process, right, and get their concerns about affordability out, if they have ideas about, you know, some kind of like financial assistance or discounts that we haven't considered yet, right? Like just soliciting that input and really listening to folks and incorporating that, I guess, into our decision-making, right? So yeah, seeing how folks are heard is important.
+
+[00:53:32] Speaker O:
+  Thanks, Alan. Just a quick follow-up. You've got an interest in groups and conservation, I think, is a big kind of thoroughgoing interest in you. Do you have any views on the role of the Portland Clean Energy Fund as a source to help on the infrastructure side of these questions? I mean, it's currently in a strategic investment plan for VES-related investments, and so, you know, watersheds more broadly, tree cover, and that sort of thing. Do you have any views on that?
+
+[00:54:02] Speaker H:
+  Yeah, I think it's like a perfect fit for those funds. For PSF funds is, you know, BES projects and tree canopy projects, things like that, like dispersed stormwater infrastructure. Like, that fits right in with what PSF was created for. So I'm a proponent of considering funds for that.
+
+[00:54:18] Speaker G:
+  Thank you.
+
+[00:54:20] Speaker O:
+  Joe, why don't you jump in here and give me any thoughts you have there?
+
+[00:54:24] Speaker M:
+  Certainly. So I encourage you to attend one of our future meetings where I'll probably have a more robust answer. For right now, I will Just point out that, yes, it is not an irreconcilable difference, and that is aided by the fact that the cost of these infrastructure upgrades is only going to increase over time. And this is a big consideration in the acceptance of bonds and financing programs for some of our CIP projects. Obviously, STEP and the Bull Run Water Filtration Project are very expensive. It's very time-consuming, long processes that does impact the rates that ratepayers have to contribute. However, if we put that off, we will no longer be compliant regulatory. We will no longer be providing the services to our constituents that we're supposed to be, and that to me is not acceptable, an acceptable alternative. So while we do have to strike this balance, it's important to remember that these are going to a good use. These are going to city employees who will disburse them through the CIP projects in appropriate venues, and these are all very motivated people working for their neighbors and for the cleanliness of our local ecosystem. I will also point out that we do have other opportunities to offset some of the cost of these infrastructure upgrades. As you mentioned, there is PSF available, Whether or not that is applicable is outside of my scope as an engineer. But we also have teams that I work with closely, the Energy Trust of Oregon, who help offset these electrical improvements, finding rebates at the state level that can make it even more cost-effective to introduce them now. If you look at something like the RNG program at Columbia Boulevard Wastewater Treatment Plant, that's a tremendous upgrade. Upgrade over the last few years, and it's a tremendous expense as well, and that does impact ratepayers. But at the end of the day, that's also a revenue-generating source. And if we didn't take that initial investment, if we didn't take that initial burden of having to increase rates to offset that, we wouldn't have this long-running revenue-generating source that is also a benefit for the environment.
+
+[00:56:38] Speaker O:
+  I appreciate those responses, and I'll look forward to a future meeting. One quick follow-up for Joe is, as the labor representative, do you see a role through the board to connect labor to the Bureau when we have to have some of those conversations around how to really control the cost of these big projects?
+
+[00:56:58] Speaker M:
+  Of course, yeah. That may be challenged as labor's presence within the utilities shifts with core realignment work ongoing. The voice is always going to be fluctuating, but I believe it's a two-way street, and that's why we have existing contracts that are in bargaining. That's why we have opportunities to speak before council directly, and that's why I'm hoping to join the Portland Utility Board.
+
+[00:57:25] Speaker G:
+  Thank you.
+
+[00:57:26] Speaker O:
+  You'll have my support.
+
+[00:57:27] Speaker I:
+  Chris.
+
+[00:57:27] Speaker G:
+  I just wanted to build off of the points raised by our prospective board members. It's wonderful because this is the same energy and spirit of conversation we've had over the past few months. The cascading nature of cost felt by everyone that is amplified through public response and public comment, seeing these massive price tags that come on right now when I can barely afford X, Y, or Z, and to defer these costs and defer this investment, the way that that only creates greater risk amplification. So the technical nature of the response and the open broadcast of our sessions I just wanted to reinforce two points for anyone listening. Anyone who provided public testimony to our board or to City Council, they are truly open sessions. We want to engage and involve everyone, and they are both technical and layperson-equipped to really understand what the implications of these investments, not just cost but investment, are right now. The second point too is brief timing. It also builds upon the point of interest we as a board have in really defining a working session with Council to, in good faith, really dive into these points and be ready to communicate them to the public, that it is about generational investment. Just another quick note, I forgot to mention it in my notes, but September is a great point of alignment. Our annual report and work plan is due September 30th. And also just a thank you to Council Member Tiffany Koyama Lane and her office for reaching out and coordinating a visit from her to our board meeting. And that's looking at September. So it feels like that's a timeframe when it can work. So it's just, heartfelt energy. Thank you.
+
+[00:58:59] Speaker B:
+  Can I just say something too? I like to say I'm the least of the members on the POP, okay? So when technical information come to me, I ask questions because I challenge the technocrats, okay? And I think that is important. And for council to understand the intentional work we have been doing over the years to dive into what does it mean for rate increase. And I said, I'm the least of LEAP members. I don't want to see rate increase. However, I want to ensure that the infrastructure, the support we have from staff, that when those things come together, that we ensure that Portland has resilience in its public utilities. And when we come and we do the work and we propose a rate increase or not, it is intentional and it's well-informed because we ask the
+
+[01:00:00] Speaker P:
+  up front. So I really would like you all to lean on us as a board that is putting in the work, putting in the time, volunteering their time, asking the hard questions, hoping that we start getting the information that we need once again so that we can provide that input so that you all can rely on us and that we can work collaboratively as we share that information with you during budget time so you understand that we are not proposing rate increases or not for rate increase and seek. I don't want to see an increase in my water or sewer bill. So I just wanted to share that with you. So we look forward to working with you all.
+
+[01:00:40] Speaker Q:
+  Thank you so much.
+
+[01:00:40] Speaker R:
+  Thank you, Councilor Green. Councilor Pirtle-Guiney, followed by Councilor Dunphy.
+
+[01:00:46] Speaker S:
+  Thank you, Chair Kanal. Thank you to the board leadership for the robust process that you went through, and to our appointees for being willing to step up and serve and for being with us here today. The first part of what I was going to ask, I think you covered in Councilor Green's question. I'm curious about that tension between the investments we need to make and the rising utility rates. But I want to ask about the visibility to that tension and the transparency piece of the work of the board. And I'm wondering what you see— the board already does a lot of good work— but what you see as your role, not just as the board but as an individual, in helping to increase that transparency and that visibility so that Portlanders understand that tension we're dealing with between the need for investment and the way that that can lead to cost increases and the need to be careful about the cost increases for our utilities. And how can you as a board member help us to make sure that Portlanders understand that tension and also know what to expect to expect well before we get to budget season? I'm happy to hear from either of you first, whoever wants to jump in.
+
+[01:02:06] Speaker Q:
+  Yeah, I mean, that's great. I feel like Kyle covered it really well in making sure that we're giving opportunities, right, for the public to provide feedback to us at every opportunity, whether we're inviting them to our Portland Utility Board sessions or we're ourselves or representatives are going to like trusted community organizations that people are already involved in, right, that they participate in, that they've been with for years, and explaining that dynamic that you touched on about the tension between rate hikes and affordability, the why behind it, and just making time at these places, neighborhood organizations, associations, nonprofits, things like that, right, cultural organizations to to kind of meet people where they're already going to.
+
+[01:02:54] Speaker S:
+  Great, thank you.
+
+[01:02:58] Speaker T:
+  And I can only build off of that great answer already by offering again to the general public, the councilors who are present, that we have tours available of the wastewater treatment plant of Bull Run Filtration Area. It's a great idea to get folks involved and engaged in their local projects and their water. I think If you don't go out of your way to see what the tremendous amount of infrastructure is that's being built with those rates, it's easy to just look at that as some arbitrary cost that is being assigned sort of prescriptively. But getting a firsthand look and descending into the Swan Island CSO facility, for example, it's tremendous and it's seriously a titanic undertaking that public servants have been doing for decades now. Obviously, there have been some issues with the maintenance of assets and the depreciation that's at hand. And that's something that we'll always have to face, in particular due to regulatory changes. But it's something that we can only face with public cooperation.
+
+[01:04:03] Speaker S:
+  Thank you both. It's helpful to just hear a little bit more about your thinking there.
+
+[01:04:09] Speaker R:
+  Thank you, Councilor Pirtle-Guiney. Councilor Dunphy, followed by Councilor Ryan.
+
+[01:04:16] Speaker U:
+  Thank you, Chair. You know, most of my questions were mostly already taken, so I really wanted to focus in on affordability and rates and going on. I've had the pleasure of attending many PUB meetings in my old job when I worked for Commissioner Nick Fish. I attended dozens of them. I found them incredibly boring, but because the folks were so incredibly laser-focused on the bottom line, these were not meetings about having icebreakers. This was about digging into Excel spreadsheets.. And I really ask all of you to make sure that we are keeping the bottom line in focus on this, that you all are not a rubber stamp, a simple body to review documents that the Bureau brings to you, but rather that you are the last line of defense between the public and the government when it comes to this. Because I have really deep concerns about the future of the utilities. I'm really worried about rates. I'm really worried about some of these big projects that we are taking on. The water filtration plant is a goliath. Of a project, and it's quintupled in size since I was last in this building. I'm really worried about that, and I'm worried about the direction of where rates are going over the next 10 years. Specifically, I'm worried about our neighbors in East Portland, folks who have been paying into the system broadly but not receiving the same level of benefits. And we know that on our side of town, as tight as As budgets get tight, families get desperate and things can spiral out of control. So I'm going to ask you all to just be really intentional about that. And the city has also really historically gone through ebbs and flows about the seriousness of ratepayer dollars. There have been periods where we were very loose about using ratepayer dollars for things, and then we got sued over and over again, and then we were incredibly tight. And it's my opinion that we've sort of come back to the looser side of things. I hope that you will make sure that that that is part of your ethos as you are approaching this, that ratepayer dollars are precious and that there are people who are ready to sue and are watching every step that we all take. I want you to be brave and firm as you are thinking about this. It is a sometimes difficult position to be in as you are not necessarily equipped with the tools that a lot of the staff who will come to you are. A lot of these— you all have incredible experience, but also there I know that these processes can be confusing, and please take the moment to ask for more information and stop and really understand these things and not just assume. And then last, I want to make sure that you all are keeping a firm hand as the Bureau moves from two bureaus to one. That process has not yet completed. We're moving there towards changing some logos and changing some people's signatures and their email threads. Please recognize that this is an incredible moment of change while the Bureau is also trying to build the largest infrastructure project that we've built. There's an opportunity for really good things to happen, and there's an opportunity for some bad things to happen if we don't keep on it. So I'm really incredibly thankful to you for stepping up to public service in a moment right now, especially knowing that this particular role is not glamorous but incredibly necessary, and especially right now as part of the broader conversation of what we we are having in this community. Everybody is feeling the pinch, and it is on to you guys to help us make sure that the information that comes to us for decisions has already been through your hands. So thank you guys for the opportunity. I look forward to supporting your nominations and working with you in the future.
+
+[01:08:03] Speaker V:
+  Thank you.
+
+[01:08:03] Speaker U:
+  Thank you, Chair.
+
+[01:08:04] Speaker R:
+  Thank you, Councilor Dunphy. Councilor Ryan.
+
+[01:08:08] Speaker W:
+  Thank you, Chair Kanal. It's good to see all of you. Thanks for being here. First of all, I'm supportive of the nominees. I'm going to dive into a couple things. I want to underscore the tenor out there about the rate increases. I've been going to neighborhood association meetings now for about 6 years, and, you know, you always have PBOT concerns. PBOT, sorry, that's just what it's like when you go to a neighborhood association meeting. And there's other things that pop up now and then, but the anger— it's like anger about the rate increases is real. And so I know we had a discussion about that earlier and we're on the inside and we understand how important it is to meet the regulatory. Translating that to people who are experiencing an increase in service— not increase, in their perception, a decrease in services and an increase in cost is real for Portlanders right now. And they're not used to seeing such big rate increases. So I just want you to understand that. I know that they might come to your meeting, but they definitely come at us. And so I just wanted to make sure you really understood how important this issue is and that tension. I had the pleasure with Councilor Zimmerman— we went on a field trip, an inside trip to the water filtration construction site this last Friday, and it was very helpful. It was actually lovely to see so many cranes up. It looked like Portland circa 2016. Just in this one spot. There were cranes everywhere. It's a big project. It was helpful for me to be there and to ask serious questions, to have better insight into the complexity of that project. So this, I guess, would be for both the co-chairs, Lorraine and Kyle. Have you all had an opportunity recently to go on a trip?
+
+[01:09:58] Speaker X:
+  Not directly to Bull Run. We are scheduling it for the future. We've had our two team members on PDAT have taken on-site visits, but that is a board— it's absolutely for our board. It's been more like local sites we've taken to date.
+
+[01:10:13] Speaker W:
+  So, so far you have not, as a— as PUB, done an on-site trip?
+
+[01:10:17] Speaker Y:
+  No, but we're currently working with the Bureau to schedule one within the next couple months.
+
+[01:10:22] Speaker X:
+  It was 2 years ago, and like the site was being basically like forecast and projected. But yeah, we're—
+
+[01:10:28] Speaker W:
+  it's—
+
+[01:10:28] Speaker X:
+  we just sent out a survey like last week.
+
+[01:10:30] Speaker W:
+  That's fair, Kyle. I went several years ago, and it was quite a different scene.
+
+[01:10:34] Speaker Z:
+  Oh yeah.
+
+[01:10:34] Speaker W:
+  So I really can't stress how important it is. It's so important for you to do those trips and to stay on top of that. So I look forward to hearing that you have those as regularly scheduled. And what does oversight look like for you in terms of monitoring that project?
+
+[01:10:49] Speaker X:
+  Yeah, with turnover of bureau director leadership and the starting of construction, the project delivery advisory team assembling not only representatives from PUB but professionals who have managed super projects and these massively scaled, massively budgeted— that is the opening point of access with, I think, every 2 to 2.5 months there's a return report. So that's kind of our eyes on the ground, so to speak, and we receive updates around communications, project management, milestone delivery. I know that there's also— Director Liu is preparing for the financial advisory team or a specific council of individuals to provide transparency around the management of the funds to run the project. So I would say that I'm not putting like just the same point every time, but I'm really motivated for the working session because a lot of these points we can bring not only here, the points of priority, but those we identify as a board, bring them for collaboration, and then ideally find some kind of regular delivery and dissemination, not just to council but to the public as well. Because what you're describing, I felt that intensity from the public even as we're toward the end of budget cycle this past season from public testimony to our meetings and public testimony to y'all. So that is not a simple thing to communicate. That is our point of access so far.
+
+[01:12:14] Speaker W:
+  I realize that we're having a conversation about a priority for PUB, and I know you have quite a few, but this, in my opinion, has to really be urgent and frequent. It's a project I've been supportive of multiple times on this dais, and It's been rough to continue to support it as it keeps escalating. And so, as you know, it's at $2.5 billion now. And so I just hope that you have a regular routine of spending time on this topic and by scheduling time for all of you to do in-site trips together as a pub board. That's my ask of you.
+
+[01:12:53] Speaker X:
+  Thank you.
+
+[01:12:54] Speaker W:
+  Thank you.
+
+[01:12:54] Speaker Y:
+  Councilor Ryan, I would just add to what Kyle shared, that currently every month, so at the Tuesday meeting, typically the— we're getting more hands-on updates about the filtration project specifically. So on top of the project teamwork, there's also full board updates that are led by both the project managers and the director.
+
+[01:13:21] Speaker W:
+  And when you— when we had the work stoppage due to some legal issues, how were you all informed about that work stoppage?
+
+[01:13:28] Speaker Y:
+  We had ongoing conversations with the Bureau, so we were receiving updates also dialogue around what the next steps were as far as decision-making on the land use issue, what the impacts were. There's still, you know, more time needed as the project moves forward to get into some of the detail. But there was a lot of dialogue and opportunity for question and answer to understand what the applications were.
+
+[01:13:56] Speaker W:
+  Okay, great. You have that lived experience to know that time is money. And so the work stoppage has been quite abuse to this process. So you have to do— you all have to do everything you can to ensure the oversight for the public, that we don't have that type of work stoppage again.
+
+[01:14:10] Speaker P:
+  And I think from direct input from the public, we are now— Director Liu is now raising up this financial team to look at it because we've been asking things about it. And we always emphasize when we talk about public engagement, we have to make the information digestible for the public so that they will understand what it is. We can't just say, oh, you come to it, the first question the public— why is this important to me? If I'm coming to a meeting and I don't understand what's happening in it, why is it important to me? I can't contribute it, I can't ask the questions I need to ask, I don't understand what the impact is going to be to me. So there it is where when, when we speak to to the city. That's one of the things. Yes, it's nice to have a financial committee to talk about how people— over people's head. No, we're requesting information in a digestible form. We are requesting data in a digestible form so that anyone who comes to the meeting will know why this is important to me and how it will impact me.
+
+[01:15:19] Speaker W:
+  Loretta Smith, thank you for using such language as digestible. Yes, so I'm counting on you, Lorraine, to make sure that the public has digestible information on this complex.
+
+[01:15:29] Speaker P:
+  I am the least of the members. I asked the question.
+
+[01:15:36] Speaker R:
+  Thank you, Councilor Ryan. I'm next in the queue. I just wanted to take the opportunity to thank the staff for doing an excellent recruitment, coming up with great applicants. Thank you to all 3 applicants for stepping up and to Councilor Clark for keeping up on this and making sure that we did in fact fill that emerging third vacancy. I'm looking forward to hearing the update, whether it's in Public Works or in this committee in a few months, and I'll be deferring to Councilor Clark, chair of that committee, for scheduling on that. I did want to flag, in addition to saying that I agree with much of the comments that my colleagues have made, in particular on what we hear as well, I'm looking at the schedule of your meetings, and I'm curious if you receive a lot of public testimony. I know it was mentioned that you hear that you receive public testimony at every meeting, but I'm just curious what the relative level of that is. How frequent is it that there is public testimony?
+
+[01:16:36] Speaker P:
+  Depends.
+
+[01:16:38] Speaker X:
+  I would say infrequent at best, but which is not to say that people don't attend. We have certain members of the public who are regularly attending and predate my time significantly. This is, again, a genuine point, reflecting as well on Council Member Ryan's questions and Council Member Pirtle-Guiney. I think a big challenge, which I've even felt as I try to keep pace with City Council, is it's difficult for people to carve out time to attend, let alone to become engaged enough to know what question to ask. And the result is the delivery of a fee that is totally disconnected, and I see a dollar sign in front of me. So I think Not only finding ways, and part of what I hope in the coming work plan is also engaging with the comms teams to understand what is the full spectrum of opportunity we have to relay the technical information we receive and our points of advocacy beyond the expectation that there's the attendance, hour and a half every week, sometimes during the working day. How can we reach people? And then how can we receive points of community engagement in a good faith, open-hearted way? Yes, that has been the extent to date. And I also feel the intensity of response from public around not only rate increases, but the cost of the facility. So this, it's not that we don't have answers right now, but this is a major point of focus for the board is my response. Any response, Loretta?
+
+[01:17:57] Speaker P:
+  I think it depends because just before the budget we had a few people while they came, was regarding the filtration plant. So it depends on the topic also, and it goes back to me saying, why should they attend, right? People's time are limited. We are undergoing a lot of stresses right now. People have a lot of things pulling at them. Why would they want to do so? So it's all about accessibility and ensuring that we, that the city is providing the information that people want to come and seek in a way that they would understand it. So that's my take on it.
+
+[01:18:46] Speaker R:
+  I appreciate that. And I noticed that you do one of the best practices to some degree, which is that you alternate times and days. You have Tuesdays and Thursdays, 11 o'clock and 3:30. The one thing I suggest is to go just one step further, maybe this is a suggestion to co-chairs and more likely to staff, to put at least one of them outside of a weekday at 9 to 5 in that window to give people the opportunity for that accessibility. I just wanted to put that on the table. The other thing I wanted to say before I pass it off to my Vice Chair Tiffany Koyama Lane is that I really appreciate that you've put all the information into this report. That we have been asking for about, you know, term lengths and who's being replaced and those sorts of things as well. So just wanted to thank the staff for that. I'll pass it over to Vice Chair Tiffany Koyama Lane.
+
+[01:19:43] Speaker Z:
+  Thank you, Chair. I'm not sure who says the Portland Utility Board conversations are boring because this has been very interesting and really grateful for all of you being here. Happy to support these members being appointed. And I just wanted to comment when there was— we were talking about reaching the public, comms, explaining things in a digestible way. I do think that part of that work is our job too, as councilors that are supposed to be on the ground connecting with constituents. So if you have information that you want us to be boosting, I can speak for my office, I guess. I'm going to be boosting in my newsletter, on social media. Let me know. I think that's a way that we can be working together to to share out opportunities and educational information. Thank you.
+
+[01:20:33] Speaker P:
+  And just to say something, I think it's, as you say, it's the council's responsibility and also the city's responsibility. As I said, in my former life, I worked at the city, and one of the programs that I was working on was in the former government structure, Was bringing bureaus together to understand how do we do outreach, right? Because we'll have a city, one bureau having a meeting right down the street from the other one, and we're going to the same people and we're asking the same questions over and over. We have the data, nothing is being done with the data. We're reinventing the wheel every time somebody new comes in and all of that. And how can we do that in a collaborative? So we convened a lunchtime session with all the outreach people, and we would talk about better practices. I like to say I would say better practices, because there's always room for improvement. There are no best practices. We live, we learn, we improve. And hopefully that would be something that is continued at the city as we look in this new government structure where things are now being brought together, especially the bureaus, the utility bureaus, other bureaus, and how do we do outreach as a city, and that we do it in a way that the residents of Portland are not once again burdened by this ongoing outreach and how could they come to PARB and how could they be involved and what they need to get so that we can do— we can work together. I'm all for having a meeting on a weekend, but I'm not going to commit to having a meeting on a weekend for having a weekend. We have to do the work to get to that point where we're ensuring that we are doing what we're doing, all these intermediary steps to get to that point. So that's what I wanted to share. Let's work together to get Portland residents involved in city government in a real way.
+
+[01:22:32] Speaker R:
+  Thank you, Councilor Tiffany Koyama Lane. I appreciate that last point, Loretta Smith, and having been in many of those same conversations myself in the last few years in my previous role, I really I do acknowledge the need for the staff side to really promote these sorts of things and help with those, as you put it, those first steps. Seeing no one else in the queue, we do need a motion. This is a report proposed by Mayor Wilson. We do need a motion to refer this item on to the full council with a recommendation that it be passed.
+
+[01:23:07] Speaker [:
+  So moved.
+
+[01:23:08] Speaker \:
+  Second.
+
+[01:23:09] Speaker R:
+  I think that was Councilor Clark. I didn't catch who made the second.
+
+[01:23:18] Speaker Z:
+  Councilor Pirtle-Guiney.
+
+[01:23:20] Speaker R:
+  Thank you. Is there any further discussion on this item? Seeing none, Rebecca, will you please call the roll?
+
+[01:23:28] Speaker \:
+  Calling the roll on Document 2026-238. Moved by Councilor Clark, seconded by Councilor Pirtle-Guiney, and beginning correctly with District 3. Tiffany Koyama Lane, thanks for stepping up.
+
+[01:23:45] Speaker V:
+  Aye.
+
+[01:23:45] Speaker ]:
+  Aye.
+
+[01:23:46] Speaker \:
+  Murillo. Aye.
+
+[01:23:54] Speaker [:
+  Smith.
+
+[01:23:54] Speaker ]:
+  Aye.
+
+[01:23:55] Speaker \:
+  Pirtle-Guiney. Aye. Ryan.
+
+[01:24:10] Speaker ]:
+  Aye.
+
+[01:24:10] Speaker \:
+  Sameer Kanal.
+
+[01:24:13] Speaker R:
+  Thank you all for being willing to certify.
+
+[01:24:15] Speaker \:
+  And the motion is approved with 12 aye votes. The report is referred as amended to City Council with the recommendation that it be accepted.
+
+[01:24:28] Speaker Q:
+  Thank you, everyone.
+
+[01:24:29] Speaker R:
+  Um, Rebecca, will you please call the next two items together?
+
+[01:24:35] Speaker \:
+  Item 3, discussion on Home Forward, document number 2026-239. Item 4, public input on Home Forward, document number 2026-240.
+
+[01:24:47] Speaker R:
+  Thank you. I'm going to give some introductory remarks while our presenters shift out and back in, and then I'm going to pass it over to talk to Chair Avalos before we go to our presenters. Today we're going to first hear from Chair Avalos, and we're going to have Home Forward Executive Director Michael Bonacore, City Attorney Adrian Del Coto. We're going to have the director, I believe, but certainly leadership from the Portland Housing Bureau, as well as Portland Solutions Director Skylar Brockernap, who's going to be talking primarily about the strike team, which relates to the part that relates to Home Forward. The purpose behind this shift is, I mentioned, we had a parallel item that was not filed to appoint members to the Home Forward Board. However, we will have future appointments to the Home Forward Board, and we've heard many different opinions from different councilors expressed in public for what the Home Forward should do in light of some recent reporting and some recent challenges at that organization, as well as, of course, the leadership change, ranging from we should look at this one or two types of people being on it to we should start over with the entire board. And I think it's important important that we use this time to showcase what council priorities we would like to see those appointees be able to meet, what's the profile, as well as what can they be prepared to address when they come forward. I think that's fairer to potential future appointees than surprising them or having an unknown sort of standard that they'd have to meet. We are discussing Home Forward specifically among affordable housing providers more broadly because of Home Forward's public role as a housing authority and its uniqueness. I want to also be clear that this is not an oversight hearing. We may have an oversight conversation in the future. I know it's been proposed, but this is not that. Today is about information gathering and about communication to not only the presenters, but also to the mayor and city administrator about what council will be looking for in future appointees. So as Executive Director Bonacor, City Attorney Del Cotto, Director LIHTC, I hope, and Director Brocker-Napper come forward. I want to pass it over to Chair Avalos to give us some insight, not only into this conversation broadly, but the conversations that have happened at the Housing and Permitting Committee already. Thank you, Chair Avalos.
+
+[01:27:11] Speaker ]:
+  Great.
+
+[01:27:12] Speaker V:
+  Thank you, Chair. So yeah, when this topic came before the Housing and Permitting Committee in May, we intentionally brought in the conversation beyond any one organization. And looked at the overall state of Portland's affordable housing system. So we convened a panel that included the Portland Housing Bureau, Home Forward, nonprofit housing providers, housing finance experts, and affordable housing advocates to better understand the challenges that they're seeing across the system. While Home Forward was part of that discussion, what became clear was that many of the issues we've been reading about are not unique to one provider. Panelists consistently described a system under significant strain. The committee heard that the financial model supporting affordable housing has changed dramatically since the pandemic. Operating costs including insurance, maintenance, utilities, security, and labor have risen substantially while funding has not kept pace. At the same time, providers were serving residents with increasingly complex behavioral health and supportive service needs. We also spent considerable time discussing vacancies. Providers explained that vacancy rates are influenced by a combination of affordability, geography, unit size, neighborhood conditions, financing requirements, and market trends. Several emphasized that the issue is more complex than simply lowering rents because affordable housing providers also have to generate enough revenue to maintain buildings, provide resident services, and remain financially viable. Another major theme was the importance of resident services and property management. Panelists consistently described those services as essential to housing stability, community safety and successful tenancy while also noting that they are increasingly difficult to sustain under current funding models. Finally, the committee discussed opportunities moving forward including preserving existing affordable housing, recapitalizing aging properties, improving coordination across governments, and ensuring future investments support both the long-term sustainability of buildings and the services residents need to remain successfully housed. Overall, the takeaway from the committee was that these are system-wide challenges affecting affordable housing providers across Portland, and addressing them will require coordinated policy, sustainable funding, and long-term investment. So that is my report. Thank you.
+
+[01:29:31] Speaker R:
+  Thank you, Chair Avalos. I believe we're going to hear the presentations first. So I'll start with Director Bonacore, please take it away.
+
+[01:29:44] Speaker ^:
+  Thank you, Chair Kanal, Commissioners. Michael Bonacore. I'm the interim executive director for Home Forward. Thanks for having me here today. We are going to— next slide, please. We're going to— I know the thrust of your conversation is around the appointment of Commissioners to the Home Forward Board. I'll touch lightly on that. And as Chair Canal said, Adrian Delgado is here as the city's expert on the legal considerations there. So I'll touch on it. Chair Canal asked me to give a little bit of a status update on the housing portfolio. So I'll do that. Share a little bit about our voucher program as perspective relative to the housing portfolio. And then just a quick update on where we're at organizationally. So that should all move pretty briskly. Next slide, please. So a quick bit of history. Home Forward was formed in 1941, passed by resolution from City Council establishing it as an independent entity. And then in 1992, the City of Portland, Multnomah County, and the City of Gresham and Home Forward entered into two IGAs, So one IGA defined the area of the housing authority operations, which had originally extended 10 miles beyond city boundaries. And so with the establishment of this agreement, it established Home Forward's service area as all of Multnomah County. Next slide, please. And then importantly for this conversation, the other IGA defines Commissioner appointments. So the board was expanded to 9 members, all of whom are appointed via the City of Portland. So of the 9, 5 commissioners are selected and appointed from the City of Portland, 2 from Gresham, and 2 from Multnomah County. And so while all of the appointments move through the City of Portland, both Multnomah County and Gresham select their own candidates, and the City of Portland sort of supports those jurisdictions' selection. Among the 5 members that the City of Portland appoints, one has to be a member of one of our housing programs, so a voucher participant or a resident of one of our properties. So that's— That's my brief overview. And now, next slide, we'll talk a little bit about the portfolio. So this map shows the distribution of properties across the county, representing over 110 apartment communities. This presentation was put together pretty quickly for today, but we'll make sure to circulate it for your reference after the meeting. Next slide. So an overview of the portfolio and our property management structure. There are about 26 apartments that our in-house home-forward property management company or department manages, and then about 4,300 are managed by third-party property management companies. We have a team of asset management professionals who oversee the entire housing portfolio— so both our in-house and third-party property management companies. That asset management function involves long-term planning and financial monitoring of the properties, evaluating property management performance including occupancy levels, leasing marketing strategies, property conditions, regulatory compliance and stakeholder communication, and long-term capital and rehabilitation planning. Thank you. Yes? I have one question for Mr. Mayor. Next slide. So there's been a lot of emphasis on occupancy in the Home Forward portfolio this winter. It was at a rate that was low enough that there was a lot of press coverage that you all saw. This graph shows the trend line for occupancy since the beginning of this calendar year, and you can see that it is trending in the right direction. Next slide, please. So as Councilor Avalos pointed out in her remarks, we, like other providers, are not seeing occupancy issues necessarily equally distributed across the portfolio, but a significant concentration of vacancies in the urban core. So you can see here that 8 properties account for 47% of of the portfolio vacancies in that urban core area.
+
+[01:35:11] Speaker T:
+  Next slide.
+
+[01:35:11] Speaker ^:
+  So steps that Home Forward is taking to address those occupancy and habitability issues, which can sort of impact our ability to lease up and overall occupancy. So community safety efforts. Which have included, you know, sort of tailoring responses to what particular properties need, but can include security presences, desk monitors, cameras, lighting, and public space management. Categorically addressing revenues and costs by reducing rents where it is feasible, particularly for the urban core properties, at which in most cases we're already charging well below the maximum rents at those properties. Move-in concessions for properties with higher vacancy rates, pursuing debt relief to reduce fixed costs, and exploring additional rent subsidy opportunities primarily through our federal funding partners. And then finally, leasing and property management supports include accountability and expectation setting around lease enforcement, community safety, and operational challenges. We've hired leasing agents and engaged targeted marketing campaigns, use of the Housing Connector tool, which is an initiative that came forward from the mayor's strike team process. And we are now, we have almost all of our apartments on that platform. And then longevity incentives and bonuses to maintain a consistent site presence. And so something we've experienced, and I think probably something you all heard in conversation with other providers is that turnover in property management and overall performance in property management is an issue. So we're having some early success in trying to incentivize staff to stay and sort of establish and then maintain relationships with residents.
+
+[01:37:25] Speaker T:
+  Next slide, please.
+
+[01:37:26] Speaker ^:
+  So as I said, I want to just touch on our rent assistance program, which is largely the Housing Choice Voucher program, although there are other rent subsidies that we administer. We understandably have a lot of attention on our physical properties, as we should, but our administration of rent assistance supports a significant number of families and represents a very significant portion of our budget, about $227 million federal and local funding revenue. As compared with about $66 million in our affordable housing portfolio. So our overall subsidy program is diverse physical apartments as well as subsidies that are attached to folks in the community. Next slide, please. So a bit of an update on what is happening now. I am now almost at the 2-month mark as interim executive director. Thank you for that. And our new interim CFO is just about 1 month in her role. We have made some initial organizational structural shifts to sort of support our ability to recognize the urgency of the moment that we're in. We are— our fiscal year runs differently than the city, so we have a calendar fiscal year. So we are now entering into our budget development process for FY 27. And so there's the immediate need to develop next year's budget in the face of a significant deficit of about $30 million, which means beyond even just this next year, we need a long-term financial stabilization plan. And that work is underway. In the context of that longer-term plan, thinking strategically about our whole portfolio and what sorts of opportunity there is around financial repositioning, potential sales, programming properties differently to better respond to the needs of different populations. You all probably remember that in April, before the prior executive director left, that Home Forward announced that there would be an organizational assessment. So that RFP is now out on the street. We anticipate having a consultant team selected and up and going by September and the work completed by January. Thank you. We are in the process of sort of resetting our board calendar and agendas so that that we are responsive to the call for the board to be more visible and engage and that more robust business is done sort of with public visibility. And then we are in the process of oversight monitoring both by the state, the Oregon Housing and Community Services, and by HUD as well. Next slide, please. Thank you. Next slide, please. The previous slide of what happened, what's happening now, as I said, recognizes that there is urgency to start the process of stabilizing Home Forward and restoring trust and accountability with our community. That can't wait for the recruitment process of a permanent executive director or for the completion of work by an organizational consultant. So all of those steps that I described and more are being taken to sort of meet this moment and recognize that that there is sort of this longer-term planning that needs to happen. So the recruitment of a permanent executive director and a permanent CFO, the completion of the organizational assessment and implementation of those recommendations. And I'll just say the focus of the organizational assessment is around structure, leadership structure, and a particular deep dive into the financial situation of the organization. And as I said, that work is underway now with the new team that is in place. So we will sort of bring the consultant alongside that work and have them, again, sort of develop, help us develop sort of a longer-term strategy for the overall health of the organization. And then the process of onboarding new commissioners. And we currently have 3 vacant positions 2 from the City of Portland, one of which is the resident commissioner that I described, and one from the City of Gresham. City of Gresham just, I believe, last week voted to advance their candidate. So that should come to City Council once it's back on the agenda. So with that, I'll stop and let my pals take over. Thank you.
+
+[01:42:42] Speaker R:
+  So, actually going to pause. Thank you so much, Michael. I failed to take a break. So at the risk of being anticlimactic with the timing here, I am going to put us in a 10-minute break and have us come back with the other presentations and questions for other presenters as well as yourself, Michael. So with that, thank you. We'll come back at 3:48 PM and pick up with the Q&A.
+
+[01:43:07] Speaker ]:
+  From there. All right.
+
+[01:56:54] Speaker R:
+  Looks like we have quorum. So we will take it back up here and we'll pass it over to— I believe City Attorney Adrienne Del Coto is next. Oh, I'm sorry.
+
+[01:57:18] Speaker [:
+  Great. Adrienne Del Cotto with the City Attorney's Office. Thank you for having me today. I was asked to come and speak on the city's legal role in relation to Home Forward. I drafted a memo, a legal memo, and emailed it to all of your inboxes today, this afternoon. Hopefully you've got it. I'm not sure if you had time to read it, so I thought I would just kind of go through speaking and highlight a few of the main points. Points that I think are worth noting, and then if you have questions, I'm happy to answer them during the Q&A. So the housing authority— housing authorities are created statutorily, and they're independent public bodies pursuant to state law. The city maintains some limited oversight over the housing authority, and that first First oversight authority is, as Michael mentioned in his presentation, the city must adopt a resolution to activate the housing authority. And it can choose in that resolution to form the commission structure, or council can act as the housing authority. And as Michael mentioned, in 1941, the City Council adopted a resolution activating the housing authority and establishing Home Forward. The City Council, after activation— let me just go back. After activation, the housing authority has the full authority statutorily to act as a housing authority. So state law outlines all the things a housing authority can do, and once City Council adopts the resolution and activates the housing authority, Home Forward in this case can act on all of that statutory authority.
+
+[01:59:05] Speaker R:
+  Authority.
+
+[01:59:06] Speaker [:
+  The City Council's primary role is to appoint Home Forward's commissioners pursuant to state law. Michael outlined that structure with the nominations, and that's pursuant to an IGA between Multnomah County and the City of Gresham and the City of Portland. The mayor maintains some authority as well, and that's the removal authority for commissioners. They can be Removed by the mayor for inefficiency or neglect of duty or misconduct in office. Removal requires notice and an opportunity to be heard. And next, council may at any time pass a resolution to transfer back the powers of the authority and to act as the housing authority. So that would just be switching to that other form of housing authority structure that's statutory.
+
+[02:00:00] Speaker _:
+  And upon that transfer, council could also vote to dissolve the housing authority. So once it's acting as the housing authority, it could also dissolve the housing authority. One other point to note is that Home Forward provides an audit to the City Council once a year, and that is also a statutory requirement. And I'm happy— I'm not sure if we're doing questions now or reserving for the Q&A time.
+
+[02:00:27] Speaker `:
+  Thank you so much. I think we're trying to ensure we have everyone get a chance to present first, which I know is a little challenging. Pass it over to our Portland Housing Bureau next.
+
+[02:00:42] Speaker a:
+  All right. Good afternoon, Chair Kanal and council members. I'm Kwesha Light. I'm the interim director of the Portland Housing Bureau, and I'm here to provide a high-level overview of how funding flows between the Portland Housing Bureau and Home Forward. So today I'll briefly explain the distinct roles of our two organizations, where our funding and responsibilities intersect, and how that partnership supports affordable housing throughout Portland. And the key point is that the relationship is not simply a one-way transfer of funding. PHB provides capital funding and long-term regulatory oversight, while Home Forward owns and operates housing and brings critical rental assistance resources into both its own properties and the broader PHB-funded portfolio. Next slide. So PHB's primary role is to assemble and invest public funding in the production and preservation of affordable housing. Our funding comes from several sources, including HUD, local tax increment finance, or TIF, and Portland Metro and housing bond funds. Then we award funding typically through competitive solicitations to nonprofit affordable housing owners and developers. And to date, PHB has invested approximately $470 million in Portland from the Portland and Metro bond funds alone. Home Forward is just one of the organizations eligible to receive those investments, and PHB generally provides this funding as project-level loans that help finance acquisition, construction, rehabilitation, or preservation. Once we invest in a property, PHB places long-term affordability requirements on the housing and provides ongoing regulatory and portfolio oversight. So in other words, the funding helps make the housing financially possible, and our agreements help ensure it remains affordable for the long term. Home Forward plays a different but complementary role. As the Public Housing Authority for Multnomah County, Home Forward owns, develops, and operates affordable rental housing. It's responsible for the day-to-day financial and physical operation of the properties it owns, including properties that have received PHB funding. Home Forward also administers rental assistance primarily funded by HUD and Multnomah County, and I'll discuss this in an upcoming slide. Next slide, please. So PHB has provided loans to Home Forward to create and preserve permanently affordable housing. As of 2025, Home Forward owned and operated more than 3,000 of the 19,000+ units regulated by PHB, which is about 17% of our portfolio. More than 750 of those units serve households at 30% of AMI or below, which are the most rent burdened and hardest to house. This is also the largest number of deeply affordable units operated by any owner in our portfolio. Home Forward also has 5 projects that are in pre-development, construction, and conversion, which are funded by Metro bonds and TIF. Now, and those 5 projects were initially awarded funds between 2021 and 2024.
+
+[02:03:50] Speaker b:
+  Thank you.
+
+[02:03:50] Speaker `:
+  Thank you. Thank you.
+
+[02:03:50] Speaker c:
+  Thank you.
+
+[02:03:51] Speaker a:
+  Next slide. The funding also flows in the other direction through rental assistance. Over the past 10 years, Home Forward has made more than 1,300 project-based vouchers available for PHB to allocate through our funding solicitations to Home Forward and other affordable housing owners. Altogether, nearly 2,800 households living in PHB-regulated properties receive either Home Forward tenant-based or project-based rental assistance. These vouchers are an important tool in stabilizing very low-income residents because residents are only paying 30% of their actual income, which allows an owner to then leverage the vouchers to carry more debt, thereby decreasing public funding needed. PHB also has an IGA with Home Forward for asset management services. Through that IGA, Home Forward asset manages just over 400 units at 3 sites, along with a vacant lot right now. For fiscal year 26-27, we approximate this IGA to be around $217,000. And like other nonprofit affordable housing providers, Home Forward may also apply for other grants that we offer. For instance, Home Forward received a Safety and Security Grant in fiscal year 25-26 for the Selwood Center. Next slide. I just want to close with this. It's something that Chair Avalos— I mean, that Councilor Avalos started with as she gave her report, because we want to ensure council understands that these funding relationships really matter a lot right now. Affordable housing providers are facing significant challenges, and those operating pressures are not decreasing. The rents that extremely low-income households can afford are often not enough to cover the full cost of operating and maintaining inclusionary housing. At the same time, insurance, utilities, labor, security, maintenance, and other operating expenses have increased far faster than the assumptions used when many of these properties were originally financed. Providers are also experiencing vacancies, unpaid rent, behavioral health and community safety challenges, property management capacity constraints, significant capital repair needs, and in some cases, senior loans that are reaching maturity. These pressures affect Home Forward and other housing providers across the entire PHB portfolio. And that's why the combination of capital funding, rental assistance, and sound property operations is so critical. And our goal is not simply to finance buildings, it's to keep those buildings financially stable, physically sound, and able to keep residents in Portland stably housed over the long term. Thank you. These same challenges are also connected to the work underway through the Mayor's Housing Strike Team, which you will hear about in a moment. And we can talk about that some more. Otherwise, that is the end of my presentation. Thank you.
+
+[02:06:47] Speaker `:
+  Thank you, Director Light, and I believe this is your first time with us at this committee, so thank you so much for being here.
+
+[02:06:54] Speaker d:
+  Thank you.
+
+[02:06:55] Speaker `:
+  Last but not least, we'll go to Director Brockerknapp of Portland Solutions.
+
+[02:06:59] Speaker e:
+  All right, thank you, Chair Connell, and I apologize, I'm running my own slides, so I'm going to be a little all over the place. Director Skyler Brockerknapp of Portland Solutions, and I'll be presenting with Director Light just on the housing strike team that the mayor set up. What it is, who participates, and what it's aiming to achieve. We'll run through these pretty quickly. So the Housing Strike Team is an incident command emergency management style meeting that began in early 2025 with a shelter group. We provided a graphic here just to help you understand the different components. It later expanded to include an affordable housing group, which has two components: the Tenant Safety Team and the Vacancy Reduction Team. The overriding goal of these groups is to ensure that the homeless can find appropriate housing. So we do this by maintaining a stable and effective shelter system, fostering stability and safety at affordable housing communities, and working through the challenges of filling the available rooms and maintaining residency. You've heard some of those examples already stated here today in presentations. The mayor formed the Shelter Strike Team shortly after assuming office in January of 2025. The Shelter Strike Team is spearheaded by Portland Solutions, but attendees include personnel from other bureaus and jurisdictions like PBOT and others. We used principles of the Incident Command System to organize the shelter group. Our first objective was to build 1,500 overnight shelter beds, which you all know about. The shelter group continues as a weekly touchpoint for priority projects with the mayor and his team, many that require careful coordination with other partners. So examples of projects include changes to the shelter system, campsite cleanup efforts, the reunification program, and managing the impact of derelict vessels and vehicles on the City of Portland. Like the entire strike team, we are data-driven and track metrics on a weekly or monthly basis. A few examples of such metrics are in the in the graphic that you see on the screen. The tenant safety meeting grew out of existing work by Portland Solutions PIMO office. We conducted outreach with affordable housing building managers, asked how we could help and what we could do to support them. Folks showed up in Problem Solver meetings and reached out to the city for support, so we developed relationships with those individuals and their management structures. This group is currently spearheaded by Portland Solutions and meets on a biweekly basis and focuses on key properties. You can see the map of these properties on the slide. It's not a bad list to be on. We see it as properties we want to support. Many of these operators and owners actually asked to be on this list to really get some resources and help from the City of Portland. We track public safety metrics on a monthly basis and plan action items around how we can help. So it's a pretty active table with a lot of internal personnel. So that includes fire, police, PHB, and others. Of note, we hosted a listening session with property managers to learn more about their successes and challenges and use these insights to drive our efforts forward. I'll now pass it over to Director Light.
+
+[02:09:56] Speaker a:
+  All right, so the third meeting within the Mayor's Housing Strike Team is the Vacancy Reduction Team, and this group is spearheaded by PHB, and we meet biweekly. Through this team, we're tracking vacancies across PHB-regulated properties and moving specific actions forward as they come up. Our goal is to reduce the vacancy rate across the portfolio at 2.5.4% by the end of the year. The chart on the slide is updated biweekly to help us track this goal and identify where additional attention may be needed. This group brings together housing providers, city staff, other city partners, county partners, anyone who can help us drive towards our objective and address the barriers that keep vacant units from being leased. The group also serves as a community of practice table where providers can share what is working, learn from one another, and help us identify practices that may be replicated across the portfolio. And one of the specific things that we will be doing next week, actually, is getting with providers, property managers, and doing a process mapping around the lease-up process so that we can really dig in and understand it better, understand where the challenges are, where there's an opportunity for the city to intervene and perhaps offer some assistance and resources, but also just to understand, as I'll go with what Lorraine said, some better practices that we can share with each other. But so the process mapping session is something that will be taking place next week. And I think that's it for us.
+
+[02:11:33] Speaker e:
+  Thank you.
+
+[02:11:33] Speaker `:
+  Thank you to all of our presenters. I appreciate all of you making the time. We do have, I believe, one person, maybe more now, Rebecca, if you could confirm, signed up in the public hearing portion?
+
+[02:11:48] Speaker f:
+  We do.
+
+[02:11:51] Speaker e:
+  We have one person. I'm just refreshing to make sure, but we had one person signed up and we remain at one.
+
+[02:11:57] Speaker `:
+  Okay, so we'll do that then, and then we'll get to the queue. I see everyone in the queue, and I appreciate your patience, colleagues. We'll just do one more and then we'll get to you. So if you could please call public testimony, Rebecca.
+
+[02:12:13] Speaker d:
+  David Straub.
+
+[02:12:18] Speaker g:
+  Good afternoon, councilors. My name is David Straub. I think we have an opportunity here to stop looking at disparate silos, which kind of seems to be part of the problem, and start to consider the fact that we need a pipeline, of which Home Forward is part of that, as well as the shelter services. Rather than building houses and building affordable housing, I think we should start building people. Merely putting people in shelters or affordable housing is not necessarily going to help them if they don't have the skills that they need to move beyond that. And they may not even know what those skills are, what they need, and we need to provide that guidance. And that's why, I mean, I've been here a couple times talking about behavioral wellness. To me, that's kind of the key, the missing aspect of all of this. Even things such as people who are missing rent and Home Forward. Is this person having problem making work? Do they have a problem showing up? Are they getting fired because of whatever? I mean, there's all kinds of little things that are happening, or maybe they're a single mom and they're not able to find babysitting services so they can get to their job. And what happens is that when we start building people, rather than looking at, well, how many rent assistance checks do we cut and how many housing units are we offering? Instead, we start to look at what kind of services are we offering these people so we can help them move forward?? Are we helping them get extra education? Are we helping ensure that they get to work each day? Are we ensuring that they're eating right and eating well? Are they getting a good night's sleep? Do they know what to do to do that? I rent a house. There are 4 rooms upstairs, and more or less indirectly, I'm doing behavioral wellness for all 4 of those people. I charge about $700 a month, so it's under what the pilot program is talking about. And a lot of my conversations with them are like, why are you smoking? That's a tax that you're paying each month. Why are you filling yourself up on energy drinks? Well, I'm not getting enough sleep. Why are you not getting enough sleep? Well, I'm sitting in my room all day, you know, building models because I'm getting, you know, SSI. Well, that's not good. And at the very least, it's kind of difficult because I'm the landlord and I'm not their like assigned person, which is something you can do with Home Forward. Meaning when someone's going, you know, at Home Forward, you can say, hey, look, as part of your you know, getting rent assistance and getting affordable housing, take 2 hours a week of some type of educational class. We'll give you a whole array of offerings, you know, how to not hoard, how to eat better, how to maintain your job, how to get along with difficult coworkers, how to better parent, whatever it is. Just other things that they could help them stay in affordable housing and more preferably so they can move beyond it. And that's one thing I really think we need to look at is not just the metrics of how many people we house, but how many people move out of housing into market-rate housing because they can afford more. Thank you for your time.
+
+[02:15:21] Speaker e:
+  That concludes testimony.
+
+[02:15:27] Speaker `:
+  Thank you, colleagues. We'll open up questions as well as discussion. We have Councilor Zimmerman followed by Councilor Pirtle-Guiney.
+
+[02:15:40] Speaker h:
+  Chair, I'm going to help you out, and I think you need to recognize Councilor Smith. She was in the queue. Oh, appreciate it.
+
+[02:15:47] Speaker `:
+  I thought I saw her in the queue, but seems to have disappeared. Oh, there it is. Okay, we'll go to Councilor Smith, then Councilor Zimmerman-Pirtle-Guiney.
+
+[02:15:53] Speaker c:
+  Thank you. Thank you, Mr. Chair. Director Light and Director Bonacar, could you come up, please? I just want to get some clarity. How are you? It's good to see you in this new role.
+
+[02:16:14] Speaker d:
+  Thank you, Councilor.
+
+[02:16:14] Speaker c:
+  Seems like déjà vu.
+
+[02:16:16] Speaker d:
+  It does.
+
+[02:16:17] Speaker c:
+  So can you clear up for me, the folks at the housing— I was going to say Housing Authority of Portland, but it is Home Forward. Are they city employees or federal employees?
+
+[02:16:36] Speaker d:
+  They are neither. They're purely employees of Home Forward.
+
+[02:16:41] Speaker c:
+  Are they on PERS or FERS?
+
+[02:16:42] Speaker d:
+  They're on PERS.
+
+[02:16:43] Speaker c:
+  Okay, that's what I needed to find out. But basically they follow the HUD rules, correct?
+
+[02:16:51] Speaker d:
+  Yes.
+
+[02:16:51] Speaker c:
+  And when the young lady talked about 1941, Home Forward was established— that wasn't Home Forward, that was the Housing Authority of Portland.
+
+[02:17:01] Speaker d:
+  Correct.
+
+[02:17:02] Speaker c:
+  Was established at that time. I wanted to find out which Home Forward properties are located in District 1 and which have the highest vacancy, safety, or deferred maintenance concerns.
+
+[02:17:19] Speaker d:
+  Well, we can certainly provide you all by district.
+
+[02:17:27] Speaker c:
+  Okay.
+
+[02:17:28] Speaker a:
+  Yeah.
+
+[02:17:28] Speaker c:
+  Yeah. And what I wanted to also find from Director Light, of the partnerships that we have with Home Forward, what is the target vacancy rate that you are striving for?
+
+[02:17:44] Speaker a:
+  Well, the vacancy rate that we're striving for is overall across the entire portfolio, so it's 5.4% across the entire portfolio. So it's not just for Home Forward, although I will say it has been coming down.
+
+[02:17:59] Speaker c:
+  Is that because we're dealing with some— we're cleaning up some deferred maintenance and they're able to be rented out?
+
+[02:18:07] Speaker d:
+  That's one aspect, yeah. I would say there are multiple components to it.
+
+[02:18:13] Speaker c:
+  And so the tenant safety team that tracks the 911 incidents per occupied unit, how is that data adjusted for the property size, the incident severity in the duplicate calls. Do you have to desegregate that data?
+
+[02:18:31] Speaker a:
+  I do know from the meetings that— I don't know if they're desegregating the data or all those things, but I can tell you just from the conversations, we do have the conversations around, you know, making sure when we're seeing the numbers really high, going back and understanding what is the nature of those calls. Like, sometimes we get— you get one person that's making 80% of the calls or something in a complex because there are other behavioral health issues going on. So I do know that they try to go in and Hank and team try to go in and clean up those things.
+
+[02:19:07] Speaker e:
+  Yeah.
+
+[02:19:07] Speaker c:
+  Okay. Okay. I was trying to figure out what that looks like.
+
+[02:19:12] Speaker e:
+  They do segregate it, Councilor, by call type. And yep, it's pretty— we can get you kind of that breakdown if you're interested.
+
+[02:19:18] Speaker c:
+  You could do that. And I'll send all of you these questions. I have one last question, Director Bonacourt. What is Home Forward's current unrestricted operating deficit? I saw two numbers in the paper, uh, today or yesterday, separate from the federal voucher payments and the restricted development funds. What are the unrestricted operating deficit that you have? Is it the $30 million, the $13 million? What, what does that look like? The—
+
+[02:19:48] Speaker d:
+  this the $30 million?
+
+[02:19:49] Speaker c:
+  It is the $30 million.
+
+[02:19:50] Speaker d:
+  That's right. Okay.
+
+[02:19:52] Speaker c:
+  Thank you.
+
+[02:19:53] Speaker d:
+  Thank you.
+
+[02:19:56] Speaker c:
+  Thank you.
+
+[02:19:56] Speaker `:
+  Thank you, Councilor Smith. Councilor Zimmerman, followed by Elana Pirtle-Guiney.
+
+[02:20:02] Speaker h:
+  Thanks. I appreciate, Michael, you being here. Um, I know that this presentation was framed, colleagues, with some other aspects and strike teams and, and whatnot in the system overall, but I think what brought us here was 6 months of really bad numbers and outcomes at Home Forward. So I don't want to lose the thread, and I'm not willing to engage in Portland polite to lose that thread. So I want to make sure that we keep in mind here that what got us to a position of everybody knowing the name Home Forward and what it does, or in this case what it wasn't doing, was hundreds, if not 1,000 vacant units that were vacant for 180 days on average. That was what was reported, and I never saw Home Forward dispute that. So that's what I'm working from. I find that incredibly challenging. I think every Portlander should, because we heard some information today about marketing teams, about leasing agents, but then the next presenter, the city has a strike team, which is about placements. And these things don't look very congruent to me. That marketing of a unit, if you're having struggles to get people in, I get that. But then we shouldn't have to have a strike team to figure out how to squeeze people into units. And that's kind of how I think of the strike team, was about a crisis of not being able to get into units. And so these things are out of touch with each other a bit in my mind. In some of the conversations I've had, I've learned about the role of investors in these affordable developed units. So I guess I really would like to get more to some of the brass tacks about what kept the units vacant that long. Why wasn't Home Forward aggressively lowering rents to get renters in? And then what has changed in the last 2 months, if anything has, to fix that wrong? And I say that— I want to say the reason I ask it this way is other landlords are reducing prices as the market changes to make sure they have some vacancy. Because if your mortgage is $1,000 and you can only get $900 in rent, That's better than feeding the mortgage an extra $1,000. You take the $900 and you're out the $100. That wasn't happening here as best I can tell, Mr. Bonacor, and I'd like to understand that a little bit because from a public entity perspective, I guess if Home Forward were to come to me as a city councilor and say we are at 100% occupied, but we are losing money because but everything's occupied, that's a much different conversation for me as a public funding agency, as a public official, about what is the good here. Do I do a— you know, are things like bailouts the words we would use? And sometimes bailout's not a terrible word here, but to not have that vacancy down to less than 4% and to have money issues is concerning. So I want to just kind of start there and get a sense for like what the hell was going on., and what is changing so that we can have a credible conversation going forward?
+
+[02:23:29] Speaker d:
+  Sure. Yeah. Thank you for the question, Councilor. I would say, as with many issues, this is multifaceted. So if I— I'll just sort of slice it into some parts and you tell me if I'm not hitting the mark. If you think back to the slide in which we sort of highlighted There being 8 downtown properties that sort of skewed, you know, the occupancy numbers. That helps tell, you know, help paint a picture that vacancy issues are not sort of uniform across the portfolio. And even some of what you all have heard around the issue of 60% rents being so close to market that it's hard to get folks into those. There are geographical dimensions to that where in some markets within Multnomah County, those occupancy levels are fine. So it really is an issue of sort of figuring out, in some cases property by property, and in some cases sort of like in geographic clusters, what are the issues that are really complicating things In the case of that urban core, there are some properties where we continue to struggle with really high vacancy rates where they were built as SROs. The rents are really low, and we and other affordable housing providers are still struggling to get folks who want to live, you know, in some ways we now, we have a legacy portfolio of something that may have been very attractive for a certain market of renters 20 years ago now is not viable. And the ability to sort of say, well, like, we'll add a bathroom so everybody has their own bathroom is its own, you know, sort of issue. So in some cases, you know, this idea of leasing agents and retention bonuses for property management companies. You know, there's sort of a set of interventions you can apply that are kind of like, we need to try harder here. We need to try harder everywhere. But in some cases, there are sort of these structural challenges that just at the end of the day, no matter what you do, you've still got an SRO in Old Town. And it's hard to find folks who want to live there. So again, I appreciate the question because it's hard in a few slides to sort of capture all of the ways that you have to think about what is within our control and how can we move those levers? And then at the systems level, what are we all kind of grappling with that, you know, is it regulatory relief? Is it bailouts, you know, at some sort of scale?
+
+[02:26:34] Speaker h:
+  And again, I think a lot of that makes some sense, but here's where the wrench is kind of thrown for me in that is that it doesn't seem logical given a lot of this other conversation that this dais has to have on the number of people who are sitting in our pod villages waiting for a unit. So an SRO may not be desirable, But at a certain price point, it sure as well is compared to a current situation. And we aren't talking about a Portland without a homeless population. We're talking about a Portland who has a homeless population. And so that's where I struggle with this, because this is— when we talk about a continuum, and I know about a decade ago this community kind of turned its back on SROs, I never did, because from a continuum perspective street to shelter to pod to SRO to apartment. You know, that is kind of what we talk about in terms of types of units available. And I have not felt like those who work in housing for the government have been able to logically have that conversation. And we are also deeply out of sync if an SRO— as if it's not desirable at the price point provider is trying to get, then you've got a market problem in terms of lower the price point, right? So I guess that's where I'm struggling to see is why is the public market not addressing that issue, and what is keeping prices at a point where we have vacancies instead of dropping for these less desirable apartments? And I think—
+
+[02:28:21] Speaker f:
+  Yeah.
+
+[02:28:21] Speaker h:
+  Less desirable apartment is something I think a lot of people can understand because that is relative to your own situation. But there is a point where price and availability and location all kind of convene, and I'm trying to— or converge, and I'm trying to understand that a little bit about are we being aggressive in that acknowledgment if our existence as an organization relied on making that rent?
+
+[02:28:49] Speaker d:
+  Yeah, and I may tap a friend to come help me if I struggle on this, but I think there are a couple of issues, and one is the brief presentation didn't touch on the issue of economic vacancy, but what we have throughout the portfolio, and I think every other affordable housing provider has, is I think we may have talked about it a little bit before, like the idea that we have empty apartments and then we have a lot of apartments that are not empty, but folks who can't afford to pay their rent. In the case of the SROs, those price points are very, very low. And at some point, there's the only translation to affordability is a subsidy. And we collectively, we Home Forward and we collectively don't have the subsidy that sort of says, let's help you out of this pod village into this apartment. Like, we can put a human being in there, but they don't have the money to pay the rent. And on a case-by-case basis, that could be fine, but at scale, it's just not sustainable.
+
+[02:30:01] Speaker h:
+  That is— so I'm going to keep going with that example. So I think that's kind of what I'm talking about with— when I think of publicly subsidized units, limits, if they were all full, my willingness to engage in a finance kind of conversation. And I think I'm going to look to my colleague right here because I've mentioned to other colleagues there's an aspect of the social housing here for those in our community who are never going to be self-sufficient enough that I really get. And I think this is part of it. This is where I think some of those policy ideas can come together. But getting them in the unit to me is a value. Right? That is important. I wouldn't love it, but I would understand it better if the report from Home Forward every year was, this is how many units were filled but with people who are not able to pay. And so the subsidy that we are requesting is this big to pay for those units. That is a more reasonable conversation, frankly, for me, than empty units. And you use the term economic vacancy, but I guess I'm just using the vacancy in the normal person version of like, it's just nobody's in there. I think that's what's so damning for Portlanders when they hear about these issues, is that a vacant, a publicly subsidized vacant building is one of those things that just people boil over at that idea. I want to shift a little bit just for sake of time here, and I've been on the website, I've tried to go through and try to understand as a renter, as a person looking for housing to do it. It's a challenge, I'll just say, and a lot of things are very out of date. I went to the safety side. I'm very disappointed there. I'll just tell you, because what I don't need to see on the Home Forward safety side is air quality or radon right now. The fire that's at our feet that we've heard a lot about is the behavior that's been allowed inside of Home Forward units that have then made neighbors say, boy, if the market is only a little bit more to not be in this building with these tenants, I'm leaving. And that largely seems ignored previously. And I want to give credit to— you are 2 months in and you are not ignoring it. But that is what— that is the lane you're swimming in right now. In fact, there's even something that says for eligibility, everybody has to pass a criminal background check. But then I hear you kind of aren't doing that, or that you don't really care what comes up in the criminal background check. So what is the point, and what is a safety standard, and what can a resident who is a member of a Home Forward community expect when it comes to safety, people who they live around, what Home Forward's role is there? Because I can't get it from your website. It's not meeting today's challenge. It's meeting some environmental stuff from wildfire eras. And so I really think that if Home Forward wants to be credible with the public, you've got to address the vacancy issue. But if you want to be credible with your own members, your own residents, you've got to really address a safety issue. And I see nothing about that.
+
+[02:33:19] Speaker a:
+  Thank you.
+
+[02:33:19] Speaker h:
+  Thank you.
+
+[02:33:20] Speaker c:
+  Thank you.
+
+[02:33:20] Speaker h:
+  Thank you.
+
+[02:33:20] Speaker `:
+  Thank you.
+
+[02:33:20] Speaker c:
+  Thank you.
+
+[02:33:22] Speaker h:
+  So what is the role of a criminal background check for a Home Forward resident?
+
+[02:33:26] Speaker d:
+  The role is largely the same as it is throughout the city. So we have a screening criteria process. In a number of cases, it is less stringent than the city's, but if we deferred to to the city's standard, you would get fundamentally the same outcome. So in some cases, for example, our lookback period might be 3 years and the city's is 5 years. So it's not a wildly divergent process from what the city in general applies.
+
+[02:34:06] Speaker h:
+  I would like to offer up maybe the rhetorical permission that if Home Forward needs support from the city council to reconsider its standards, its safety standards, its background check standards to make these places a better, safer, livable community, I am all ears because from reporting that I've heard, from the interactions, residents I've met with, it is a huge concern that I don't want to lose that thread because these are parallel tracks, the controversies of Home Forward, but really I'm talking about vacancies, and then the quality of life for Home Forward projects. Because I want to end on this. For these last several months, and I've asked you this question, I'm not sure that I'm in the camp right now that believes Home Forward should exist. I'm not sure that the organization is not broken to its core enough that it can actually recover. And so that's what I'm evaluating. I believe in a housing authority. I I do not believe that this model has worked or is working right now, and I'm questioning that. And the attorney briefed on a few options that we have here. And so what I'm trying to get a sense is, is the leadership, is the, I hope, fully new board coming in ready to take this by the reins and fix it, or do we need to kill it and reimagine it in a whole new era? So that's where I'm going to be listening to these questions, because that's— that these questions that I ask, but also what colleagues are going to ask, That's what's at the heart of my consideration, because the rest— the way that this conversation was framed up today about a system of affordable housing, etc., etc., I believe that's important. But I looked at Home Forward as our housing authority, as the credible agent and a communicator on these topics, and right now you're part of the problem. And I need Home Forward to be part of that solution before I can have the larger conversation about about how all of the system is fitting together, because I can't get past where we're at with Home Forward yet. So I appreciate you stepping into this role. I really do. I think that I told you from the very beginning I would support whatever heads need to roll that you think are appropriate, and I continue to say that, and that invitation stays wide open from my angle. Thank you.
+
+[02:36:30] Speaker `:
+  Thank you, Councilor Zimmerman. Councilor Pirtle-Guiney, followed by Councilor Green.
+
+[02:36:37] Speaker f:
+  Thank you, Chair. There was an interesting part of that last conversation with Councilor Zimmerman around SROs. I have been thinking a lot about the fact that an SRO looks to me pretty similar to our pod shelters in terms of what your living environment and your community are. And one model is free and one model you pay for in an older building. It does not surprise me that we're struggling to get folks into those buildings, and I think that looking at the cost is a really important piece of the puzzle. But I want to pick up on a different theme from that last conversation, and I'll start by saying that I found the introduction to this entire item interesting because there certainly are system-wide challenges in our affordable housing inclusionary housing system.
+
+[02:37:29] Speaker c:
+  Right.
+
+[02:37:30] Speaker f:
+  We've talked a lot about that narrow space between rent and income that has become even tighter and started to break down over the last few years, and about the increasing operation expenses, security needs, behavioral health acuity, maturing loans among them. More importantly, we've talked about the model on which these buildings are built to begin with, and the fact that it has never, in fact,, been a sustainable model for the long term. We need to address those issues. Council certainly began to attempt to address some of those issues by including funding to reduce debt and monthly costs and help fund unit turnover and rent buydowns and security costs, among other specific needs. And I am very hopeful that Home Forward will take advantage of that pot of money. And ensure that you can address some of the systemic needs within your buildings that way. But there is also a clear breakdown at Home Forward, which is separate from those systemic challenges. And so framing this just about systemic challenges, I think, is dishonest to Portlanders who are living in the properties that you own and manage and raising very real concerns to us. I start in this conversation from a place of believing that we in fact have a higher obligation to our residents in Home Forward properties because you are our Public Housing Authority. That when we say to a Portlander, here is a safe place for you to live, it is with our Public Housing housing authority. This is a place you can afford and you can be and you can be safe, that we have a high standard that comes with that. And I have not seen that standard from previous Home Forward leadership and from the organization over the last year and a half. This has not yet been explored. I had the opportunity to ask ask some of the system need questions in committee. So I don't want to repeat those today. And I really appreciate the answers that I received. I learned some notable things about the systemic challenges that we're facing and the need to build different housing types than we've invested in in the past, which is something that I've spoken to many times. Today, I truly have just one question for you, and I'll give it a bit of a preamble. There are 29 Home Forward properties, about 2,500 units in District 2. I hear repeatedly about safety concerns. I hear repeatedly about empty commercial spaces in buildings where tenants were promised on-site assets. This is a building where there will be things happening below. You'll have the ability to do some of your shopping right here. This is the type of of building that anybody in our community, whether reliant on some support to meet their rent needs or not, would want to live in. And those promises have gone unfulfilled. I have heard repeatedly about people who are in recovery being placed in buildings where there are known drug dealers in the building, where leadership, where the onsite property management know that people are dealing drugs out of their publicly owned buildings, and we are placing people there who are in recovery. And I have heard repeatedly about prostitution, not only in the buildings but in the common areas of Home Forward properties— properties, not just one— in my district. These are not systemic issues. These are far graver than the systemic issues that have been raised. So I hear you. There's money for a consultant and we're going to get a report. Interestingly, residents have been told there's not money to self-manage the properties, and we know that your self-managed properties have better outcomes— less drug dealing, less prostitution. My constituents cannot wait for a consultant report to have safe places to live. So I am wondering, what have you done and what will occur in the next 3 months to address drug dealing and prostitution in Home Forward-owned properties, to get tenants into the commercial spaces that are currently empty, and to implement the needed security upgrades, some of which council has provided funding for, in your buildings? I would like specifics.
+
+[02:42:18] Speaker d:
+  Sure, Councilor. First, I'll just say we had not sent you all the PowerPoint that I walked through, but I think it has since been received. So you all will have that. As you look back, just to clarify, the information that I provided is about Home Forward and not about systemic issues. Some of the issues that we're grappling with are, you know, sort of broader than just us. But I do think it's very important, to your point, that we are talking about our own accountability and, you know, what our specific issues are and what the steps are that we are taking. And so, you know, again, at a property-by-property basis, that can look different. I recently have walked both Louisa Flowers and Dawson Park and have seen and heard that at both of those properties, there are significant strides forward forward around these issues. And, you know, I think we have to continue to, you know, press on those issues and find every means that we can. And sometimes at an organizational level, we can direct resources at a property where it may not have— where the property itself may not have the resources. But at scale, you know, we really are depending on, you know, at the property level, the property's ability to fund security upgrades. So I think there are a number of elements that go into how we can address these issues. And in some cases, it's a fence. In some cases, it's round-the-clock security. We have a property not in your district, but in the In the Hollywood District, it's a tower building in which we have recently added 24-hour security, and that has made a significant difference. That price tag is about $1 million a year. So we do sometimes run into just fiscal realities about what is needed and what are the resources available. But at the same time, the point you made is correct, and we have to figure out whether it's our own resources or seeking support from the city or coordinating with public safety resources, how we are at a property-by-property level addressing those needs. In terms of the, you know, the tenant, the commercial spaces, we are working to find folks to lease them. It's really hard.
+
+[02:44:56] Speaker `:
+  It is.
+
+[02:44:56] Speaker d:
+  That's not a, you know, that's not an issue that's specific to Home Forward. These, and I think I think in some cases there are questions we all have to ask ourselves around what are the standards that we are defining for when we finance properties, and is ground floor commercial always the right thing to demand of new developments, right? And so in some cases, we're learning lessons that are hard to apply because we, you know, the commercial space has been built out and there have been efforts for years to find, you know, tenants to occupy them. And it's really important. Important because that ground floor activation helps with public safety and it helps with community engagement and, you know, the availability of resources for folks. So in short, what I'm saying is you're right that we have to take this seriously and treat these safety issues as issues that we have to take responsibility for as an organization.
+
+[02:46:02] Speaker f:
+  Have you asked for additional funding either from the city or the state to address some of these specific concerns?
+
+[02:46:09] Speaker d:
+  We have. We have recently— the city paid to install a fence at Dawson Park. The round of security and safety grants that were provided by PHB last year upgraded security at one of our high-rise properties. So we are sort of turning over the stones that we can find to do that work.
+
+[02:46:35] Speaker f:
+  And what work is being done with the property management companies that you contract with to ensure that they are meeting the standards that you have at your self-managed properties?
+
+[02:46:45] Speaker d:
+  Yeah, in some cases, that is a targeted changing of property management companies. In some cases, it is our staff sort of working alongside them to support, you know, the level of attention that the property needs. Sometimes that's a short-term intervention to stabilize things. You know, again, this is an issue for us to address, and it is also sort of like a community-level issue of there are not a lot of a lot of property management companies available for us to simply say, okay, this isn't working out, we'll go with this property management company. Like, they're all on rotation between the affordable housing providers in this community. And so in the case of we have folks who we have to work with, that means, you know, more engagement from our staff in terms of it may look like weekly calls, it may look like walking properties with those companies.
+
+[02:47:51] Speaker f:
+  And at what point is it just more affordable to self-manage more of those properties than to have to handhold outside vendors?
+
+[02:47:59] Speaker d:
+  Yeah, it is a question in active conversation. And part of the answer is it is meaningfully more expensive for us to do that on a property-by-property level. Sometimes it makes sense and we can figure out how to make that work financially. And it is significantly more expensive for Home Forward to do that.
+
+[02:48:22] Speaker f:
+  I'll point out that it may be more expensive because you are paying people better and therefore able to attract somebody who is more committed to the buildings they're in and going to stick around for longer.
+
+[02:48:33] Speaker d:
+  Absolutely.
+
+[02:48:34] Speaker f:
+  And sometimes there is a value in that.
+
+[02:48:35] Speaker d:
+  Absolutely.
+
+[02:48:36] Speaker `:
+  Yes.
+
+[02:48:37] Speaker d:
+  Thank you. Thank you.
+
+[02:48:39] Speaker `:
+  Thank you, Councilor Pirtle-Guiney. Councilor Green followed by Councilor Novick.
+
+[02:48:46] Speaker i:
+  Thank you. I'm going to try to be mindful of time, so I just want to sort of pick up a little bit on where Councilor Elana Pirtle-Guiney left it, and to a certain degree, Councilor Zimmerman left it as well. I do want to affirm that it's really important to do oversight. This is an oversight conversation, and I've been in the middle of some oversight conversations, so I just want to respect that. I was wondering middle of one last week. But I think I was careful even in the Urban Alchemy conversation to recognize that while UA has been the center of some media and the specific delivery of a specific service, they're also situated in a broader structural context. And so while we can— I think we should and we can have the conversation about teasing out the different parts of the problems that Home Forward faces,. It's only— we're only going to serve the public if we're able to draw sort of categories to say these are problems associated with poor governance or perhaps choices that didn't work out over time. And these over here are problems associated with structural macro problems. And that last piece, I don't want to get lost because we can, you know, We can address some of the livability, safety, the drug dealing. We can address all that stuff at Home Forward, and you will still be left with a balance sheet crisis at the end of the day. And that is a fact because every other provider is. I'm going to see if I can share my screen. I just want colleagues to understand, and I do have some questions, I promise. But my team— oh, someone else is sharing. I'm just going to click yes and try to take over. Here we go. What I'm sharing, if you guys can see it, is a chart that— and this comes from TMG Management, which is a, you know, rental property firm. And this data was, I think, current as of February or so. And what it shows you is generally CoStar-style data that says that that the vacancy rate for the entire United States, all of the United States, all markets, across all qualities of properties, rose pretty significantly through the pandemic period and then leveled off. And so if you look at Portland's experience, and in particular if you look at the Portland 4- and 5-star ratings, those are our luxury private market units, that is the highest vacancy rate. Okay, so, and our sort of kind of mid-tier and low-tier stuff has vacancy rates that are very similar to our affordable housing properties. The difference, though, is those firms can adjust, they can attract tenants. And so we're basically in a situation where there's a surplus of housing stock and there's a limited amount of ability to purchase the housing services. And so tenants have options. So we've already had some of that conversation. I only list this here because I think if we're going to talk about the persistent vacancy rate in the context of Home Forward, it's important that we don't lose the fact that there's multiple stories to explain the Home Forward problem. Okay, there is a pandemic-era story where costs rose faster than revenues. There is the public safety story as well. There is the untreated mental health death story. There is the very specific but very acute extreme weather event story at the Arts. That's in our district. There's a lot of units that were offline because those units were flooded. That wasn't about anyone doing drugs in a unit. That wasn't about market rents. So the point I'm trying to say here is that there's a whole lot going on here that has contributed to the crisis that we're in. And so it will take a systemic approach, even if we do need to have some pointed conversations around oversight and accountability with some specific choices that the board has allowed to happen. So just needed to name that, and I'll stop sharing that for now. But the 7 to— I think it's 7.9% or 7.3% unstabilized vacancy rate or stabilized vacancy rate in affordable housing sector is right in line with what other units units are experiencing. Okay, so I do have some questions though, and I'll try to keep it targeted here. I actually really want to go back to the question of what to expect with the appointments, because City Council, like, our oversight reach with Home Forward is through the confirmation of the mayor's proposed appointments. Appointments, right? It may go deeper if we choose to go a different direction, which is to sort of change who our housing authority is, and that's an interesting conversation that we may need to have. Don't want to do it right now, but I'd like to know— so we're gonna be faced with a bunch of a board replacement slate, right? And that board needs to in my view, that board needs to have a full holistic view of the problems facing Home Forward. So it's not just about responding to sensational reporting, and it's not just about the kind of strike team problem and focus. It is about understanding the full scope of issues, including the issues facing tenants. And so I think the first question I'll ask is what was the process— what has the process looked like for the appointment of Home Forward board seats? And I know that you're new in the role. For individuals that participate in one of Home Forward's programs in particular, I'm interested in that. So how does that look in the past? What were the selection criteria and so on and so forth? So how does that go?
+
+[02:54:57] Speaker d:
+  Sure, yeah, I'll answer the question by starting at the end, which is fully appreciate the fact that whatever came before, you know, this is a new council and a new form of government, and it will look different. And it has looked a variety of ways in the past. And so sometimes, depending on the jurisdiction, we'll alert them that there's a vacancy. They may or may not have someone sort of in the queue that they have in mind. And so we may Home Forward may propose that they consider a certain candidate. Other times they sort of say like, no, we've got someone waiting. In the past, it has ranged from Home Forward board appointments being on City Council consent agenda to folks coming and being present. Although I haven't seen a lot of sort of engagement in the way you just did with the utility board. So I think, you know, clearly in a new era and, you know, what it looks like going forward, I expect you all to sort of put your stamp on that.
+
+[02:56:12] Speaker i:
+  Thank you. So just kind of understanding that past context a little bit, what is the process for this current slate, the seats appointment, look like at this time?
+
+[02:56:26] Speaker d:
+  In the case of Gresham, we alerted them to the— well, they knew because they actually hired our former Gresham— one of our Gresham appointees to work at the City of Gresham, and employees of the appointing jurisdictions can't be on our board. And so, but there was a conversation about the fact that there was a vacancy. They had someone in the community they were interested in. It went to Gresham City Council for a vote, and that will be forwarded to us. In the case of, you know, the Portland slots, that is largely living with the mayor at this point to refer folks to City Council. There has been some, you know, connection to us in terms of candidates who were considered. Is there any reason we would flag a concern around them. But it really is— there are no sort of candidates that are coming before you that Home Forward has preferred or recommended.
+
+[02:57:32] Speaker i:
+  Thank you. Can you give us any insight on what the mayor has considered in determining his nominations? Like, what's his process been like? What kind of questions is he asking these people?
+
+[02:57:44] Speaker d:
+  I can't. I can't speak to that. I mean, there was a meeting with the mayor and the county chair and Commissioner Singleton in which there was some conversation around what sorts of backgrounds might be helpful for Home Forward, like legal background, finance background, real estate background, but nothing, you know, that the rest of that process really lives with the mayor. Okay.
+
+[02:58:11] Speaker i:
+  I'm just trying to get a sense of what is changing relative to our past practices. And are there— yeah, I think I'll leave it there for now.
+
+[02:58:27] Speaker d:
+  Sure. I mean, just to name it, I would say there's an overarching distrust of who might Home Forward recommend and that the nominating jurisdictions have to sort of find those candidates that feel like they're a match for what they believe is needed for oversight for Home Forward.
+
+[02:58:47] Speaker i:
+  All right. I think I may have more questions later, but I'll just make space for others for now. Thanks.
+
+[02:58:54] Speaker `:
+  Thank you, Councilor Green. Just real quick, for those who are waiting on Muriel 11, which is the next agenda item, I don't think it's— I think it's pretty obvious we're not going to get to it today. We have about 8 minutes left in this session, so I'll ask our remaining 3 folks in the queue to be discretionary with their time. Councilor Novick, followed by Murillo, followed by Ryan.
+
+[02:59:14] Speaker b:
+  Thank you, Mr. Chairman. And I will accept and in fact encourage really quick answers to my questions. But Councilor Smith alluded earlier to the fact that Home Forward had reported that it had a $13 million deficit, now apparently has a $30 million deficit. I just wanted you to quickly address, Ms. Bronacar, what steps are being taken to make sure that inaccurate information of that sort isn't released in the future.
+
+[02:59:40] Speaker d:
+  Thank you, Councilor. Yes, as I said, I recently brought in a new interim CFO. We are looking at our reporting frequency, what financial information is provided to our board, and therefore
+
+[03:00:00] Speaker j:
+  to the community. We are looking at all of our internal processes. So there's a review that's happening right now with me and the new CFO, and then, you know, implementing changes, you know, to make sure that that particular forecasting error doesn't happen again, and looking at our systems really critically. Errors can happen, but there's a high level of scrutiny that is needed to make sure that we're on better footing than we have been around that, and that work's underway.
+
+[03:00:37] Speaker k:
+  Like Councilor Elana Pirtle-Guiney, I was interested in your discussion of the SROs. I actually have constituents ask me on a regular basis, why can't we just go back to having SROs? And if people aren't going to SROs, that's important to know. So maybe this is going to be in your consultant's report, but What I would love to see is you said that there's different factors, different properties. What I would love to see is some sort of analysis of here's a property where the biggest factor is people just don't want to go there. Here's a property where the biggest factor is people can afford to go there. Here's a property where people perceive that it's unsafe because of structural problems with the building. Here's a property where people perceive that it's unsafe because of unfortunate activity by residents. And if that's the case, Is it possible to evict troublesome residents? And if not, why not? Do you think that— I mean, obviously there'll be multiple factors in multiple buildings, but do you think that it might be possible to take a shot at sort of teasing out some of the different factors and then just sort of benchmark by referring to non-homeless properties that have similar issues and see if your vacancy rates are any better or worse than those properties?
+
+[03:01:53] Speaker j:
+  I do think a portfolio-level analysis is called for. I'll look to our Director of Asset Management specifically about the analysis that you asked for. So I would say that kind of analysis is possible and important.
+
+[03:02:15] Speaker l:
+  Yeah.
+
+[03:02:15] Speaker k:
+  Thank you.
+
+[03:02:16] Speaker l:
+  Loretta Smith.
+
+[03:02:17] Speaker m:
+  Thank you, Councilor Novick. Councilor Murillo.
+
+[03:02:21] Speaker n:
+  Thank you, Council President. I'll be super quick. I want to kind of follow along with what Councilor Green had stated earlier and just say that I'm really going to be looking for the specificity around the recruitment stages and the criteria that was considered for these candidates. And I have a few questions that I'll just read very quickly that I would like answered by them when they come before us, just so we get more information from them. I would love to know which Home Forward programs these people have participated in and if they have any lived experience that would help sort of inform how they are approaching this work, if they are currently participating in any programs, and what they have seen has worked for them and what hasn't worked for them. I think that oftentimes some of the most important experience that we can ask for is people actually using our government services and giving us feedback on what's working or not working. We can hire a lot of consultants, and sometimes the best person to answer those questions is actually someone who's gone through these things. So those are the questions that I will be asking, and I'm hoping people will be able to get back to us with. Thank you so much for your presentation today. It's really helpful, and this is such an important issue for so many people in our community. So I appreciate your time.
+
+[03:03:41] Speaker j:
+  Thank you, Councilor.
+
+[03:03:43] Speaker m:
+  Thanks, Councilor Morillo. Councilor Ryan.
+
+[03:03:47] Speaker l:
+  Yes, thanks, Chair. I want to first thank Councilor Elana Pirtle-Guiney for your passionate testimony. It was like testimony and comments, and you and I have been in some of the same spaces hearing that, so I really appreciate that. And also Councilor Zimmerman for your theme of getting to accountability. So we don't have much time. Here it goes. Here's what I think. I think Home Forward does a bad job of screening. And I think your management is unwilling to enforce lease terms equally. That's what I think is happening right now with Home Forward based on what I've been listening to for the last few years. How has the reported board-approved changes to the lease standards from 2022 around criminal activity affected the livability and the vacancy of your properties?
+
+[03:04:32] Speaker j:
+  I'm not sure. I mean, I think there is analysis that would need to be done to really dig into that because there are a number of factors that influence those issues. For example, someone referenced the referral process to fill vacancies. So in some cases, we and other providers in the community have agreements that folks get referred into our housing, and sometimes those folks may have significant services needs and they have services that come with them, and sometimes they have significant services needs and those services don't come with them. And there's a, you know, so there's a who's sort of like walking in off the street and applying, and also like what are the processes that we have to help folks move from homelessness into housing, what are the considerations we're giving to what properties and what, you know, sort of like design and amenities and service supports are there. So I don't think it's necessarily as black and white as just the screening criteria, although it is a factor too.
+
+[03:05:56] Speaker l:
+  You did loosen it in 2022. Sorry? You loosened the criteria.
+
+[03:06:00] Speaker j:
+  We did change the screening criteria.
+
+[03:06:01] Speaker l:
+  Have you had serious conversations about considering changing it again?
+
+[03:06:05] Speaker j:
+  We are having conversations about that, yes. And again, if in the City of Portland, if we were to make changes, the default is the city's standard for screening criteria, for which we're not very far off.
+
+[03:06:19] Speaker l:
+  Okay, I'm glad that you're considering that because I think the reporting and what I've heard suggests that you need to. And Where are you in that process of reconsidering that, those decisions in 2022?
+
+[03:06:35] Speaker j:
+  Yeah, we are in the process of analyzing it.
+
+[03:06:42] Speaker l:
+  Okay. Yeah. I think there's two very broad— we all know there's 100 people, they're all different, but there's those who are just chronically need the assistance and elderly on fixed income, those who I've been hearing from the most who don't feel safe in their units, and those who are differently abled. And need long-term stability as well. The other one are those that we are many times are people who are economically disadvantaged temporarily, or they've been chronically homeless and they have, they've been suffering for some time. And I'm looking at you, Sky, because you understand this audience very well. In the Safe Rest Villages and the task sites, the whole idea of those was to provide a transition from chronic homelessness to get some stability when it comes to recovery, to get into the workforce. I was hoping they would earn units in places such as Home Forward if they're actually hooked into those services. So they come in to the units and they can be a part of that community and they can be additive. Those are the two types. I thought that the testimony we heard from David Straub was so smart because it said, can we please start focusing on outcomes rather than inputs? So when people come into Home Forward that maybe come, say, from a Safe Rest Village, that are currently in rehab, that are in workforce, What do you see as success for them? In other words, what David, I think, was getting at is having them stay there forever wouldn't be the idea of success. It would be for them to continue to keep improving their stability and get their life into a place and have enough agency to have their own apartment someday and not needing to take the public subsidies. Are you talking as a board, as leadership, about outcomes?
+
+[03:08:28] Speaker j:
+  We are, yes.
+
+[03:08:29] Speaker l:
+  When will we be able to see that as a council so we could see that type of those reports and that you're really focused on that type of strategic thinking as an organization? And will we have that accountability at the Housing Bureau with all of our public housing?
+
+[03:08:48] Speaker j:
+  Yeah, I mean, there's a lot of information that we can that we can provide and report on. And so, you know, if there's something in particular that you all want, we can see if we have it or can get it.
+
+[03:09:03] Speaker l:
+  But I want us to start seeing outcomes that show that how many people successfully move out of Home Forward because of their success. I want to see those that moved in and are still stable 3 years later. There's so many reports of people going in and out., and then that adds to this embarrassing vacancy rate that we currently have. That's unacceptable. And so I think that I couldn't really digest some of the legalese that we received prior to this meeting, but I think we all are just wanting to have more answers to such questions and start to see that we have some new, fresh accountability-type thinking. I think social housing sounds great, but if we can't figure out how to run the current public housing that we have. The current public housing that we have needs a major, major improvement. And if we don't start to see that soon, how are we going to start investing in social housing when we can't figure out current public housing that our city and our county have been working with the providers for some time?
+
+[03:10:12] Speaker j:
+  Well, I do think it is important to clarify, Councilor, that public housing is and other affordable housing providers are not simply housing folks who have low incomes anymore. It is the backstop of a behavioral health system that is almost nonexistent. And public housing will never succeed by itself.
+
+[03:10:33] Speaker l:
+  That's why it's a system, and that's a longer conversation.
+
+[03:10:36] Speaker j:
+  Sure. Yeah.
+
+[03:10:37] Speaker l:
+  And I think today we're just trying to get at what is Home Forward doing to clean things up. And I appreciate your vulnerability about the report that we just read about this afternoon. Thanks for getting in there and noticing I'm sure you're discovering how many shoes are dropping, and I've been in your shoes before. That's difficult. But this is just, I think, a taste, Chair, of what we need to have when it comes to dialogue with our system, when it comes to our system of affordable housing and public housing. And I think we wasted a lot of time getting to this meeting, so I'm glad that we're here today, and I appreciate it. I know that we're over time and we have a I have a night meeting that starts at 6:00, so I have people staring at me because I'm keeping them from dinner. Anyway, thank you.
+
+[03:11:21] Speaker j:
+  Thank you, Councilor.
+
+[03:11:22] Speaker m:
+  Thank you, Councilor Ryan. I know there's others who haven't had a chance to speak. We'll make sure when we continue this item in a moment that people are prioritized when we bring this back. One of the key things about our committee is often we're taking on big issues and have to accept non-closure as we work through this. I appreciate everybody being here. I certainly have a lot to say myself about this and my experience going to Louisa Flowers as well, and I'm looking forward to that at a later time. In the meantime, we do have another meeting of this committee next Thursday morning at 9:30 AM. That is the 23rd, and we are picking up with a full council meeting tonight at 6:00. So with that, I will wrap up this meeting at 5:06 PM. Thank you. And someone could tap the gavel.
+
+[03:12:05] Speaker l:
+  Thank you.
+
+[03:12:12] Speaker j:
+  Thank you.
+
+[03:12:12] Speaker n:
+  Thank you. Thank you. Thank you. Thank you.
+
+[03:12:12] Speaker m:
+  Thank you.
+
+[03:12:12] Speaker n:
+  Thank you.
