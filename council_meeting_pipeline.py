@@ -250,6 +250,7 @@ def build_prompt(
         title=video_metadata.get("title", "Portland City Council Meeting"),
         upload_date=video_metadata.get("upload_date", "Unknown"),
         duration_min=video_metadata.get("duration", 0) // 60,
+        video_url=f"https://www.youtube.com/watch?v={video_metadata.get('id', '')}",
         assemblyai_section=assemblyai_section,
         chapters_section=chapters_section,
         feedback_section=feedback_section,
