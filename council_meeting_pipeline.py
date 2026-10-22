@@ -270,10 +270,10 @@ def summarize_with_claude(prompt: str) -> str:
  
     message = client.messages.create(
         model=CLAUDE_MODEL,
-        max_tokens=4096,
+        max_tokens=16000,
         messages=[{"role": "user", "content": prompt}],
     )
-    return message.content[0].text
+        return "".join(b.text for b in message.content if b.type == "text")
  
  
 # ---------------------------------------------------------------------------
