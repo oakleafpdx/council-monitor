@@ -18,12 +18,37 @@ title: Portland City Council Monitor
 </div>
 
 <script>
+  const REPO = 'oakleafpdx/council-monitor';
+  const RAW = `https://raw.githubusercontent.com/${REPO}/main`;
+
+  // Pull the YouTube video ID out of a summary's "**Source:**" line.
+  async function getVideoId(fileName) {
+    try {
+      const r = await fetch(`${RAW}/summaries/${encodeURIComponent(fileName)}`);
+      if (!r.ok) return null;
+      const text = await r.text();
+      const src = text.match(/\*\*Source:\*\*\s*(\S+)/);
+      if (!src) return null;
+      const id = src[1].match(/(?:[?&]v=|\/live\/|youtu\.be\/)([\w-]{11})/);
+      return id ? id[1] : null;
+    } catch (e) {
+      return null;
+    }
+  }
+
   async function loadSummaries() {
     const container = document.getElementById('summaries-list');
     try {
-      const response = await fetch('https://api.github.com/repos/oakleafpdx/council-monitor/contents/summaries');
-      if (!response.ok) throw new Error('Failed to load');
-      const files = await response.json();
+      const [sumResp, trResp] = await Promise.all([
+        fetch(`https://api.github.com/repos/${REPO}/contents/summaries`),
+        fetch(`https://api.github.com/repos/${REPO}/contents/transcripts`)
+      ]);
+      if (!sumResp.ok) throw new Error('Failed to load');
+      const files = await sumResp.json();
+      const transcriptIds = new Set();
+      if (trResp.ok) {
+        (await trResp.json()).filter(f => f.type === 'dir').forEach(f => transcriptIds.add(f.name));
+      }
 
       const mdFiles = files
         .filter(f => f.name.endsWith('_summary.md'))
@@ -34,10 +59,13 @@ title: Portland City Council Monitor
         return;
       }
 
+      const videoIds = await Promise.all(mdFiles.map(f => getVideoId(f.name)));
+
+      const linkStyle = 'color: var(--oak-green); text-decoration: none; font-weight: 600;';
       let html = '';
       let currentMonth = '';
 
-      mdFiles.forEach(file => {
+      mdFiles.forEach((file, i) => {
         const dateMatch = file.name.match(/^(\d{4})-(\d{2})-(\d{2})_(.+)_summary\.md$/);
         if (!dateMatch) return;
 
@@ -57,11 +85,21 @@ title: Portland City Council Monitor
           currentMonth = monthKey;
         }
 
-        const ghUrl = `https://github.com/oakleafpdx/council-monitor/blob/main/summaries/${encodeURIComponent(file.name)}`;
+        const ghUrl = `https://github.com/${REPO}/blob/main/summaries/${encodeURIComponent(file.name)}`;
+        const vid = videoIds[i];
+        const links = [];
+        if (vid) {
+          links.push(`<a href="https://www.youtube.com/watch?v=${vid}" target="_blank" rel="noopener" style="${linkStyle}">Video</a>`);
+          if (transcriptIds.has(vid)) {
+            links.push(`<a href="https://github.com/${REPO}/blob/main/transcripts/${vid}/transcript.txt" target="_blank" rel="noopener" style="${linkStyle}">Transcript</a>`);
+          }
+        }
 
         html += `<div style="margin-bottom: 1.2rem; padding-left: 0.5rem;">`;
         html += `<a href="${ghUrl}" style="color: var(--oak-green); font-size: 1.05rem; text-decoration: none; font-weight: 600;">${title}</a>`;
-        html += `<div style="font-size: 0.88rem; color: var(--oak-text-secondary); margin-top: 0.15rem;">${dateStr}</div>`;
+        html += `<div style="font-size: 0.88rem; color: var(--oak-text-secondary); margin-top: 0.15rem;">${dateStr}`;
+        if (links.length) html += ` &nbsp;·&nbsp; ${links.join(' &nbsp;·&nbsp; ')}`;
+        html += `</div>`;
         html += `</div>`;
       });
 
