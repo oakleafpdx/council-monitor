@@ -3,6 +3,7 @@ MEETING INFORMATION:
 - Title: {title}
 - Date: {upload_date}
 - Duration: {duration_min} minutes
+- YouTube video: {video_url}
 {assemblyai_section}
 {chapters_section}
 {feedback_section}
