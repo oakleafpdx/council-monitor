@@ -21,7 +21,7 @@ import subprocess
 from datetime import datetime, timezone
 from pathlib import Path
  
-CLAUDE_MODEL = "claude-sonnet-4-20250514"
+CLAUDE_MODEL = "claude-sonnet-5-5"
 MAX_TRANSCRIPT_CHARS = 120_000
 SCRIPT_DIR = Path(__file__).parent
  
