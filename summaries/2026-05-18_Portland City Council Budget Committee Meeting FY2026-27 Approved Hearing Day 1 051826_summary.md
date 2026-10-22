@@ -3,6 +3,8 @@
 **Title:** Portland City Council Budget Committee Meeting: FY2026-27 Approved Hearing Day 1 05/18/26
 **Duration:** 374 minutes
 **Source:** https://www.youtube.com/watch?v=Aw7EFGKisao
+**Transcript:** https://oakleafpdx.github.io/council-monitor/transcript.html?id=Aw7EFGKisao
+**Read online:** https://oakleafpdx.github.io/council-monitor/summary.html?f=2026-05-18_Portland%20City%20Council%20Budget%20Committee%20Meeting%20FY2026-27%20Approved%20Hearing%20Day%201%20051826_summary.md
 **Transcription:** AssemblyAI (speaker diarization enabled)
 **Processed:** 2026-05-27 15:21 UTC
 

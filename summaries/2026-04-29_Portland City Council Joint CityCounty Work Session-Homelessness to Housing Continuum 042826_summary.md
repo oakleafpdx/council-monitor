@@ -3,6 +3,8 @@
 **Title:** Portland City Council Joint City/County Work Session-Homelessness to Housing Continuum 04/28/26
 **Duration:** 119 minutes
 **Source:** https://www.youtube.com/watch?v=ujiRnqDHWOk
+**Transcript:** https://oakleafpdx.github.io/council-monitor/transcript.html?id=ujiRnqDHWOk
+**Read online:** https://oakleafpdx.github.io/council-monitor/summary.html?f=2026-04-29_Portland%20City%20Council%20Joint%20CityCounty%20Work%20Session-Homelessness%20to%20Housing%20Continuum%20042826_summary.md
 **Transcription:** AssemblyAI (speaker diarization enabled)
 **Processed:** 2026-04-30 02:20 UTC
 

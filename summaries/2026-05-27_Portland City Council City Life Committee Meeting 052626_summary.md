@@ -3,6 +3,8 @@
 **Title:** Portland City Council City Life Committee Meeting 05/26/26
 **Duration:** 109 minutes
 **Source:** https://www.youtube.com/watch?v=-zfV404QhXI
+**Transcript:** https://oakleafpdx.github.io/council-monitor/transcript.html?id=-zfV404QhXI
+**Read online:** https://oakleafpdx.github.io/council-monitor/summary.html?f=2026-05-27_Portland%20City%20Council%20City%20Life%20Committee%20Meeting%20052626_summary.md
 **Transcription:** AssemblyAI (speaker diarization enabled)
 **Processed:** 2026-05-27 21:18 UTC
 

@@ -3,6 +3,8 @@
 **Title:** Portland City Council Climate, Resilience and Land Use Committee 03/12/26
 **Duration:** 124 minutes
 **Source:** https://www.youtube.com/watch?v=RV6ZXKHoCDs
+**Transcript:** https://oakleafpdx.github.io/council-monitor/transcript.html?id=RV6ZXKHoCDs
+**Read online:** https://oakleafpdx.github.io/council-monitor/summary.html?f=2026-03-13_Portland%20City%20Council%20Climate%2C%20Resilience%20and%20Land%20Use%20Committee%20031226_summary.md
 **Transcription:** AssemblyAI (speaker diarization enabled)
 **Processed:** 2026-03-13 16:02 UTC
  

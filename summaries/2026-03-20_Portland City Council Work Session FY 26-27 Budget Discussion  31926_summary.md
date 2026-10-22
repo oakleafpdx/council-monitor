@@ -3,6 +3,8 @@
 **Title:** Portland City Council Work Session FY 26-27 Budget Discussion  3/19/26
 **Duration:** 180 minutes
 **Source:** https://www.youtube.com/watch?v=T8Dgl4m_FrY
+**Transcript:** https://oakleafpdx.github.io/council-monitor/transcript.html?id=T8Dgl4m_FrY
+**Read online:** https://oakleafpdx.github.io/council-monitor/summary.html?f=2026-03-20_Portland%20City%20Council%20Work%20Session%20FY%2026-27%20Budget%20Discussion%20%2031926_summary.md
 **Transcription:** AssemblyAI (speaker diarization enabled)
 **Processed:** 2026-03-20 15:02 UTC
  

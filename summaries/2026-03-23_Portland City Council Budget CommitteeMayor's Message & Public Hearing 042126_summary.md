@@ -3,6 +3,8 @@
 **Title:** Portland City Council Budget Committee/Mayor's Message & Public Hearing 04/21/26
 **Duration:** 190 minutes
 **Source:** https://www.youtube.com/watch?v=wKJLoFbqx9s
+**Transcript:** https://oakleafpdx.github.io/council-monitor/transcript.html?id=wKJLoFbqx9s
+**Read online:** https://oakleafpdx.github.io/council-monitor/summary.html?f=2026-03-23_Portland%20City%20Council%20Budget%20CommitteeMayor%27s%20Message%20%26%20Public%20Hearing%20042126_summary.md
 **Transcription:** AssemblyAI (speaker diarization enabled)
 **Processed:** 2026-04-21 20:30 UTC
 

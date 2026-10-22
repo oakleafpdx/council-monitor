@@ -3,6 +3,8 @@
 **Title:** Portland City Council AM Session 5/27/26
 **Duration:** 253 minutes
 **Source:** https://www.youtube.com/watch?v=_yRb8maJZHs
+**Transcript:** https://oakleafpdx.github.io/council-monitor/transcript.html?id=_yRb8maJZHs
+**Read online:** https://oakleafpdx.github.io/council-monitor/summary.html?f=2026-05-27_Portland%20City%20Council%20AM%20Session%2052726_summary.md
 **Transcription:** AssemblyAI (speaker diarization enabled)
 **Processed:** 2026-05-27 21:40 UTC
 

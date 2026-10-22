@@ -3,6 +3,8 @@
 **Title:** Portland City Council Prosper Portland Budget Committee  4/21/26
 **Duration:** 152 minutes
 **Source:** https://www.youtube.com/watch?v=8HP3TY16VN4
+**Transcript:** https://oakleafpdx.github.io/council-monitor/transcript.html?id=8HP3TY16VN4
+**Read online:** https://oakleafpdx.github.io/council-monitor/summary.html?f=2026-04-22_Portland%20City%20Council%20Prosper%20Portland%20Budget%20Committee%20%2042126_summary.md
 **Transcription:** AssemblyAI (speaker diarization enabled)
 **Processed:** 2026-04-22 15:53 UTC
 

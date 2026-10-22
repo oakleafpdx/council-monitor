@@ -3,6 +3,8 @@
 **Title:** Portland City Council Housing & Permitting Committee 06/02/26
 **Duration:** 216 minutes
 **Source:** https://www.youtube.com/watch?v=bN_eKsMhgC0
+**Transcript:** https://oakleafpdx.github.io/council-monitor/transcript.html?id=bN_eKsMhgC0
+**Read online:** https://oakleafpdx.github.io/council-monitor/summary.html?f=2026-05-22_Portland%20City%20Council%20Housing%20%26%20Permitting%20Committee%20060226_summary.md
 **Transcription:** AssemblyAI (speaker diarization enabled)
 **Processed:** 2026-06-03 07:02 UTC
 

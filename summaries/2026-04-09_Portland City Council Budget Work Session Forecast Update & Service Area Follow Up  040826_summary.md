@@ -3,6 +3,8 @@
 **Title:** Portland City Council Budget Work Session Forecast Update & Service Area Follow Up  04/08/26
 **Duration:** 155 minutes
 **Source:** https://www.youtube.com/watch?v=qmOxoBMNhf4
+**Transcript:** https://oakleafpdx.github.io/council-monitor/transcript.html?id=qmOxoBMNhf4
+**Read online:** https://oakleafpdx.github.io/council-monitor/summary.html?f=2026-04-09_Portland%20City%20Council%20Budget%20Work%20Session%20Forecast%20Update%20%26%20Service%20Area%20Follow%20Up%20%20040826_summary.md
 **Transcription:** AssemblyAI (speaker diarization enabled)
 **Processed:** 2026-04-13 14:44 UTC
 

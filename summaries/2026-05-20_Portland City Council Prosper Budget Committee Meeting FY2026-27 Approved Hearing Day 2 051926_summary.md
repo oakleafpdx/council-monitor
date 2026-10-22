@@ -3,6 +3,8 @@
 **Title:** Portland City Council Prosper Budget Committee Meeting FY2026-27 Approved Hearing Day 2 05/19/26
 **Duration:** 514 minutes
 **Source:** https://www.youtube.com/watch?v=5186SASrc6I
+**Transcript:** https://oakleafpdx.github.io/council-monitor/transcript.html?id=5186SASrc6I
+**Read online:** https://oakleafpdx.github.io/council-monitor/summary.html?f=2026-05-20_Portland%20City%20Council%20Prosper%20Budget%20Committee%20Meeting%20FY2026-27%20Approved%20Hearing%20Day%202%20051926_summary.md
 **Transcription:** AssemblyAI (speaker diarization enabled)
 **Processed:** 2026-05-20 23:44 UTC
 

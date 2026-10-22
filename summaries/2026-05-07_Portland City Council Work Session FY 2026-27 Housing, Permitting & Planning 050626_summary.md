@@ -3,6 +3,8 @@
 **Title:** Portland City Council Work Session FY 2026-27 Housing, Permitting & Planning 05/06/26
 **Duration:** 174 minutes
 **Source:** https://www.youtube.com/watch?v=Jfp9DXgHmpg
+**Transcript:** https://oakleafpdx.github.io/council-monitor/transcript.html?id=Jfp9DXgHmpg
+**Read online:** https://oakleafpdx.github.io/council-monitor/summary.html?f=2026-05-07_Portland%20City%20Council%20Work%20Session%20FY%202026-27%20Housing%2C%20Permitting%20%26%20Planning%20050626_summary.md
 **Transcription:** AssemblyAI (speaker diarization enabled)
 **Processed:** 2026-05-07 16:35 UTC
 

@@ -3,6 +3,8 @@
 **Title:** Portland City Council PM Session 06/04/26
 **Duration:** 185 minutes
 **Source:** https://www.youtube.com/watch?v=7wl4OKQ2n58
+**Transcript:** https://oakleafpdx.github.io/council-monitor/transcript.html?id=7wl4OKQ2n58
+**Read online:** https://oakleafpdx.github.io/council-monitor/summary.html?f=2026-05-22_Portland%20City%20Council%20PM%20Session%20060426_summary.md
 **Transcription:** AssemblyAI (speaker diarization enabled)
 **Processed:** 2026-06-05 00:56 UTC
 
