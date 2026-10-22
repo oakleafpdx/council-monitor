@@ -273,7 +273,7 @@ def summarize_with_claude(prompt: str) -> str:
         max_tokens=16000,
         messages=[{"role": "user", "content": prompt}],
     )
-        return "".join(b.text for b in message.content if b.type == "text")
+    return "".join(b.text for b in message.content if b.type == "text")
  
  
 # ---------------------------------------------------------------------------
