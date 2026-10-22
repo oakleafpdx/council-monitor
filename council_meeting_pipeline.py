@@ -23,7 +23,7 @@ from pathlib import Path
 from urllib.parse import quote
  
 CLAUDE_MODEL = "claude-sonnet-5-5"
-MAX_TRANSCRIPT_CHARS = 120_000
+MAX_TRANSCRIPT_CHARS = 500_000
 SCRIPT_DIR = Path(__file__).parent
 PAGES_BASE = "https://oakleafpdx.github.io/council-monitor"
  
