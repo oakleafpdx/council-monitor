@@ -1,0 +1,82 @@
+---
+layout: default
+title: Meeting Transcript
+---
+<a href="{{ site.baseurl }}/" class="back-link">← All Summaries</a>
+
+<style>
+  .meta-bar { display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; align-items: center; padding: 0.9rem 1.1rem; margin-bottom: 1.5rem; background: white; border: 1px solid var(--oak-border); border-left: 4px solid var(--oak-gold); border-radius: 2px; font-size: 0.92rem; color: var(--oak-text-secondary); }
+  .meta-bar a { color: var(--oak-green); font-weight: 600; text-decoration: none; }
+  .meta-bar a:hover, .turn .ts:hover { text-decoration: underline; }
+  .note { font-size: 0.85rem; color: var(--oak-text-secondary); font-style: italic; margin-bottom: 1.5rem; }
+  .turn { margin-bottom: 1rem; overflow-wrap: anywhere; }
+  .turn-head { font-size: 0.88rem; margin-bottom: 0.1rem; }
+  .turn .ts { font-family: ui-monospace, Menlo, Consolas, monospace; color: var(--oak-green); text-decoration: none; margin-right: 0.5rem; }
+  .turn .spk { font-weight: 700; color: var(--oak-text); }
+  .turn p { margin: 0; }
+</style>
+
+<div id="meta" class="meta-bar" hidden></div>
+<p class="note">Machine transcript from AssemblyAI. Speakers are labeled by letter (Speaker A, B, …), not by name, and wording may contain errors. Timestamps link to that moment in the meeting video.</p>
+<div id="transcript-body"><p style="font-style: italic; color: var(--oak-text-secondary);">Loading transcript…</p></div>
+
+<script>
+  const REPO = 'oakleafpdx/council-monitor';
+  const RAW = `https://raw.githubusercontent.com/${REPO}/main`;
+
+  function tsToSeconds(ts) {
+    return ts.split(':').map(Number).reduce((acc, n) => acc * 60 + n, 0);
+  }
+  function esc(s) {
+    return s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  }
+
+  async function loadTranscript() {
+    const body = document.getElementById('transcript-body');
+    const id = new URLSearchParams(location.search).get('id');
+    if (!id || !/^[\w-]{11}$/.test(id)) {
+      body.innerHTML = '<p>No transcript selected. <a href="./">Back to all summaries</a></p>';
+      return;
+    }
+    const rawUrl = `${RAW}/transcripts/${id}/transcript.txt`;
+    const yt = `https://www.youtube.com/watch?v=${id}`;
+    try {
+      const [tr, mr] = await Promise.all([fetch(rawUrl), fetch(`${RAW}/transcripts/${id}/metadata.json`)]);
+      if (!tr.ok) throw new Error(tr.status);
+      const text = await tr.text();
+      let meta = {};
+      if (mr.ok) { try { meta = await mr.json(); } catch (e) {} }
+
+      // Blocks look like:  [00:02:34] Speaker A:\n  spoken text   (separated by blank lines)
+      let html = '', count = 0;
+      text.split(/\n\s*\n/).forEach(block => {
+        const m = block.trim().match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*([^:\n]+):\s*\n([\s\S]+)$/);
+        if (!m) return;
+        const [, ts, speaker, spoken] = m;
+        html += `<div class="turn"><div class="turn-head">` +
+          `<a class="ts" href="${yt}&t=${tsToSeconds(ts)}s" target="_blank" rel="noopener">${ts}</a>` +
+          `<span class="spk">${esc(speaker.trim())}</span></div>` +
+          `<p>${esc(spoken.trim().replace(/\s*\n\s*/g, ' '))}</p></div>`;
+        count++;
+      });
+      body.innerHTML = count ? html : `<pre style="white-space: pre-wrap;">${esc(text)}</pre>`;
+
+      const title = (meta.title || 'Meeting Transcript').replace(/\s{2,}/g, ' ').trim();
+      document.title = `${title} — Transcript — Portland City Council Monitor`;
+      const h1 = document.querySelector('header h1');
+      if (h1) h1.textContent = `${title} — Transcript`;
+
+      const bits = [];
+      if (meta.upload_date) bits.push(esc(meta.upload_date));
+      if (meta.duration) bits.push(`${Math.round(meta.duration / 60)} minutes`);
+      bits.push(`<a href="${yt}" target="_blank" rel="noopener">Watch video</a>`);
+      bits.push(`<a href="${rawUrl}" target="_blank" rel="noopener">Plain text</a>`);
+      const metaEl = document.getElementById('meta');
+      metaEl.innerHTML = bits.join('<span aria-hidden="true">·</span>');
+      metaEl.hidden = false;
+    } catch (err) {
+      body.innerHTML = `<p>Unable to load this transcript. <a href="https://github.com/${REPO}/tree/main/transcripts/${id}">View it on GitHub</a></p>`;
+    }
+  }
+  loadTranscript();
+</script>

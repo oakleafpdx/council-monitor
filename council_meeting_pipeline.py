@@ -20,10 +20,12 @@ import re
 import subprocess
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import quote
  
 CLAUDE_MODEL = "claude-sonnet-5-5"
 MAX_TRANSCRIPT_CHARS = 120_000
 SCRIPT_DIR = Path(__file__).parent
+PAGES_BASE = "https://oakleafpdx.github.io/council-monitor"
  
  
 # ---------------------------------------------------------------------------
@@ -525,6 +527,8 @@ def build_markdown_backup(doc: dict) -> str:
         f"**Title:** {doc['title']}\n"
         f"**Duration:** {doc['duration_min']} minutes\n"
         f"**Source:** {doc['youtube_url']}\n"
+        f"**Transcript:** {doc['transcript_url']}\n"
+        f"**Read online:** {doc['page_url']}\n"
         f"**Transcription:** {doc['transcription_method']}\n"
         f"**Processed:** {doc['processed_at']}\n\n"
         f"---\n\n"
@@ -549,6 +553,8 @@ def build_summary_doc(
         "upload_date": metadata.get("upload_date", "Unknown"),
         "duration_min": metadata.get("duration", 0) // 60,
         "youtube_url": youtube_url,
+        "transcript_url": f"{PAGES_BASE}/transcript.html?id={video_id}",
+        "page_url": "",  # filled in by save_and_upload once the filename is known
         "transcription_method": transcription_method,
         "processed_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
     }
@@ -571,6 +577,7 @@ def save_and_upload(doc: dict, video_id: str, date_str: str, metadata: dict) -> 
     print(f"  DOCX saved: {docx_path}")
  
     # --- Markdown backup for repo (keeps git history readable) ---
+    doc["page_url"] = f"{PAGES_BASE}/summary.html?f={quote(base_name + '.md')}"
     md_content = build_markdown_backup(doc)
     md_path = summary_dir / f"{base_name}.md"
     with open(md_path, "w", encoding="utf-8") as f:

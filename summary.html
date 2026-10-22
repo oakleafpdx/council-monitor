@@ -1,0 +1,94 @@
+---
+layout: default
+title: Meeting Summary
+---
+<a href="{{ site.baseurl }}/" class="back-link">← All Summaries</a>
+
+<style>
+  .meta-bar { display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; align-items: center; padding: 0.9rem 1.1rem; margin-bottom: 1.5rem; background: white; border: 1px solid var(--oak-border); border-left: 4px solid var(--oak-gold); border-radius: 2px; font-size: 0.92rem; color: var(--oak-text-secondary); }
+  .meta-bar a { color: var(--oak-green); font-weight: 600; text-decoration: none; }
+  .meta-bar a:hover, .ts:hover { text-decoration: underline; }
+  .ts { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 0.85em; color: var(--oak-green); text-decoration: none; white-space: nowrap; }
+  .disclaimer { font-size: 0.85rem; color: var(--oak-text-secondary); font-style: italic; margin-bottom: 1.5rem; }
+  #summary-body { overflow-wrap: anywhere; }
+  #summary-body table { border-collapse: collapse; margin: 1rem 0; font-size: 0.95rem; display: block; overflow-x: auto; }
+  #summary-body th, #summary-body td { border: 1px solid var(--oak-border); padding: 0.4rem 0.6rem; text-align: left; }
+</style>
+
+<div id="meta" class="meta-bar" hidden></div>
+<p class="disclaimer">AI-generated summary, not reviewed for accuracy. Timestamps link to that moment in the meeting video so quotes can be verified.</p>
+<div id="summary-body"><p style="font-style: italic; color: var(--oak-text-secondary);">Loading summary…</p></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.3.0/marked.min.js"></script>
+<script>
+  const REPO = 'oakleafpdx/council-monitor';
+  const RAW = `https://raw.githubusercontent.com/${REPO}/main`;
+
+  function tsToSeconds(ts) {
+    return ts.split(':').map(Number).reduce((acc, n) => acc * 60 + n, 0);
+  }
+  function esc(s) {
+    return s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  }
+
+  async function loadSummary() {
+    const body = document.getElementById('summary-body');
+    const file = new URLSearchParams(location.search).get('f');
+    if (!file || !/^[^/\\]+_summary\.md$/.test(file)) {
+      body.innerHTML = '<p>No summary selected. <a href="./">Back to all summaries</a></p>';
+      return;
+    }
+    const ghUrl = `https://github.com/${REPO}/blob/main/summaries/${encodeURIComponent(file)}`;
+    try {
+      const r = await fetch(`${RAW}/summaries/${encodeURIComponent(file)}`);
+      if (!r.ok) throw new Error(r.status);
+      let md = await r.text();
+
+      // Pull metadata from the pipeline's header block, then drop that block.
+      const field = name => { const m = md.match(new RegExp(`\\*\\*${name}:\\*\\*\\s*(.+)`)); return m ? m[1].trim() : ''; };
+      const title = field('Title');
+      const date = field('Date');
+      const duration = field('Duration');
+      const source = field('Source');
+      const idMatch = source.match(/(?:[?&]v=|\/live\/|youtu\.be\/)([\w-]{11})/);
+      const vid = idMatch ? idMatch[1] : null;
+      const parts = md.split(/\n---\n/);
+      if (parts.length > 1 && /^# Portland City Council Meeting Summary/.test(parts[0])) {
+        md = parts.slice(1).join('\n---\n');
+      }
+
+      if (vid) {
+        const yt = `https://www.youtube.com/watch?v=${vid}`;
+        // Make "[Meeting Video]" a real link.
+        md = md.replace(/\[Meeting Video\](?!\()/g, `[Meeting Video](${yt})`);
+        // Turn [hh:mm:ss] / [mm:ss] timestamps into links to that moment in the video.
+        md = md.replace(/\[(\d{1,2}:\d{2}(?::\d{2})?)\](?!\()/g, (m, ts) =>
+          `<a class="ts" href="${yt}&t=${tsToSeconds(ts)}s" target="_blank" rel="noopener">[${ts}]</a>`);
+      }
+
+      body.innerHTML = marked.parse(md);
+      body.querySelectorAll('a[href^="http"]').forEach(a => { a.target = '_blank'; a.rel = 'noopener'; });
+
+      const niceTitle = (title || file.replace(/^\d{4}-\d{2}-\d{2}_/, '').replace(/_summary\.md$/, ''))
+        .replace(/\s{2,}/g, ' ').trim();
+      document.title = `${niceTitle} — Portland City Council Monitor`;
+      const h1 = document.querySelector('header h1');
+      if (h1) h1.textContent = niceTitle;
+
+      const bits = [];
+      if (date) bits.push(esc(date));
+      if (duration) bits.push(esc(duration));
+      if (vid) {
+        bits.push(`<a href="https://www.youtube.com/watch?v=${vid}" target="_blank" rel="noopener">Watch video</a>`);
+        bits.push(`<a href="transcript.html?id=${encodeURIComponent(vid)}">Full transcript</a>`);
+      }
+      bits.push(`<a href="${ghUrl}" target="_blank" rel="noopener">View on GitHub</a>`);
+      const meta = document.getElementById('meta');
+      meta.innerHTML = bits.join('<span aria-hidden="true">·</span>');
+      meta.hidden = false;
+    } catch (err) {
+      body.innerHTML = `<p>Unable to load this summary. <a href="${ghUrl}">View it on GitHub</a></p>`;
+    }
+  }
+  loadSummary();
+</script>

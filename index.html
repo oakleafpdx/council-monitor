@@ -85,18 +85,18 @@ title: Portland City Council Monitor
           currentMonth = monthKey;
         }
 
-        const ghUrl = `https://github.com/${REPO}/blob/main/summaries/${encodeURIComponent(file.name)}`;
+        const pageUrl = `summary.html?f=${encodeURIComponent(file.name)}`;
         const vid = videoIds[i];
         const links = [];
         if (vid) {
           links.push(`<a href="https://www.youtube.com/watch?v=${vid}" target="_blank" rel="noopener" style="${linkStyle}">Video</a>`);
           if (transcriptIds.has(vid)) {
-            links.push(`<a href="https://github.com/${REPO}/blob/main/transcripts/${vid}/transcript.txt" target="_blank" rel="noopener" style="${linkStyle}">Transcript</a>`);
+            links.push(`<a href="transcript.html?id=${vid}" style="${linkStyle}">Transcript</a>`);
           }
         }
 
         html += `<div style="margin-bottom: 1.2rem; padding-left: 0.5rem;">`;
-        html += `<a href="${ghUrl}" style="color: var(--oak-green); font-size: 1.05rem; text-decoration: none; font-weight: 600;">${title}</a>`;
+        html += `<a href="${pageUrl}" style="color: var(--oak-green); font-size: 1.05rem; text-decoration: none; font-weight: 600;">${title}</a>`;
         html += `<div style="font-size: 0.88rem; color: var(--oak-text-secondary); margin-top: 0.15rem;">${dateStr}`;
         if (links.length) html += ` &nbsp;·&nbsp; ${links.join(' &nbsp;·&nbsp; ')}`;
         html += `</div>`;
